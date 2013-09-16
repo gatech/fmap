@@ -1,0 +1,61 @@
+<!--
+// HTTP Trace Capture
+// Author: Shauvik Roy Choudhary (shauvik@gatech.edu)
+// Some code re-used from the Open Source Live Headers extension sample
+// License: BSD style
+// Copyright (c) 2012 The Chromium Authors. All rights reserved.
+-->
+
+<html>
+<head>
+<style>
+body {
+  font-family: monospace;
+  word-wrap: break-word;
+}
+
+#container {
+  white-space: pre;
+}
+
+#menu {
+  border-bottom: 1px dotted;
+  padding: 10px;
+}
+
+.request {
+  border: 1px solid black;
+  margin-bottom: 10px;
+}
+
+.event {
+  border: 1px solid red;
+  margin-bottom: 10px;
+}
+
+.hidden {
+  display: none;
+}
+
+#output {
+  background-color: lightyellow;
+}
+
+</style>
+<script src="FileSaver.min.js"></script>
+<script src="headers.js"></script>
+</head>
+
+<body>
+<div id="output"></div>
+<div id="menu">
+  <b>Browser: </b>
+  <input type="radio" name="br" id="br_desktop" checked> Desktop 
+  <input type="radio" name="br" id="br_mobile"> iPhone
+  <input type="text" size="30" id="file_name" name="file_name" placeholder="usecase name">.json
+  <button id="save">Save</button>
+  <button id="clear">Clear</button>
+</div>
+<div id="container"></div>
+</body>
+</html>

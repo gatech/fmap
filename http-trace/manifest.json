@@ -1,0 +1,28 @@
+{
+  "name": "HTTP Trace Capture",
+  "description": "Displays and saves network traces of HTTP request/responses along with the MHTML of the loaded dynamic webpages.",
+  "icons": { "16": "icon.png",
+           "48": "icon48.png",
+          "128": "icon128.png" },
+  "version": "0.5.2",
+  "permissions": [
+    "tabs",
+    "debugger",
+    "webRequest",
+    "webRequestBlocking",
+    "browsingData",
+    "storage",
+    "unlimitedStorage",
+    "pageCapture",
+    "http://*/", "https://*/"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_title": "HTTP Trace Capture"
+  },
+  "manifest_version": 2
+}
+
