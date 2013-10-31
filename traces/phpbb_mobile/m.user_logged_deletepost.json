@@ -1,0 +1,166 @@
+[
+{
+"PAGEUPDATE": 1378603270335
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb_mobile",
+"details": "GET /phpbb_mobile HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET /phpbb_mobile/ HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb_mobile/styles/art_mobile/theme/style.css",
+"details": "GET /phpbb_mobile/styles/art_mobile/theme/style.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb_mobile/styles/art_mobile/template/mobile.js",
+"details": "GET /phpbb_mobile/styles/art_mobile/template/mobile.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb_mobile/styles/art_mobile/theme/images/menu_sprite.png",
+"details": "GET /phpbb_mobile/styles/art_mobile/theme/images/menu_sprite.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb_mobile/styles/art_mobile/theme/images/link_sprite.png",
+"details": "GET /phpbb_mobile/styles/art_mobile/theme/images/link_sprite.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"PAGEUPDATE": 1378603278909
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb_mobile/ucp.php?mode=login&sid=a26fe832cfa57558d7068aaaea8bdcad",
+"details": "POST /phpbb_mobile/ucp.php?mode=login&sid=a26fe832cfa57558d7068aaaea8bdcad HTTP/1.1","post_data": "username%3Dgfazzini%26password%3Dgfazzini%26login%3DLogin%26redirect%3D.%252Findex.php%253Fsid%253Da26fe832cfa57558d7068aaaea8bdcad",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb_mobile/styles/art_mobile/theme/style.css",
+"details": "GET /phpbb_mobile/styles/art_mobile/theme/style.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb_mobile/styles/art_mobile/template/mobile.js",
+"details": "GET /phpbb_mobile/styles/art_mobile/template/mobile.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"PAGEUPDATE": 1378603285738
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb_mobile/index.php?sid=6e86f1c0a12b5c5719c492ab5f5a0307",
+"details": "GET /phpbb_mobile/index.php?sid=6e86f1c0a12b5c5719c492ab5f5a0307 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb_mobile/styles/art_mobile/theme/style.css",
+"details": "GET /phpbb_mobile/styles/art_mobile/theme/style.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb_mobile/styles/art_mobile/template/mobile.js",
+"details": "GET /phpbb_mobile/styles/art_mobile/template/mobile.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"PAGEUPDATE": 1378603288962
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb_mobile/viewforum.php?f=2",
+"details": "GET /phpbb_mobile/viewforum.php?f=2 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb_mobile/styles/art_mobile/theme/style.css",
+"details": "GET /phpbb_mobile/styles/art_mobile/theme/style.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb_mobile/styles/art_mobile/template/mobile.js",
+"details": "GET /phpbb_mobile/styles/art_mobile/template/mobile.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"PAGEUPDATE": 1378603291002
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb_mobile/viewtopic.php?f=2&t=1",
+"details": "GET /phpbb_mobile/viewtopic.php?f=2&t=1 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb_mobile/styles/art_mobile/theme/style.css",
+"details": "GET /phpbb_mobile/styles/art_mobile/theme/style.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb_mobile/styles/art_mobile/template/mobile.js",
+"details": "GET /phpbb_mobile/styles/art_mobile/template/mobile.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb_mobile/styles/art_mobile/theme/images/menu_sprite.png",
+"details": "GET /phpbb_mobile/styles/art_mobile/theme/images/menu_sprite.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"PAGEUPDATE": 1378603294172
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb_mobile/posting.php?mode=delete&f=2&p=4",
+"details": "GET /phpbb_mobile/posting.php?mode=delete&f=2&p=4 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb_mobile/styles/art_mobile/theme/style.css",
+"details": "GET /phpbb_mobile/styles/art_mobile/theme/style.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb_mobile/styles/art_mobile/template/mobile.js",
+"details": "GET /phpbb_mobile/styles/art_mobile/template/mobile.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"PAGEUPDATE": 1378603298180
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb_mobile/posting.php?mode=delete&f=2&p=4&confirm_key=81M7M56JW1",
+"details": "POST /phpbb_mobile/posting.php?mode=delete&f=2&p=4&confirm_key=81M7M56JW1 HTTP/1.1","post_data": "p%3D4%26f%3D2%26mode%3Ddelete%26confirm_uid%3D54%26sess%3D6e86f1c0a12b5c5719c492ab5f5a0307%26sid%3D6e86f1c0a12b5c5719c492ab5f5a0307%26confirm%3DYes",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb_mobile/styles/art_mobile/theme/style.css",
+"details": "GET /phpbb_mobile/styles/art_mobile/theme/style.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb_mobile/styles/art_mobile/template/mobile.js",
+"details": "GET /phpbb_mobile/styles/art_mobile/template/mobile.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"PAGEUPDATE": 1378603301249
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb_mobile/viewtopic.php?f=2&t=1&p=1",
+"details": "GET /phpbb_mobile/viewtopic.php?f=2&t=1&p=1 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb_mobile/styles/art_mobile/theme/style.css",
+"details": "GET /phpbb_mobile/styles/art_mobile/theme/style.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb_mobile/styles/art_mobile/template/mobile.js",
+"details": "GET /phpbb_mobile/styles/art_mobile/template/mobile.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"PAGEUPDATE": 1378603304442
+}
+]

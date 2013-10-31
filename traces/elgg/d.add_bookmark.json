@@ -1,0 +1,373 @@
+[
+{
+"PAGEUPDATE": 1378652353243
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/",
+"details": "GET /elgg/ HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/ajax/view/js/languages?language=en&lc=1378606625",
+"details": "GET /elgg/ajax/view/js/languages?language=en&lc=1378606625 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/_graphics/header_shadow.png",
+"details": "GET /elgg/_graphics/header_shadow.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/_graphics/elgg_sprites.png",
+"details": "GET /elgg/_graphics/elgg_sprites.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/_graphics/sidebar_background.gif",
+"details": "GET /elgg/_graphics/sidebar_background.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"PAGEUPDATE": 1378652362902
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/action/login",
+"details": "POST /elgg/action/login HTTP/1.1","post_data": "__elgg_token%3Df37a371d625158570e2c6d94e841de93%26__elgg_ts%3D1378652355%26username%3Dtmitzzz%2540gmail.com%26password%3Dtanu164822",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /elgg/ HTTP/1.1",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /elgg/activity HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/js/lib/ui.river.js",
+"details": "GET /elgg/js/lib/ui.river.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/ajax/view/js/languages?language=en&lc=1378606625",
+"details": "GET /elgg/ajax/view/js/languages?language=en&lc=1378606625 HTTP/1.1",
+"RESPONSE": "304 Not Modified, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/_graphics/toptoolbar_background.gif",
+"details": "GET /elgg/_graphics/toptoolbar_background.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/_graphics/icons/user/defaultsmall.gif",
+"details": "GET /elgg/_graphics/icons/user/defaultsmall.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif",
+"details": "GET /elgg/_graphics/icons/user/defaultsmall.gif HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/mod/reportedcontent/graphics/icon_reportthis.gif",
+"details": "GET /elgg/mod/reportedcontent/graphics/icon_reportthis.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"PAGEUPDATE": 1378652370109
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/members",
+"details": "GET /elgg/members HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/ajax/view/js/languages?language=en&lc=1378606625",
+"details": "GET /elgg/ajax/view/js/languages?language=en&lc=1378606625 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1378652379315
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/profile/admin",
+"details": "GET /elgg/profile/admin HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/ajax/view/js/languages?language=en&lc=1378606625",
+"details": "GET /elgg/ajax/view/js/languages?language=en&lc=1378606625 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/_graphics/icons/user/defaultlarge.gif",
+"details": "GET /elgg/_graphics/icons/user/defaultlarge.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/_graphics/ajax_loader_bw.gif",
+"details": "GET /elgg/_graphics/ajax_loader_bw.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"PAGEUPDATE": 1378652382637
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/file/all",
+"details": "GET /elgg/file/all HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/ajax/view/js/languages?language=en&lc=1378606625",
+"details": "GET /elgg/ajax/view/js/languages?language=en&lc=1378606625 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1378652389151
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/bookmarks/all",
+"details": "GET /elgg/bookmarks/all HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/ajax/view/js/languages?language=en&lc=1378606625",
+"details": "GET /elgg/ajax/view/js/languages?language=en&lc=1378606625 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1378652391112
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/_graphics/button_background.gif",
+"details": "GET /elgg/_graphics/button_background.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif",
+"details": "GET /elgg/_graphics/button_background.gif HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/bookmarks/add/42",
+"details": "GET /elgg/bookmarks/add/42 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/ajax/view/js/languages?language=en&lc=1378606625",
+"details": "GET /elgg/ajax/view/js/languages?language=en&lc=1378606625 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1378652395983
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/themes/advanced/img/icons.gif",
+"details": "GET /elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/themes/advanced/img/icons.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/_graphics/button_graduation.png",
+"details": "GET /elgg/_graphics/button_graduation.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png",
+"details": "GET /elgg/_graphics/button_graduation.png HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/action/bookmarks/save",
+"details": "POST /elgg/action/bookmarks/save HTTP/1.1","post_data": "__elgg_token%3D2455ba3719bd4939dc565548621eba89%26__elgg_ts%3D1378652393%26title%3DNew%2BCommunity%2BBookmark%26address%3Dhttp%253A%252F%252Fgatech.edu%26description%3D%26tags%3D%26access_id%3D2%26container_guid%3D42",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /elgg/bookmarks/view/47/new-community-bookmark HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/cache/css/default/elgg.1378606625.css",
+"details": "GET /elgg/cache/css/default/elgg.1378606625.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /elgg/cache/css/default/elgg.1378606625.css HTTP/1.1",
+"details": "GET /elgg/cache/css/default/elgg.1378606625.css HTTP/1.1",
+"details": "GET /elgg/cache/css/default/elgg.1378606625.css HTTP/1.1",
+"details": "GET /elgg/cache/css/default/elgg.1378606625.css HTTP/1.1",
+"details": "GET /elgg/cache/css/default/elgg.1378606625.css HTTP/1.1",
+"details": "GET /elgg/cache/css/default/elgg.1378606625.css HTTP/1.1",
+"details": "GET /elgg/cache/css/default/elgg.1378606625.css HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/vendors/jquery/jquery-1.6.4.min.js",
+"details": "GET /elgg/vendors/jquery/jquery-1.6.4.min.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /elgg/vendors/jquery/jquery-1.6.4.min.js HTTP/1.1",
+"details": "GET /elgg/vendors/jquery/jquery-1.6.4.min.js HTTP/1.1",
+"details": "GET /elgg/vendors/jquery/jquery-1.6.4.min.js HTTP/1.1",
+"details": "GET /elgg/vendors/jquery/jquery-1.6.4.min.js HTTP/1.1",
+"details": "GET /elgg/vendors/jquery/jquery-1.6.4.min.js HTTP/1.1",
+"details": "GET /elgg/vendors/jquery/jquery-1.6.4.min.js HTTP/1.1",
+"details": "GET /elgg/vendors/jquery/jquery-1.6.4.min.js HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/vendors/jquery/jquery-ui-1.8.16.min.js",
+"details": "GET /elgg/vendors/jquery/jquery-ui-1.8.16.min.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /elgg/vendors/jquery/jquery-ui-1.8.16.min.js HTTP/1.1",
+"details": "GET /elgg/vendors/jquery/jquery-ui-1.8.16.min.js HTTP/1.1",
+"details": "GET /elgg/vendors/jquery/jquery-ui-1.8.16.min.js HTTP/1.1",
+"details": "GET /elgg/vendors/jquery/jquery-ui-1.8.16.min.js HTTP/1.1",
+"details": "GET /elgg/vendors/jquery/jquery-ui-1.8.16.min.js HTTP/1.1",
+"details": "GET /elgg/vendors/jquery/jquery-ui-1.8.16.min.js HTTP/1.1",
+"details": "GET /elgg/vendors/jquery/jquery-ui-1.8.16.min.js HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/cache/js/default/elgg.1378606625.js",
+"details": "GET /elgg/cache/js/default/elgg.1378606625.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript",
+"details": "GET /elgg/cache/js/default/elgg.1378606625.js HTTP/1.1",
+"details": "GET /elgg/cache/js/default/elgg.1378606625.js HTTP/1.1",
+"details": "GET /elgg/cache/js/default/elgg.1378606625.js HTTP/1.1",
+"details": "GET /elgg/cache/js/default/elgg.1378606625.js HTTP/1.1",
+"details": "GET /elgg/cache/js/default/elgg.1378606625.js HTTP/1.1",
+"details": "GET /elgg/cache/js/default/elgg.1378606625.js HTTP/1.1",
+"details": "GET /elgg/cache/js/default/elgg.1378606625.js HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/tiny_mce.js",
+"details": "GET /elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/tiny_mce.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/tiny_mce.js HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/cache/js/default/tinymce.1378606625.js",
+"details": "GET /elgg/cache/js/default/tinymce.1378606625.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript",
+"details": "GET /elgg/cache/js/default/tinymce.1378606625.js HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/ajax/view/js/languages?language=en&lc=1378606625",
+"details": "GET /elgg/ajax/view/js/languages?language=en&lc=1378606625 HTTP/1.1",
+"RESPONSE": "304 Not Modified, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/_graphics/elgg_toolbar_logo.gif",
+"details": "GET /elgg/_graphics/elgg_toolbar_logo.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif",
+"details": "GET /elgg/_graphics/elgg_toolbar_logo.gif HTTP/1.1",
+"details": "GET /elgg/_graphics/elgg_toolbar_logo.gif HTTP/1.1",
+"details": "GET /elgg/_graphics/elgg_toolbar_logo.gif HTTP/1.1",
+"details": "GET /elgg/_graphics/elgg_toolbar_logo.gif HTTP/1.1",
+"details": "GET /elgg/_graphics/elgg_toolbar_logo.gif HTTP/1.1",
+"details": "GET /elgg/_graphics/elgg_toolbar_logo.gif HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/_graphics/icons/user/defaulttopbar.gif",
+"details": "GET /elgg/_graphics/icons/user/defaulttopbar.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif",
+"details": "GET /elgg/_graphics/icons/user/defaulttopbar.gif HTTP/1.1",
+"details": "GET /elgg/_graphics/icons/user/defaulttopbar.gif HTTP/1.1",
+"details": "GET /elgg/_graphics/icons/user/defaulttopbar.gif HTTP/1.1",
+"details": "GET /elgg/_graphics/icons/user/defaulttopbar.gif HTTP/1.1",
+"details": "GET /elgg/_graphics/icons/user/defaulttopbar.gif HTTP/1.1",
+"details": "GET /elgg/_graphics/icons/user/defaulttopbar.gif HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/_graphics/spacer.gif",
+"details": "GET /elgg/_graphics/spacer.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif",
+"details": "GET /elgg/_graphics/spacer.gif HTTP/1.1",
+"details": "GET /elgg/_graphics/spacer.gif HTTP/1.1",
+"details": "GET /elgg/_graphics/spacer.gif HTTP/1.1",
+"details": "GET /elgg/_graphics/spacer.gif HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/_graphics/icons/user/defaulttiny.gif",
+"details": "GET /elgg/_graphics/icons/user/defaulttiny.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif",
+"details": "GET /elgg/_graphics/icons/user/defaulttiny.gif HTTP/1.1",
+"details": "GET /elgg/_graphics/icons/user/defaulttiny.gif HTTP/1.1",
+"details": "GET /elgg/_graphics/icons/user/defaulttiny.gif HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/_graphics/powered_by_elgg_badge_drk_bckgnd.gif",
+"details": "GET /elgg/_graphics/powered_by_elgg_badge_drk_bckgnd.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif",
+"details": "GET /elgg/_graphics/powered_by_elgg_badge_drk_bckgnd.gif HTTP/1.1",
+"details": "GET /elgg/_graphics/powered_by_elgg_badge_drk_bckgnd.gif HTTP/1.1",
+"details": "GET /elgg/_graphics/powered_by_elgg_badge_drk_bckgnd.gif HTTP/1.1",
+"details": "GET /elgg/_graphics/powered_by_elgg_badge_drk_bckgnd.gif HTTP/1.1",
+"details": "GET /elgg/_graphics/powered_by_elgg_badge_drk_bckgnd.gif HTTP/1.1",
+"details": "GET /elgg/_graphics/powered_by_elgg_badge_drk_bckgnd.gif HTTP/1.1",
+"details": "GET /elgg/_graphics/powered_by_elgg_badge_drk_bckgnd.gif HTTP/1.1"
+},
+{
+"PAGEUPDATE": 1378652424770
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/langs/en.js",
+"details": "GET /elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/langs/en.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/langs/en.js HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/themes/advanced/editor_template.js",
+"details": "GET /elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/themes/advanced/editor_template.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/themes/advanced/editor_template.js HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/plugins/lists/editor_plugin.js",
+"details": "GET /elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/plugins/lists/editor_plugin.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/plugins/lists/editor_plugin.js HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/plugins/spellchecker/editor_plugin.js",
+"details": "GET /elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/plugins/spellchecker/editor_plugin.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/plugins/spellchecker/editor_plugin.js HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/plugins/autosave/editor_plugin.js",
+"details": "GET /elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/plugins/autosave/editor_plugin.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/plugins/autosave/editor_plugin.js HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/plugins/fullscreen/editor_plugin.js",
+"details": "GET /elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/plugins/fullscreen/editor_plugin.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/plugins/fullscreen/editor_plugin.js HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/plugins/paste/editor_plugin.js",
+"details": "GET /elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/plugins/paste/editor_plugin.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/plugins/paste/editor_plugin.js HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/plugins/inlinepopups/editor_plugin.js",
+"details": "GET /elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/plugins/inlinepopups/editor_plugin.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/plugins/inlinepopups/editor_plugin.js HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/themes/advanced/langs/en.js",
+"details": "GET /elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/themes/advanced/langs/en.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/themes/advanced/langs/en.js HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/ui.css",
+"details": "GET /elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/ui.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/ui.css HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/window.css",
+"details": "GET /elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/window.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/window.css HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/content.css",
+"details": "GET /elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/content.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/content.css HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/plugins/spellchecker/css/content.css",
+"details": "GET /elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/plugins/spellchecker/css/content.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /elgg/mod/tinymce/vendor/tinymce/jscripts/tiny_mce/plugins/spellchecker/css/content.css HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/mod/tinymce/css/elgg_tinymce.css",
+"details": "GET /elgg/mod/tinymce/css/elgg_tinymce.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /elgg/mod/tinymce/css/elgg_tinymce.css HTTP/1.1"
+}
+]

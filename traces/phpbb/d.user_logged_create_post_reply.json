@@ -1,0 +1,909 @@
+[
+{
+"PAGEUPDATE": 1378431498550
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb",
+"details": "GET /phpbb HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET /phpbb/ HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/template/styleswitcher.js",
+"details": "GET /phpbb/styles/prosilver/template/styleswitcher.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/template/forum_fn.js",
+"details": "GET /phpbb/styles/prosilver/template/forum_fn.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/style.php?id=1&lang=en&sid=20d24920c1abf9af61b247d6c2f37939",
+"details": "GET /phpbb/style.php?id=1&lang=en&sid=20d24920c1abf9af61b247d6c2f37939 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/normal.css",
+"details": "GET /phpbb/styles/prosilver/theme/normal.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/imageset/site_logo.gif",
+"details": "GET /phpbb/styles/prosilver/imageset/site_logo.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/imageset/icon_topic_latest.gif",
+"details": "GET /phpbb/styles/prosilver/imageset/icon_topic_latest.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/print.css",
+"details": "GET /phpbb/styles/prosilver/theme/print.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/medium.css",
+"details": "GET /phpbb/styles/prosilver/theme/medium.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/large.css",
+"details": "GET /phpbb/styles/prosilver/theme/large.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/bg_header.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/bg_header.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/corners_left.png",
+"details": "GET /phpbb/styles/prosilver/theme/images/corners_left.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/corners_right.png",
+"details": "GET /phpbb/styles/prosilver/theme/images/corners_right.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/icon_textbox_search.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/icon_textbox_search.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/bg_button.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/bg_button.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/icon_home.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/icon_home.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/icon_fontsize.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/icon_fontsize.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/icon_faq.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/icon_faq.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/icon_register.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/icon_register.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/icon_logout.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/icon_logout.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/bg_list.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/bg_list.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/gradient.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/gradient.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/imageset/forum_read.gif",
+"details": "GET /phpbb/styles/prosilver/imageset/forum_read.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"PAGEUPDATE": 1378431521894
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/ucp.php?mode=login&sid=20d24920c1abf9af61b247d6c2f37939",
+"details": "GET /phpbb/ucp.php?mode=login&sid=20d24920c1abf9af61b247d6c2f37939 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/template/styleswitcher.js",
+"details": "GET /phpbb/styles/prosilver/template/styleswitcher.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/template/forum_fn.js",
+"details": "GET /phpbb/styles/prosilver/template/forum_fn.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/print.css",
+"details": "GET /phpbb/styles/prosilver/theme/print.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/style.php?id=1&lang=en",
+"details": "GET /phpbb/style.php?id=1&lang=en HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/normal.css",
+"details": "GET /phpbb/styles/prosilver/theme/normal.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/medium.css",
+"details": "GET /phpbb/styles/prosilver/theme/medium.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/large.css",
+"details": "GET /phpbb/styles/prosilver/theme/large.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/imageset/site_logo.gif",
+"details": "GET /phpbb/styles/prosilver/imageset/site_logo.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/bg_header.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/bg_header.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/corners_left.png",
+"details": "GET /phpbb/styles/prosilver/theme/images/corners_left.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/corners_right.png",
+"details": "GET /phpbb/styles/prosilver/theme/images/corners_right.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/icon_textbox_search.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/icon_textbox_search.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/bg_button.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/bg_button.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/icon_home.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/icon_home.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/icon_fontsize.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/icon_fontsize.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/icon_faq.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/icon_faq.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/icon_register.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/icon_register.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/icon_logout.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/icon_logout.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"PAGEUPDATE": 1378431529806
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/ucp.php?mode=login",
+"details": "POST /phpbb/ucp.php?mode=login HTTP/1.1","post_data": "username%3Dmfazzini%26password%3Dmfazzini%26redirect%3D.%252Fucp.php%253Fmode%253Dlogin%26sid%3D20d24920c1abf9af61b247d6c2f37939%26redirect%3Dindex.php%26login%3DLogin",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/template/styleswitcher.js",
+"details": "GET /phpbb/styles/prosilver/template/styleswitcher.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/template/forum_fn.js",
+"details": "GET /phpbb/styles/prosilver/template/forum_fn.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/print.css",
+"details": "GET /phpbb/styles/prosilver/theme/print.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/style.php?id=1&lang=en&sid=f9431d48c0a7a0f1820237bba71ded29",
+"details": "GET /phpbb/style.php?id=1&lang=en&sid=f9431d48c0a7a0f1820237bba71ded29 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/normal.css",
+"details": "GET /phpbb/styles/prosilver/theme/normal.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/medium.css",
+"details": "GET /phpbb/styles/prosilver/theme/medium.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/large.css",
+"details": "GET /phpbb/styles/prosilver/theme/large.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/imageset/site_logo.gif",
+"details": "GET /phpbb/styles/prosilver/imageset/site_logo.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/bg_header.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/bg_header.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/corners_left.png",
+"details": "GET /phpbb/styles/prosilver/theme/images/corners_left.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/corners_right.png",
+"details": "GET /phpbb/styles/prosilver/theme/images/corners_right.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/icon_textbox_search.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/icon_textbox_search.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/bg_button.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/bg_button.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/icon_home.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/icon_home.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/icon_fontsize.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/icon_fontsize.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/icon_ucp.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/icon_ucp.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/icon_faq.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/icon_faq.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/icon_members.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/icon_members.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/icon_logout.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/icon_logout.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"PAGEUPDATE": 1378431535003
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/index.php?sid=f9431d48c0a7a0f1820237bba71ded29",
+"details": "GET /phpbb/index.php?sid=f9431d48c0a7a0f1820237bba71ded29 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/template/styleswitcher.js",
+"details": "GET /phpbb/styles/prosilver/template/styleswitcher.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/template/forum_fn.js",
+"details": "GET /phpbb/styles/prosilver/template/forum_fn.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/print.css",
+"details": "GET /phpbb/styles/prosilver/theme/print.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/style.php?id=1&lang=en",
+"details": "GET /phpbb/style.php?id=1&lang=en HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/normal.css",
+"details": "GET /phpbb/styles/prosilver/theme/normal.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/medium.css",
+"details": "GET /phpbb/styles/prosilver/theme/medium.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/large.css",
+"details": "GET /phpbb/styles/prosilver/theme/large.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/imageset/site_logo.gif",
+"details": "GET /phpbb/styles/prosilver/imageset/site_logo.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/icon_ucp.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/icon_ucp.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/icon_members.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/icon_members.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/bg_list.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/bg_list.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/gradient.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/gradient.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/imageset/forum_read.gif",
+"details": "GET /phpbb/styles/prosilver/imageset/forum_read.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/imageset/icon_topic_latest.gif",
+"details": "GET /phpbb/styles/prosilver/imageset/icon_topic_latest.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"PAGEUPDATE": 1378431538207
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/viewforum.php?f=2",
+"details": "GET /phpbb/viewforum.php?f=2 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/template/styleswitcher.js",
+"details": "GET /phpbb/styles/prosilver/template/styleswitcher.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/template/forum_fn.js",
+"details": "GET /phpbb/styles/prosilver/template/forum_fn.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/print.css",
+"details": "GET /phpbb/styles/prosilver/theme/print.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/style.php?id=1&lang=en",
+"details": "GET /phpbb/style.php?id=1&lang=en HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/normal.css",
+"details": "GET /phpbb/styles/prosilver/theme/normal.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/medium.css",
+"details": "GET /phpbb/styles/prosilver/theme/medium.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/large.css",
+"details": "GET /phpbb/styles/prosilver/theme/large.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/imageset/site_logo.gif",
+"details": "GET /phpbb/styles/prosilver/imageset/site_logo.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/imageset/en/button_topic_new.gif",
+"details": "GET /phpbb/styles/prosilver/imageset/en/button_topic_new.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/bg_header.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/bg_header.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/imageset/topic_read.gif",
+"details": "GET /phpbb/styles/prosilver/imageset/topic_read.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/imageset/icon_topic_latest.gif",
+"details": "GET /phpbb/styles/prosilver/imageset/icon_topic_latest.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/arrow_left.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/arrow_left.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"PAGEUPDATE": 1378431541133
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/viewtopic.php?f=2&t=1",
+"details": "GET /phpbb/viewtopic.php?f=2&t=1 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/template/styleswitcher.js",
+"details": "GET /phpbb/styles/prosilver/template/styleswitcher.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/template/forum_fn.js",
+"details": "GET /phpbb/styles/prosilver/template/forum_fn.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/print.css",
+"details": "GET /phpbb/styles/prosilver/theme/print.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/style.php?id=1&lang=en",
+"details": "GET /phpbb/style.php?id=1&lang=en HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/normal.css",
+"details": "GET /phpbb/styles/prosilver/theme/normal.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/medium.css",
+"details": "GET /phpbb/styles/prosilver/theme/medium.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/large.css",
+"details": "GET /phpbb/styles/prosilver/theme/large.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/imageset/site_logo.gif",
+"details": "GET /phpbb/styles/prosilver/imageset/site_logo.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/icon_print.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/icon_print.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/imageset/en/button_topic_reply.gif",
+"details": "GET /phpbb/styles/prosilver/imageset/en/button_topic_reply.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/imageset/icon_post_report.gif",
+"details": "GET /phpbb/styles/prosilver/imageset/icon_post_report.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/imageset/en/icon_post_quote.gif",
+"details": "GET /phpbb/styles/prosilver/imageset/en/icon_post_quote.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/imageset/icon_post_target.gif",
+"details": "GET /phpbb/styles/prosilver/imageset/icon_post_target.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/imageset/icon_back_top.gif",
+"details": "GET /phpbb/styles/prosilver/imageset/icon_back_top.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/icon_bookmark.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/icon_bookmark.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"PAGEUPDATE": 1378431543286
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/posting.php?mode=reply&f=2&t=1",
+"details": "GET /phpbb/posting.php?mode=reply&f=2&t=1 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/template/styleswitcher.js",
+"details": "GET /phpbb/styles/prosilver/template/styleswitcher.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/template/forum_fn.js",
+"details": "GET /phpbb/styles/prosilver/template/forum_fn.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/print.css",
+"details": "GET /phpbb/styles/prosilver/theme/print.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/style.php?id=1&lang=en",
+"details": "GET /phpbb/style.php?id=1&lang=en HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/normal.css",
+"details": "GET /phpbb/styles/prosilver/theme/normal.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/medium.css",
+"details": "GET /phpbb/styles/prosilver/theme/medium.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/large.css",
+"details": "GET /phpbb/styles/prosilver/theme/large.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/imageset/site_logo.gif",
+"details": "GET /phpbb/styles/prosilver/imageset/site_logo.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/icons/misc/fire.gif",
+"details": "GET /phpbb/images/icons/misc/fire.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/icons/misc/star.gif",
+"details": "GET /phpbb/images/icons/misc/star.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/icons/misc/radioactive.gif",
+"details": "GET /phpbb/images/icons/misc/radioactive.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/icons/misc/heart.gif",
+"details": "GET /phpbb/images/icons/misc/heart.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/icons/misc/thinking.gif",
+"details": "GET /phpbb/images/icons/misc/thinking.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/icons/smile/question.gif",
+"details": "GET /phpbb/images/icons/smile/question.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/icons/smile/alert.gif",
+"details": "GET /phpbb/images/icons/smile/alert.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/icons/smile/info.gif",
+"details": "GET /phpbb/images/icons/smile/info.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/icons/smile/redface.gif",
+"details": "GET /phpbb/images/icons/smile/redface.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/icons/smile/mrgreen.gif",
+"details": "GET /phpbb/images/icons/smile/mrgreen.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/template/editor.js",
+"details": "GET /phpbb/styles/prosilver/template/editor.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/smilies/icon_e_biggrin.gif",
+"details": "GET /phpbb/images/smilies/icon_e_biggrin.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/smilies/icon_e_smile.gif",
+"details": "GET /phpbb/images/smilies/icon_e_smile.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/smilies/icon_e_wink.gif",
+"details": "GET /phpbb/images/smilies/icon_e_wink.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/smilies/icon_e_sad.gif",
+"details": "GET /phpbb/images/smilies/icon_e_sad.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/smilies/icon_e_surprised.gif",
+"details": "GET /phpbb/images/smilies/icon_e_surprised.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/smilies/icon_eek.gif",
+"details": "GET /phpbb/images/smilies/icon_eek.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/smilies/icon_e_confused.gif",
+"details": "GET /phpbb/images/smilies/icon_e_confused.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/smilies/icon_cool.gif",
+"details": "GET /phpbb/images/smilies/icon_cool.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/smilies/icon_lol.gif",
+"details": "GET /phpbb/images/smilies/icon_lol.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/smilies/icon_mad.gif",
+"details": "GET /phpbb/images/smilies/icon_mad.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/smilies/icon_razz.gif",
+"details": "GET /phpbb/images/smilies/icon_razz.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/smilies/icon_redface.gif",
+"details": "GET /phpbb/images/smilies/icon_redface.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/smilies/icon_cry.gif",
+"details": "GET /phpbb/images/smilies/icon_cry.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/smilies/icon_evil.gif",
+"details": "GET /phpbb/images/smilies/icon_evil.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/smilies/icon_twisted.gif",
+"details": "GET /phpbb/images/smilies/icon_twisted.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/smilies/icon_rolleyes.gif",
+"details": "GET /phpbb/images/smilies/icon_rolleyes.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/smilies/icon_exclaim.gif",
+"details": "GET /phpbb/images/smilies/icon_exclaim.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/smilies/icon_question.gif",
+"details": "GET /phpbb/images/smilies/icon_question.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/smilies/icon_idea.gif",
+"details": "GET /phpbb/images/smilies/icon_idea.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/smilies/icon_arrow.gif",
+"details": "GET /phpbb/images/smilies/icon_arrow.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/smilies/icon_neutral.gif",
+"details": "GET /phpbb/images/smilies/icon_neutral.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/smilies/icon_mrgreen.gif",
+"details": "GET /phpbb/images/smilies/icon_mrgreen.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/smilies/icon_e_geek.gif",
+"details": "GET /phpbb/images/smilies/icon_e_geek.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/smilies/icon_e_ugeek.gif",
+"details": "GET /phpbb/images/smilies/icon_e_ugeek.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/imageset/icon_post_target.gif",
+"details": "GET /phpbb/styles/prosilver/imageset/icon_post_target.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/images/spacer.gif",
+"details": "GET /phpbb/images/spacer.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/bg_tabs1.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/bg_tabs1.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/images/bg_tabs2.gif",
+"details": "GET /phpbb/styles/prosilver/theme/images/bg_tabs2.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/imageset/icon_back_top.gif",
+"details": "GET /phpbb/styles/prosilver/imageset/icon_back_top.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"PAGEUPDATE": 1378431554090
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/posting.php?mode=reply&f=2&t=1",
+"details": "POST /phpbb/posting.php?mode=reply&f=2&t=1 HTTP/1.1","post_data": "------WebKitFormBoundaryBPdoG130YxHeyXAw%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22icon%22%0D%0A%0D%0A0%0D%0A------WebKitFormBoundaryBPdoG130YxHeyXAw%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22subject%22%0D%0A%0D%0ARe%3A%20Welcome%20to%20phpBB3%0D%0A------WebKitFormBoundaryBPdoG130YxHeyXAw%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22addbbcode20%22%0D%0A%0D%0A100%0D%0A------WebKitFormBoundaryBPdoG130YxHeyXAw%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22message%22%0D%0A%0D%0AThis%20is%20my%20reply%0D%0A------WebKitFormBoundaryBPdoG130YxHeyXAw%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22topic_cur_post_id%22%0D%0A%0D%0A1%0D%0A------WebKitFormBoundaryBPdoG130YxHeyXAw%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22lastclick%22%0D%0A%0D%0A1378431553%0D%0A------WebKitFormBoundaryBPdoG130YxHeyXAw%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22post%22%0D%0A%0D%0ASubmit%0D%0A------WebKitFormBoundaryBPdoG130YxHeyXAw%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22attach_sig%22%0D%0A%0D%0Aon%0D%0A------WebKitFormBoundaryBPdoG130YxHeyXAw%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22creation_time%22%0D%0A%0D%0A1378431553%0D%0A------WebKitFormBoundaryBPdoG130YxHeyXAw%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22form_token%22%0D%0A%0D%0A8824905e9bb2b85c3c42e2091587f8a67348caa9%0D%0A------WebKitFormBoundaryBPdoG130YxHeyXAw%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22fileupload%22%3B%20filename%3D%22%22%0D%0AContent-Type%3A%20application%2Foctet-stream%0D%0A%0D%0A%0D%0A------WebKitFormBoundaryBPdoG130YxHeyXAw%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22filecomment%22%0D%0A%0D%0A%0D%0A------WebKitFormBoundaryBPdoG130YxHeyXAw--%0D%0A",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/template/styleswitcher.js",
+"details": "GET /phpbb/styles/prosilver/template/styleswitcher.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/template/forum_fn.js",
+"details": "GET /phpbb/styles/prosilver/template/forum_fn.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/print.css",
+"details": "GET /phpbb/styles/prosilver/theme/print.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/style.php?id=1&lang=en",
+"details": "GET /phpbb/style.php?id=1&lang=en HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/normal.css",
+"details": "GET /phpbb/styles/prosilver/theme/normal.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/medium.css",
+"details": "GET /phpbb/styles/prosilver/theme/medium.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/large.css",
+"details": "GET /phpbb/styles/prosilver/theme/large.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/imageset/site_logo.gif",
+"details": "GET /phpbb/styles/prosilver/imageset/site_logo.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"PAGEUPDATE": 1378431582921
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/viewtopic.php?f=2&t=1",
+"details": "GET /phpbb/viewtopic.php?f=2&t=1 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/template/styleswitcher.js",
+"details": "GET /phpbb/styles/prosilver/template/styleswitcher.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/template/forum_fn.js",
+"details": "GET /phpbb/styles/prosilver/template/forum_fn.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/print.css",
+"details": "GET /phpbb/styles/prosilver/theme/print.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/style.php?id=1&lang=en",
+"details": "GET /phpbb/style.php?id=1&lang=en HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/normal.css",
+"details": "GET /phpbb/styles/prosilver/theme/normal.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/medium.css",
+"details": "GET /phpbb/styles/prosilver/theme/medium.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/theme/large.css",
+"details": "GET /phpbb/styles/prosilver/theme/large.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/imageset/site_logo.gif",
+"details": "GET /phpbb/styles/prosilver/imageset/site_logo.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/phpbb/styles/prosilver/imageset/icon_post_target.gif",
+"details": "GET /phpbb/styles/prosilver/imageset/icon_post_target.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"PAGEUPDATE": 1378431593074
+}
+]

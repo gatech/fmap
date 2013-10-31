@@ -1,0 +1,182 @@
+[
+{
+"PAGEUPDATE": 1378090846973
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin",
+"details": "GET /wordpress/wp-admin HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET /wordpress/wp-admin/ HTTP/1.1",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /wordpress/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8080%2Fwordpress%2Fwp-admin%2F&reauth=1 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/css/wp-admin.min.css?ver=3.6",
+"details": "GET /wordpress/wp-admin/css/wp-admin.min.css?ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-includes/css/buttons.min.css?ver=3.6",
+"details": "GET /wordpress/wp-includes/css/buttons.min.css?ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/css/colors-fresh.min.css?ver=3.6",
+"details": "GET /wordpress/wp-admin/css/colors-fresh.min.css?ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/images/wordpress-logo.png?ver=20120216",
+"details": "GET /wordpress/wp-admin/images/wordpress-logo.png?ver=20120216 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"PAGEUPDATE": 1378090929300
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/",
+"details": "GET /wordpress/wp-admin/ HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load=admin-bar,wp-admin,buttons,wp-auth-check&ver=3.6",
+"details": "GET /wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load=admin-bar,wp-admin,buttons,wp-auth-check&ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-includes/js/thickbox/thickbox.css?ver=20121105",
+"details": "GET /wordpress/wp-includes/js/thickbox/thickbox.css?ver=20121105 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/css/colors-fresh.min.css?ver=3.6",
+"details": "GET /wordpress/wp-admin/css/colors-fresh.min.css?ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/load-scripts.php?c=1&load%5B%5D=jquery-core,jquery-migrate,utils,json2&ver=3.6",
+"details": "GET /wordpress/wp-admin/load-scripts.php?c=1&load%5B%5D=jquery-core,jquery-migrate,utils,json2&ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/images/menu-shadow.png",
+"details": "GET /wordpress/wp-admin/images/menu-shadow.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/images/menu.png?ver=20121105",
+"details": "GET /wordpress/wp-admin/images/menu.png?ver=20121105 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/images/arrows.png",
+"details": "GET /wordpress/wp-admin/images/arrows.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-includes/images/admin-bar-sprite.png?d=20120830",
+"details": "GET /wordpress/wp-includes/images/admin-bar-sprite.png?d=20120830 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/images/icons32.png?ver=20121105",
+"details": "GET /wordpress/wp-admin/images/icons32.png?ver=20121105 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/images/wpspin_light.gif",
+"details": "GET /wordpress/wp-admin/images/wpspin_light.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load=media-views&ver=3.6",
+"details": "GET /wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load=media-views&ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/load-scripts.php?c=1&load%5B%5D=hoverIntent,common,admin-bar,wp-ajax-response,jquery-color,wp-lists,quicktags,jquery-query,admin-comments,jquery-ui-core,jquery-&load%5B%5D=ui-widget,jquery-ui-mouse,jquery-ui-sortable,postbox,dashboard,customize-base,customize-loader,thickbox,plugin-install,underscor&load%5B%5D=e,shortcode,media-upload,heartbeat,wp-auth-check,backbone,wp-util,wp-backbone,media-models,plupload,plupload-html5,plupload-flas&load%5B%5D=h,plupload-silverlight,plupload-html4,wp-plupload,media-views,media-editor&ver=3.6",
+"details": "GET /wordpress/wp-admin/load-scripts.php?c=1&load%5B%5D=hoverIntent,common,admin-bar,wp-ajax-response,jquery-color,wp-lists,quicktags,jquery-query,admin-comments,jquery-ui-core,jquery-&load%5B%5D=ui-widget,jquery-ui-mouse,jquery-ui-sortable,postbox,dashboard,customize-base,customize-loader,thickbox,plugin-install,underscor&load%5B%5D=e,shortcode,media-upload,heartbeat,wp-auth-check,backbone,wp-util,wp-backbone,media-models,plupload,plupload-html5,plupload-flas&load%5B%5D=h,plupload-silverlight,plupload-html4,wp-plupload,media-views,media-editor&ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"REQUEST": "http://1.gravatar.com/avatar/734d2479783bbe2ccb57c1a0733a5f03?s=16&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D16&r=G",
+"details": "GET /avatar/734d2479783bbe2ccb57c1a0733a5f03?s=16&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D16&r=G HTTP/1.1",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /avatar/ad516503a11cd5ca435acc9bb6523536?s=16 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://1.gravatar.com/avatar/734d2479783bbe2ccb57c1a0733a5f03?s=64&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D64&r=G",
+"details": "GET /avatar/734d2479783bbe2ccb57c1a0733a5f03?s=64&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D64&r=G HTTP/1.1",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /avatar/ad516503a11cd5ca435acc9bb6523536?s=64 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-includes/js/thickbox/loadingAnimation.gif",
+"details": "GET /wordpress/wp-includes/js/thickbox/loadingAnimation.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"PAGEUPDATE": 1378090938182
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/themes.php",
+"details": "GET /wordpress/wp-admin/themes.php HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load=admin-bar,wp-admin,buttons,wp-auth-check&ver=3.6",
+"details": "GET /wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load=admin-bar,wp-admin,buttons,wp-auth-check&ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-includes/js/thickbox/thickbox.css?ver=20121105",
+"details": "GET /wordpress/wp-includes/js/thickbox/thickbox.css?ver=20121105 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/css/colors-fresh.min.css?ver=3.6",
+"details": "GET /wordpress/wp-admin/css/colors-fresh.min.css?ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/load-scripts.php?c=1&load%5B%5D=jquery-core,jquery-migrate,utils,json2&ver=3.6",
+"details": "GET /wordpress/wp-admin/load-scripts.php?c=1&load%5B%5D=jquery-core,jquery-migrate,utils,json2&ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"REQUEST": "http://1.gravatar.com/avatar/734d2479783bbe2ccb57c1a0733a5f03?s=16&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D16&r=G",
+"details": "GET /avatar/734d2479783bbe2ccb57c1a0733a5f03?s=16&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D16&r=G HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://1.gravatar.com/avatar/734d2479783bbe2ccb57c1a0733a5f03?s=64&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D64&r=G",
+"details": "GET /avatar/734d2479783bbe2ccb57c1a0733a5f03?s=64&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D64&r=G HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-content/themes/twentythirteen/screenshot.png",
+"details": "GET /wordpress/wp-content/themes/twentythirteen/screenshot.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-content/themes/twentytwelve/screenshot.png",
+"details": "GET /wordpress/wp-content/themes/twentytwelve/screenshot.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/load-scripts.php?c=1&load%5B%5D=hoverIntent,common,admin-bar,thickbox,theme,customize-base,customize-loader,heartbeat,wp-auth-check&ver=3.6",
+"details": "GET /wordpress/wp-admin/load-scripts.php?c=1&load%5B%5D=hoverIntent,common,admin-bar,thickbox,theme,customize-base,customize-loader,heartbeat,wp-auth-check&ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-includes/js/thickbox/loadingAnimation.gif",
+"details": "GET /wordpress/wp-includes/js/thickbox/loadingAnimation.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"PAGEUPDATE": 1378090940782
+}
+]

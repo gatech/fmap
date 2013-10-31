@@ -1,0 +1,270 @@
+[
+{
+"PAGEUPDATE": 1376466578742
+},
+{
+"REQUEST": "http://twitter.com/",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, ",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376466589829
+},
+{
+"REQUEST": "https://ssl.google-analytics.com/ga.js",
+"details": "GET /ga.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"PAGEUPDATE": 1376466626060
+},
+{
+"REQUEST": "https://twitter.com/signup",
+"details": "POST /signup HTTP/1.1","post_data": "user%255Bname%255D%3DArktos%26user%255Bemail%255D%3D1arktos%2540klaudr.com%26user%255Buser_password%255D%3Dbear44%26context%3D%26authenticity_token%3Db91f3021ed4da9d908b6c2f22aa7f88ca2c9fb54",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376466627230
+},
+{
+"REQUEST": "https://twitter.com/users/email_available?email=1arktos%40klaudr.com",
+"details": "GET /users/email_available?email=1arktos%40klaudr.com HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/users/username_available?context=signup&custom=0&email=1arktos%40klaudr.com&full_name=Arktos&suggest=1&suggest_on_username=true&username=Arktos9",
+"details": "GET /users/username_available?context=signup&custom=0&email=1arktos%40klaudr.com&full_name=Arktos&suggest=1&suggest_on_username=true&username=Arktos9 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/users/username_available?context=signup&custom=true&email=1arktos%40klaudr.com&full_name=Arktos&suggest=1&suggest_on_username=false&username=Arktos9",
+"details": "GET /users/username_available?context=signup&custom=true&email=1arktos%40klaudr.com&full_name=Arktos&suggest=1&suggest_on_username=false&username=Arktos9 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://ssl.google-analytics.com/ga.js",
+"details": "GET /ga.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"PAGEUPDATE": 1376466641006
+},
+{
+"REQUEST": "https://twitter.com/account/create",
+"details": "POST /account/create HTTP/1.1","post_data": "authenticity_token%3Db91f3021ed4da9d908b6c2f22aa7f88ca2c9fb54%26user%255Bname%255D%3DArktos%26user%255Bemail%255D%3D1arktos%2540klaudr.com%26user%255Buser_password%255D%3Dbear44%26user%255Bscreen_name%255D%3DArktos9%26user%255Bremember_me_on_signup%255D%3D1%26user%255Bremember_me_on_signup%255D%3D%26user%255Buse_cookie_personalization%255D%3D1%26asked_cookie_personalization_setting%3D1%26context%3D%26ad_id%3D%26ad_ref%3D%26user%255Bdiscoverable_by_email%255D%3D1%26user%255Bsend_email_newsletter%255D%3D1",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /welcome HTTP/1.1",
+"RESPONSE": "0 , ",
+"details": "GET /welcome HTTP/1.1",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /welcome/intro HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376466642362
+},
+{
+"REQUEST": "https://twitter.com/i/search/typeahead.json?count=1200&prefetch=true&result_type=users&users_cache_age=-1",
+"details": "GET /i/search/typeahead.json?count=1200&prefetch=true&result_type=users&users_cache_age=-1 HTTP/1.1",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "https://twitter.com/i/search/typeahead.json?count=500&prefetch=true&result_type=topics&topics_cache_age=-1",
+"details": "GET /i/search/typeahead.json?count=500&prefetch=true&result_type=topics&topics_cache_age=-1 HTTP/1.1",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "https://ssl.google-analytics.com/ga.js",
+"details": "GET /ga.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"PAGEUPDATE": 1376466645540
+},
+{
+"REQUEST": "https://twitter.com/welcome/recommendations",
+"details": "GET /welcome/recommendations HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"PAGEUPDATE": 1376466646722
+},
+{
+"REQUEST": "https://twitter.com/i/user/follow",
+"details": "POST /i/user/follow HTTP/1.1","post_data": "authenticity_token%3Dba18c46615c2e447e19c55297b5b3ef2c2ede0fb%26user_id%3D35094637",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/welcome/preview/tweet?userId=35094637",
+"details": "GET /welcome/preview/tweet?userId=35094637 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/i/user/follow",
+"details": "POST /i/user/follow HTTP/1.1","post_data": "authenticity_token%3Dba18c46615c2e447e19c55297b5b3ef2c2ede0fb%26user_id%3D15846407",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/welcome/preview/tweet?userId=15846407",
+"details": "GET /welcome/preview/tweet?userId=15846407 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/i/user/follow",
+"details": "POST /i/user/follow HTTP/1.1","post_data": "authenticity_token%3Dba18c46615c2e447e19c55297b5b3ef2c2ede0fb%26user_id%3D26565946",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/welcome/preview/tweet?userId=26565946",
+"details": "GET /welcome/preview/tweet?userId=26565946 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/i/user/follow",
+"details": "POST /i/user/follow HTTP/1.1","post_data": "authenticity_token%3Dba18c46615c2e447e19c55297b5b3ef2c2ede0fb%26user_id%3D181561712",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/welcome/preview/tweet?userId=181561712",
+"details": "GET /welcome/preview/tweet?userId=181561712 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/i/user/follow",
+"details": "POST /i/user/follow HTTP/1.1","post_data": "authenticity_token%3Dba18c46615c2e447e19c55297b5b3ef2c2ede0fb%26user_id%3D33990291",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/welcome/preview/tweet?userId=33990291",
+"details": "GET /welcome/preview/tweet?userId=33990291 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/welcome/interests",
+"details": "GET /welcome/interests HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"PAGEUPDATE": 1376466655388
+},
+{
+"REQUEST": "https://twitter.com/welcome/interests/music",
+"details": "GET /welcome/interests/music HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"PAGEUPDATE": 1376466662450
+},
+{
+"REQUEST": "https://twitter.com/i/user/follow",
+"details": "POST /i/user/follow HTTP/1.1","post_data": "authenticity_token%3Dba18c46615c2e447e19c55297b5b3ef2c2ede0fb%26user_id%3D79293791",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/welcome/preview/tweet?userId=79293791",
+"details": "GET /welcome/preview/tweet?userId=79293791 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/i/user/follow",
+"details": "POST /i/user/follow HTTP/1.1","post_data": "authenticity_token%3Dba18c46615c2e447e19c55297b5b3ef2c2ede0fb%26user_id%3D44409004",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/welcome/preview/tweet?userId=44409004",
+"details": "GET /welcome/preview/tweet?userId=44409004 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/i/user/follow",
+"details": "POST /i/user/follow HTTP/1.1","post_data": "authenticity_token%3Dba18c46615c2e447e19c55297b5b3ef2c2ede0fb%26user_id%3D21447363",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/welcome/preview/tweet?userId=21447363",
+"details": "GET /welcome/preview/tweet?userId=21447363 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/i/user/follow",
+"details": "POST /i/user/follow HTTP/1.1","post_data": "authenticity_token%3Dba18c46615c2e447e19c55297b5b3ef2c2ede0fb%26user_id%3D17919972",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/welcome/preview/tweet?userId=17919972",
+"details": "GET /welcome/preview/tweet?userId=17919972 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/i/user/follow",
+"details": "POST /i/user/follow HTTP/1.1","post_data": "authenticity_token%3Dba18c46615c2e447e19c55297b5b3ef2c2ede0fb%26user_id%3D27260086",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/welcome/preview/tweet?userId=27260086",
+"details": "GET /welcome/preview/tweet?userId=27260086 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/i/jot",
+"details": "POST /i/jot HTTP/1.1","post_data": "log%3D%255B%257B%2522internal_referer%2522%253Anull%252C%2522client_version%2522%253A%2522swift%2522%252C%2522user_id%2522%253A0%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522front%2522%252C%2522section%2522%253A%2522front%2522%252C%2522component%2522%253A%2522signup_callout%2522%252C%2522element%2522%253A%2522form%2522%252C%2522action%2522%253A%2522signup_click%2522%257D%252C%2522triggered_on%2522%253A1376466626047%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522swift%2522%252C%2522user_id%2522%253A0%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522signup%2522%252C%2522section%2522%253A%2522form%2522%252C%2522component%2522%253A%2522javascript%2522%252C%2522action%2522%253A%2522impression%2522%257D%252C%2522triggered_on%2522%253A1376466627267%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522swift%2522%252C%2522user_id%2522%253A0%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522signup%2522%252C%2522section%2522%253A%2522form%2522%252C%2522component%2522%253A%2522personalization%2522%252C%2522element%2522%253A%2522checkbox%2522%252C%2522action%2522%253A%2522on%2522%257D%252C%2522triggered_on%2522%253A1376466627306%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253Anull%252C%2522client_version%2522%253A%2522swift%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522welcome%2522%252C%2522section%2522%253A%2522intro%2522%252C%2522component%2522%253A%2522gallery%2522%252C%2522element%2522%253A%2522gallery%2522%252C%2522action%2522%253A%2522close%2522%257D%252C%2522triggered_on%2522%253A1376466642618%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253Anull%252C%2522client_version%2522%253A%2522swift%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522welcome%2522%252C%2522section%2522%253A%2522intro%2522%252C%2522action%2522%253A%2522complete%2522%257D%252C%2522triggered_on%2522%253A1376466645527%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253Anull%252C%2522client_version%2522%253A%2522swift%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522welcome%2522%252C%2522section%2522%253A%2522intro%2522%252C%2522component%2522%253A%2522progress%2522%252C%2522action%2522%253A%2522done%2522%257D%252C%2522triggered_on%2522%253A1376466645528%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252Fwelcome%252Fintro%2522%252C%2522client_version%2522%253A%2522swift%2522%252C%2522items%2522%253A%255B%257B%2522position%2522%253A0%252C%2522id%2522%253A%252235094637%2522%252C%2522item_type%2522%253A3%252C%2522token%2522%253A%252240%2522%257D%255D%252C%2522targets%2522%253A%255B%257B%2522id%2522%253A%252235094637%2522%252C%2522item_type%2522%253A3%257D%255D%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522welcome%2522%252C%2522section%2522%253A%2522recommendations%2522%252C%2522component%2522%253A%2522user%2522%252C%2522action%2522%253A%2522follow%2522%257D%252C%2522triggered_on%2522%253A1376466649743%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252Fwelcome%252Fintro%2522%252C%2522client_version%2522%253A%2522swift%2522%252C%2522items%2522%253A%255B%257B%2522position%2522%253A1%252C%2522id%2522%253A%252215846407%2522%252C%2522item_type%2522%253A3%252C%2522token%2522%253A%252242%2522%257D%255D%252C%2522targets%2522%253A%255B%257B%2522id%2522%253A%252215846407%2522%252C%2522item_type%2522%253A3%257D%255D%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522welcome%2522%252C%2522section%2522%253A%2522recommendations%2522%252C%2522component%2522%253A%2522user%2522%252C%2522action%2522%253A%2522follow%2522%257D%252C%2522triggered_on%2522%253A1376466650461%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252Fwelcome%252Fintro%2522%252C%2522client_version%2522%253A%2522swift%2522%252C%2522items%2522%253A%255B%257B%2522position%2522%253A2%252C%2522id%2522%253A%252226565946%2522%252C%2522item_type%2522%253A3%252C%2522token%2522%253A%252242%2522%257D%255D%252C%2522targets%2522%253A%255B%257B%2522id%2522%253A%252226565946%2522%252C%2522item_type%2522%253A3%257D%255D%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522welcome%2522%252C%2522section%2522%253A%2522recommendations%2522%252C%2522component%2522%253A%2522user%2522%252C%2522action%2522%253A%2522follow%2522%257D%252C%2522triggered_on%2522%253A1376466651197%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252Fwelcome%252Fintro%2522%252C%2522client_version%2522%253A%2522swift%2522%252C%2522items%2522%253A%255B%257B%2522position%2522%253A3%252C%2522id%2522%253A%2522181561712%2522%252C%2522item_type%2522%253A3%252C%2522token%2522%253A%252240%2522%257D%255D%252C%2522targets%2522%253A%255B%257B%2522id%2522%253A%2522181561712%2522%252C%2522item_type%2522%253A3%257D%255D%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522welcome%2522%252C%2522section%2522%253A%2522recommendations%2522%252C%2522component%2522%253A%2522user%2522%252C%2522action%2522%253A%2522follow%2522%257D%252C%2522triggered_on%2522%253A1376466651812%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252Fwelcome%252Fintro%2522%252C%2522client_version%2522%253A%2522swift%2522%252C%2522items%2522%253A%255B%257B%2522position%2522%253A4%252C%2522id%2522%253A%252233990291%2522%252C%2522item_type%2522%253A3%252C%2522token%2522%253A%2522117%2522%257D%255D%252C%2522targets%2522%253A%255B%257B%2522id%2522%253A%252233990291%2522%252C%2522item_type%2522%253A3%257D%255D%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522welcome%2522%252C%2522section%2522%253A%2522recommendations%2522%252C%2522component%2522%253A%2522user%2522%252C%2522action%2522%253A%2522follow%2522%257D%252C%2522triggered_on%2522%253A1376466653454%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252Fwelcome%252Fintro%2522%252C%2522client_version%2522%253A%2522swift%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522welcome%2522%252C%2522section%2522%253A%2522recommendations%2522%252C%2522action%2522%253A%2522complete%2522%257D%252C%2522triggered_on%2522%253A1376466654929%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252Fwelcome%252Fintro%2522%252C%2522client_version%2522%253A%2522swift%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522welcome%2522%252C%2522section%2522%253A%2522recommendations%2522%252C%2522component%2522%253A%2522progress%2522%252C%2522action%2522%253A%2522done%2522%257D%252C%2522triggered_on%2522%253A1376466654929%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252Fwelcome%252Frecommendations%2522%252C%2522client_version%2522%253A%2522swift%2522%252C%2522format_version%2522%253A2%252C%2522items%2522%253A%255B%257B%2522name%2522%253A%2522music%2522%252C%2522position%2522%253A0%257D%255D%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522welcome%2522%252C%2522section%2522%253A%2522interests%2522%252C%2522component%2522%253A%2522suggestion_category%2522%252C%2522action%2522%253A%2522click%2522%257D%252C%2522triggered_on%2522%253A1376466661415%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252Fwelcome%252Finterests%2522%252C%2522client_version%2522%253A%2522swift%2522%252C%2522items%2522%253A%255B%257B%2522position%2522%253A0%252C%2522id%2522%253A%252279293791%2522%252C%2522item_type%2522%253A3%257D%255D%252C%2522targets%2522%253A%255B%257B%2522id%2522%253A%252279293791%2522%252C%2522item_type%2522%253A3%257D%255D%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522welcome%2522%252C%2522section%2522%253A%2522category%2522%252C%2522component%2522%253A%2522user%2522%252C%2522action%2522%253A%2522follow%2522%257D%252C%2522triggered_on%2522%253A1376466664153%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252Fwelcome%252Finterests%2522%252C%2522client_version%2522%253A%2522swift%2522%252C%2522items%2522%253A%255B%257B%2522position%2522%253A1%252C%2522id%2522%253A%252244409004%2522%252C%2522item_type%2522%253A3%257D%255D%252C%2522targets%2522%253A%255B%257B%2522id%2522%253A%252244409004%2522%252C%2522item_type%2522%253A3%257D%255D%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522welcome%2522%252C%2522section%2522%253A%2522category%2522%252C%2522component%2522%253A%2522user%2522%252C%2522action%2522%253A%2522follow%2522%257D%252C%2522triggered_on%2522%253A1376466665413%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252Fwelcome%252Finterests%2522%252C%2522client_version%2522%253A%2522swift%2522%252C%2522items%2522%253A%255B%257B%2522position%2522%253A2%252C%2522id%2522%253A%252221447363%2522%252C%2522item_type%2522%253A3%257D%255D%252C%2522targets%2522%253A%255B%257B%2522id%2522%253A%252221447363%2522%252C%2522item_type%2522%253A3%257D%255D%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522welcome%2522%252C%2522section%2522%253A%2522category%2522%252C%2522component%2522%253A%2522user%2522%252C%2522action%2522%253A%2522follow%2522%257D%252C%2522triggered_on%2522%253A1376466666092%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252Fwelcome%252Finterests%2522%252C%2522client_version%2522%253A%2522swift%2522%252C%2522items%2522%253A%255B%257B%2522position%2522%253A3%252C%2522id%2522%253A%252217919972%2522%252C%2522item_type%2522%253A3%257D%255D%252C%2522targets%2522%253A%255B%257B%2522id%2522%253A%252217919972%2522%252C%2522item_type%2522%253A3%257D%255D%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522welcome%2522%252C%2522section%2522%253A%2522category%2522%252C%2522component%2522%253A%2522user%2522%252C%2522action%2522%253A%2522follow%2522%257D%252C%2522triggered_on%2522%253A1376466667025%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252Fwelcome%252Finterests%2522%252C%2522client_version%2522%253A%2522swift%2522%252C%2522items%2522%253A%255B%257B%2522position%2522%253A4%252C%2522id%2522%253A%252227260086%2522%252C%2522item_type%2522%253A3%257D%255D%252C%2522targets%2522%253A%255B%257B%2522id%2522%253A%252227260086%2522%252C%2522item_type%2522%253A3%257D%255D%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522welcome%2522%252C%2522section%2522%253A%2522category%2522%252C%2522component%2522%253A%2522user%2522%252C%2522action%2522%253A%2522follow%2522%257D%252C%2522triggered_on%2522%253A1376466667932%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252Fwelcome%252Finterests%2522%252C%2522client_version%2522%253A%2522swift%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522welcome%2522%252C%2522section%2522%253A%2522interests%2522%252C%2522action%2522%253A%2522complete%2522%257D%252C%2522triggered_on%2522%253A1376466669746%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252Fwelcome%252Finterests%2522%252C%2522client_version%2522%253A%2522swift%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522welcome%2522%252C%2522section%2522%253A%2522interests%2522%252C%2522component%2522%253A%2522progress%2522%252C%2522action%2522%253A%2522done%2522%257D%252C%2522triggered_on%2522%253A1376466669746%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%255D%26lang%3Den",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "https://twitter.com/welcome/import",
+"details": "GET /welcome/import HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"PAGEUPDATE": 1376466670055
+},
+{
+"REQUEST": "https://twitter.com/welcome/profile",
+"details": "GET /welcome/profile HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"PAGEUPDATE": 1376466673454
+},
+{
+"PAGEUPDATE": 1376466703449
+},
+{
+"PAGEUPDATE": 1376466716260
+},
+{
+"REQUEST": "https://twitter.com/",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "https://twitter.com/i/jot",
+"details": "POST /i/jot HTTP/1.1","post_data": "log%3D%255B%257B%2522internal_referer%2522%253A%2522%252Fwelcome%252Finterests%252Fmusic%2522%252C%2522client_version%2522%253A%2522swift%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522welcome%2522%252C%2522section%2522%253A%2522import%2522%252C%2522action%2522%253A%2522complete%2522%257D%252C%2522triggered_on%2522%253A1376466673029%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252Fwelcome%252Finterests%252Fmusic%2522%252C%2522client_version%2522%253A%2522swift%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522welcome%2522%252C%2522section%2522%253A%2522import%2522%252C%2522component%2522%253A%2522progress%2522%252C%2522action%2522%253A%2522skip%2522%257D%252C%2522triggered_on%2522%253A1376466673029%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252Fwelcome%252Fimport%2522%252C%2522client_version%2522%253A%2522swift%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522welcome%2522%252C%2522section%2522%253A%2522profile%2522%252C%2522action%2522%253A%2522complete%2522%257D%252C%2522triggered_on%2522%253A1376466703437%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252Fwelcome%252Fimport%2522%252C%2522client_version%2522%253A%2522swift%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522welcome%2522%252C%2522section%2522%253A%2522profile%2522%252C%2522component%2522%253A%2522progress%2522%252C%2522action%2522%253A%2522skip%2522%257D%252C%2522triggered_on%2522%253A1376466703438%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252Fwelcome%252Fimport%2522%252C%2522client_version%2522%253A%2522swift%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522welcome%2522%252C%2522section%2522%253A%2522finished%2522%252C%2522action%2522%253A%2522impression%2522%257D%252C%2522triggered_on%2522%253A1376466703438%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252Fwelcome%252Fimport%2522%252C%2522client_version%2522%253A%2522swift%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522welcome%2522%252C%2522section%2522%253A%2522profile%2522%252C%2522action%2522%253A%2522complete%2522%257D%252C%2522triggered_on%2522%253A1376466716248%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252Fwelcome%252Fimport%2522%252C%2522client_version%2522%253A%2522swift%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522welcome%2522%252C%2522section%2522%253A%2522profile%2522%252C%2522component%2522%253A%2522progress%2522%252C%2522action%2522%253A%2522skip%2522%257D%252C%2522triggered_on%2522%253A1376466716248%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252Fwelcome%252Fimport%2522%252C%2522client_version%2522%253A%2522swift%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522welcome%2522%252C%2522section%2522%253A%2522finished%2522%252C%2522action%2522%253A%2522impression%2522%257D%252C%2522triggered_on%2522%253A1376466716248%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%255D%26lang%3Den",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376466717107
+},
+{
+"REQUEST": "https://twitter.com/trends?k=3f1e9b3007&pc=true&src=module",
+"details": "GET /trends?k=3f1e9b3007&pc=true&src=module HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://ssl.google-analytics.com/ga.js",
+"details": "GET /ga.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/i/users/recommendations?connections=true&disabled=false&dismissable=true&display_location=wtf-component&excluded=&initialResults=true&limit=3&oldest_unread_id=0&pc=true&scribeContext%5Bcomponent%5D=user_recommendations",
+"details": "GET /i/users/recommendations?connections=true&disabled=false&dismissable=true&display_location=wtf-component&excluded=&initialResults=true&limit=3&oldest_unread_id=0&pc=true&scribeContext%5Bcomponent%5D=user_recommendations HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/i/resolve.json?urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2Fc-9masydid%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2Fc-57ydSdu9%2F&urls%5B%5D=http%3A%2F%2Fow.ly%2FnU5sW&urls%5B%5D=http%3A%2F%2Fow.ly%2FnTXTz&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2Fc-MtQKgvol%2F&urls%5B%5D=http%3A%2F%2Fon.vh1.com%2F18sgnZa&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2Fc9wtBoBM5S%2F",
+"details": "GET /i/resolve.json?urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2Fc-9masydid%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2Fc-57ydSdu9%2F&urls%5B%5D=http%3A%2F%2Fow.ly%2FnU5sW&urls%5B%5D=http%3A%2F%2Fow.ly%2FnTXTz&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2Fc-MtQKgvol%2F&urls%5B%5D=http%3A%2F%2Fon.vh1.com%2F18sgnZa&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2Fc9wtBoBM5S%2F HTTP/1.1",
+"RESPONSE": "200 OK, application/json"
+}
+]

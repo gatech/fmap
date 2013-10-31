@@ -1,0 +1,640 @@
+[
+{
+"PAGEUPDATE": 1376459986757
+},
+{
+"REQUEST": "http://www.wikipedia.org/",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/meta.wikimedia.org/load.php?debug=false&lang=en&modules=ext.gadget.wm-portal&only=scripts&skin=vector&*",
+"details": "GET /meta.wikimedia.org/load.php?debug=false&lang=en&modules=ext.gadget.wm-portal&only=scripts&skin=vector&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"PAGEUPDATE": 1376460001037
+},
+{
+"REQUEST": "http://en.wikipedia.org/wiki/Main_Page",
+"details": "GET /wiki/Main_Page HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=vector&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=vector&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/geoiplookup",
+"details": "GET /geoiplookup HTTP/1.1",
+"RESPONSE": "200 geoiplookup, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery%2Cmediawiki%2CSpinner%7Cjquery.triggerQueueCallback%2CloadingSpinner%2CmwEmbedUtil%7Cmw.MwEmbedSupport&only=scripts&skin=vector&version=20130811T022513Z",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery%2Cmediawiki%2CSpinner%7Cjquery.triggerQueueCallback%2CloadingSpinner%2CmwEmbedUtil%7Cmw.MwEmbedSupport&only=scripts&skin=vector&version=20130811T022513Z HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.centralNotice.bannerController%7Cext.centralauth.centralautologin%7Cext.uls.displaysettings%2Ci18n%2Cime%2Cinit%2Cinputsettings%2Cinterface%2Clanguagenames%2Clanguagesettings%2Cpreferences%2Cwebfonts%7Cext.uls.webfonts.repository%7Cext.vector.footerCleanup%7Cext.wikimediaShopLink.core%7Cjquery.client%2Ccookie%2CdelayedBind%2Ci18n%2Cime%2CjStorage%2Cjson%2CmwExtension%2Ctipsy%2Culs%2Cwebfonts%7Cjquery.uls.data%2Cgrid%7Cmediawiki.Title%2CUri%2Capi%2Ccldr%2CjqueryMsg%2Clanguage%2Cnotify%2Cuser%2Cutil%7Cmediawiki.api.parse%7Cmediawiki.language.data%2Cinit%7Cmediawiki.legacy.ajax%2Cwikibits%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.startup%7Cskins.vector.js%7Cwikibase.client.init&skin=vector&version=20130814T055707Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.centralNotice.bannerController%7Cext.centralauth.centralautologin%7Cext.uls.displaysettings%2Ci18n%2Cime%2Cinit%2Cinputsettings%2Cinterface%2Clanguagenames%2Clanguagesettings%2Cpreferences%2Cwebfonts%7Cext.uls.webfonts.repository%7Cext.vector.footerCleanup%7Cext.wikimediaShopLink.core%7Cjquery.client%2Ccookie%2CdelayedBind%2Ci18n%2Cime%2CjStorage%2Cjson%2CmwExtension%2Ctipsy%2Culs%2Cwebfonts%7Cjquery.uls.data%2Cgrid%7Cmediawiki.Title%2CUri%2Capi%2Ccldr%2CjqueryMsg%2Clanguage%2Cnotify%2Cuser%2Cutil%7Cmediawiki.api.parse%7Cmediawiki.language.data%2Cinit%7Cmediawiki.legacy.ajax%2Cwikibits%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.startup%7Cskins.vector.js%7Cwikibase.client.init&skin=vector&version=20130814T055707Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.visualEditor.viewPageTarget.init&skin=vector&version=20130811T022514Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.visualEditor.viewPageTarget.init&skin=vector&version=20130811T022514Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=site&only=scripts&skin=vector&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=site&only=scripts&skin=vector&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://meta.wikimedia.org/wiki/Special:BannerRandom?uselang=en&sitename=Wikipedia&project=wikipedia&anonymous=true&bucket=1&country=US&device=desktop&slot=2",
+"details": "GET /wiki/Special:BannerRandom?uselang=en&sitename=Wikipedia&project=wikipedia&anonymous=true&bucket=1&country=US&device=desktop&slot=2 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://en.wikipedia.org/w/api.php?action=ulslocalization&language=en",
+"details": "GET /w/api.php?action=ulslocalization&language=en HTTP/1.1",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.articleFeedbackv5.startup%7Cext.eventLogging%2CnavigationTiming%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.gettingstarted.logging%2CopenTask%7Cext.vector.collapsibleNav%7Cjquery.articleFeedbackv5.utils%7Cjquery.autoEllipsis%2CcheckboxShiftClick%2Chidpi%2ChighlightText%2CmakeCollapsible%2Cmw-jump%2Cplaceholder%2Csuggestions%2CtabIndex%7Cmediawiki.action.view.postEdit%7Cmediawiki.hidpi%2CsearchSuggest%7Cmediawiki.page.ready%7Cmobile.desktop%7Cmw.MwEmbedSupport.style%7Cmw.PopUpMediaTransform%7Cschema.Edit%2CGettingStartedNavbar%2CNavigationTiming&skin=vector&version=20130811T022514Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.articleFeedbackv5.startup%7Cext.eventLogging%2CnavigationTiming%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.gettingstarted.logging%2CopenTask%7Cext.vector.collapsibleNav%7Cjquery.articleFeedbackv5.utils%7Cjquery.autoEllipsis%2CcheckboxShiftClick%2Chidpi%2ChighlightText%2CmakeCollapsible%2Cmw-jump%2Cplaceholder%2Csuggestions%2CtabIndex%7Cmediawiki.action.view.postEdit%7Cmediawiki.hidpi%2CsearchSuggest%7Cmediawiki.page.ready%7Cmobile.desktop%7Cmw.MwEmbedSupport.style%7Cmw.PopUpMediaTransform%7Cschema.Edit%2CGettingStartedNavbar%2CNavigationTiming&skin=vector&version=20130811T022514Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery.ui.button%2Ccore%2Cdialog%2Cdraggable%2Cmouse%2Cposition%2Cresizable%2Cwidget&skin=vector&version=20130725T144824Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery.ui.button%2Ccore%2Cdialog%2Cdraggable%2Cmouse%2Cposition%2Cresizable%2Cwidget&skin=vector&version=20130725T144824Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=script",
+"details": "GET /wiki/Special:CentralAutoLogin/start?type=script HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/checkLoggedIn?wikiid=enwiki&type=script HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/checkLoggedIn?wikiid=enwiki&type=script HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/createSession?gu_id=0&type=script HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"PAGEUPDATE": 1376460004737
+},
+{
+"REQUEST": "http://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page",
+"details": "GET /w/index.php?title=Special:UserLogin&returnto=Main+Page HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=vector&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=vector&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/geoiplookup",
+"details": "GET /geoiplookup HTTP/1.1",
+"RESPONSE": "200 geoiplookup, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery%2Cmediawiki%2CSpinner%7Cjquery.triggerQueueCallback%2CloadingSpinner%2CmwEmbedUtil%7Cmw.MwEmbedSupport&only=scripts&skin=vector&version=20130811T022513Z",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery%2Cmediawiki%2CSpinner%7Cjquery.triggerQueueCallback%2CloadingSpinner%2CmwEmbedUtil%7Cmw.MwEmbedSupport&only=scripts&skin=vector&version=20130811T022513Z HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.centralNotice.bannerController%7Cext.centralauth.centralautologin%7Cext.uls.displaysettings%2Ci18n%2Cime%2Cinit%2Cinputsettings%2Cinterface%2Clanguagenames%2Clanguagesettings%2Cpreferences%2Cwebfonts%7Cext.uls.webfonts.repository%7Cext.vector.footerCleanup%7Cext.wikimediaShopLink.core%7Cjquery.client%2Ccookie%2CdelayedBind%2Ci18n%2Cime%2CjStorage%2Cjson%2CmwExtension%2Ctipsy%2Culs%2Cwebfonts%7Cjquery.uls.data%2Cgrid%7Cmediawiki.Title%2CUri%2Capi%2Ccldr%2CjqueryMsg%2Clanguage%2Cnotify%2Cuser%2Cutil%7Cmediawiki.api.parse%7Cmediawiki.language.data%2Cinit%7Cmediawiki.legacy.ajax%2Cwikibits%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.startup%7Cskins.vector.js%7Cwikibase.client.init&skin=vector&version=20130814T055707Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.centralNotice.bannerController%7Cext.centralauth.centralautologin%7Cext.uls.displaysettings%2Ci18n%2Cime%2Cinit%2Cinputsettings%2Cinterface%2Clanguagenames%2Clanguagesettings%2Cpreferences%2Cwebfonts%7Cext.uls.webfonts.repository%7Cext.vector.footerCleanup%7Cext.wikimediaShopLink.core%7Cjquery.client%2Ccookie%2CdelayedBind%2Ci18n%2Cime%2CjStorage%2Cjson%2CmwExtension%2Ctipsy%2Culs%2Cwebfonts%7Cjquery.uls.data%2Cgrid%7Cmediawiki.Title%2CUri%2Capi%2Ccldr%2CjqueryMsg%2Clanguage%2Cnotify%2Cuser%2Cutil%7Cmediawiki.api.parse%7Cmediawiki.language.data%2Cinit%7Cmediawiki.legacy.ajax%2Cwikibits%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.startup%7Cskins.vector.js%7Cwikibase.client.init&skin=vector&version=20130814T055707Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.visualEditor.viewPageTarget.init&skin=vector&version=20130811T022514Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.visualEditor.viewPageTarget.init&skin=vector&version=20130811T022514Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://en.wikipedia.org/w/api.php?action=ulslocalization&language=en",
+"details": "GET /w/api.php?action=ulslocalization&language=en HTTP/1.1",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.eventLogging%2CnavigationTiming%7Cext.gettingstarted.logging%2CopenTask%7Cext.vector.collapsibleNav%7Cjquery.autoEllipsis%2CcheckboxShiftClick%2Chidpi%2ChighlightText%2CmakeCollapsible%2Cmw-jump%2Cplaceholder%2Csuggestions%2CtabIndex%7Cmediawiki.action.view.postEdit%7Cmediawiki.hidpi%2CsearchSuggest%7Cmediawiki.page.ready%7Cmobile.desktop%7Cmw.MwEmbedSupport.style%7Cmw.PopUpMediaTransform%7Cschema.Edit%2CGettingStartedNavbar%2CNavigationTiming&skin=vector&version=20130811T022514Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.eventLogging%2CnavigationTiming%7Cext.gettingstarted.logging%2CopenTask%7Cext.vector.collapsibleNav%7Cjquery.autoEllipsis%2CcheckboxShiftClick%2Chidpi%2ChighlightText%2CmakeCollapsible%2Cmw-jump%2Cplaceholder%2Csuggestions%2CtabIndex%7Cmediawiki.action.view.postEdit%7Cmediawiki.hidpi%2CsearchSuggest%7Cmediawiki.page.ready%7Cmobile.desktop%7Cmw.MwEmbedSupport.style%7Cmw.PopUpMediaTransform%7Cschema.Edit%2CGettingStartedNavbar%2CNavigationTiming&skin=vector&version=20130811T022514Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery.ui.button%2Ccore%2Cdialog%2Cdraggable%2Cmouse%2Cposition%2Cresizable%2Cwidget&skin=vector&version=20130725T144824Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery.ui.button%2Ccore%2Cdialog%2Cdraggable%2Cmouse%2Cposition%2Cresizable%2Cwidget&skin=vector&version=20130725T144824Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=script&return=1&returnto=Main+Page",
+"details": "GET /wiki/Special:CentralAutoLogin/start?type=script&return=1&returnto=Main+Page HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/checkLoggedIn?wikiid=enwiki&type=script&return=1&returnto=Main+Page HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/checkLoggedIn?wikiid=enwiki&type=script&return=1&returnto=Main+Page HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/createSession?gu_id=0&type=script&return=1&returnto=Main+Page HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"PAGEUPDATE": 1376460008710
+},
+{
+"REQUEST": "http://en.wikipedia.org/w/index.php?title=Special:UserLogin&action=submitlogin&type=login&returnto=Main+Page",
+"details": "POST /w/index.php?title=Special:UserLogin&action=submitlogin&type=login&returnto=Main+Page HTTP/1.1","post_data": "wpName%3Darktos769%26wpPassword%3Dbear5%26wpRemember%3D1%26wpLoginAttempt%3DLog%2Bin%26wpLoginToken%3D012537796d4d40cd848ce3bf20c2150a",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralLogin/start?token=9e2f823cc4a3f154e37bea8a4e868547 HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET /wiki/Special:CentralLogin/start?token=9e2f823cc4a3f154e37bea8a4e868547 HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralLogin/complete?token=ff7963ad8fbc510a609c50e9088ff6f3 HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Main_Page HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=vector&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=vector&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/geoiplookup",
+"details": "GET /geoiplookup HTTP/1.1",
+"RESPONSE": "200 geoiplookup, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery%2Cmediawiki%2CSpinner%7Cjquery.triggerQueueCallback%2CloadingSpinner%2CmwEmbedUtil%7Cmw.MwEmbedSupport&only=scripts&skin=vector&version=20130811T022513Z",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery%2Cmediawiki%2CSpinner%7Cjquery.triggerQueueCallback%2CloadingSpinner%2CmwEmbedUtil%7Cmw.MwEmbedSupport&only=scripts&skin=vector&version=20130811T022513Z HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.centralNotice.bannerController%7Cext.uls.displaysettings%2Ci18n%2Cime%2Cinit%2Cinputsettings%2Cinterface%2Clanguagenames%2Clanguagesettings%2Cpreferences%2Cwebfonts%7Cext.uls.webfonts.repository%7Cext.vector.footerCleanup%7Cext.wikimediaShopLink.core%7Cjquery.client%2Ccookie%2CdelayedBind%2Ci18n%2Cime%2CjStorage%2Cjson%2CmwExtension%2Ctipsy%2Culs%2Cwebfonts%7Cjquery.uls.data%2Cgrid%7Cmediawiki.Title%2CUri%2Capi%2Ccldr%2CjqueryMsg%2Clanguage%2Cnotify%2Cuser%2Cutil%7Cmediawiki.api.parse%7Cmediawiki.language.data%2Cinit%7Cmediawiki.legacy.ajax%2Cwikibits%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.startup%7Cskins.vector.js%7Cwikibase.client.init&skin=vector&version=20130814T055707Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.centralNotice.bannerController%7Cext.uls.displaysettings%2Ci18n%2Cime%2Cinit%2Cinputsettings%2Cinterface%2Clanguagenames%2Clanguagesettings%2Cpreferences%2Cwebfonts%7Cext.uls.webfonts.repository%7Cext.vector.footerCleanup%7Cext.wikimediaShopLink.core%7Cjquery.client%2Ccookie%2CdelayedBind%2Ci18n%2Cime%2CjStorage%2Cjson%2CmwExtension%2Ctipsy%2Culs%2Cwebfonts%7Cjquery.uls.data%2Cgrid%7Cmediawiki.Title%2CUri%2Capi%2Ccldr%2CjqueryMsg%2Clanguage%2Cnotify%2Cuser%2Cutil%7Cmediawiki.api.parse%7Cmediawiki.language.data%2Cinit%7Cmediawiki.legacy.ajax%2Cwikibits%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.startup%7Cskins.vector.js%7Cwikibase.client.init&skin=vector&version=20130814T055707Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.visualEditor.viewPageTarget.init&skin=vector&version=20130811T022514Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.visualEditor.viewPageTarget.init&skin=vector&version=20130811T022514Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://meta.wikimedia.org/wiki/Special:BannerRandom?uselang=en&sitename=Wikipedia&project=wikipedia&anonymous=false&bucket=1&country=US&device=desktop&slot=16",
+"details": "GET /wiki/Special:BannerRandom?uselang=en&sitename=Wikipedia&project=wikipedia&anonymous=false&bucket=1&country=US&device=desktop&slot=16 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://en.wikipedia.org/w/api.php?action=ulslocalization&language=en",
+"details": "GET /w/api.php?action=ulslocalization&language=en HTTP/1.1",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.articleFeedbackv5.startup%7Cext.eventLogging%2CnavigationTiming%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CmySandbox%2Cteahouse%7Cext.gettingstarted.logging%2CopenTask%7Cext.vector.collapsibleNav%7Cjquery.articleFeedbackv5.utils%7Cjquery.autoEllipsis%2CcheckboxShiftClick%2Chidpi%2ChighlightText%2CmakeCollapsible%2Cmw-jump%2Cplaceholder%2Csuggestions%2CtabIndex%7Cmediawiki.action.view.postEdit%7Cmediawiki.api.watch%7Cmediawiki.hidpi%2CsearchSuggest%2Cui%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmobile.desktop%7Cmw.MwEmbedSupport.style%7Cmw.PopUpMediaTransform%7Cschema.Echo%2CEchoInteraction%2CEchoMail%2CEdit%2CGettingStartedNavbar%2CNavigationTiming&skin=vector&version=20130811T022514Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.articleFeedbackv5.startup%7Cext.eventLogging%2CnavigationTiming%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CmySandbox%2Cteahouse%7Cext.gettingstarted.logging%2CopenTask%7Cext.vector.collapsibleNav%7Cjquery.articleFeedbackv5.utils%7Cjquery.autoEllipsis%2CcheckboxShiftClick%2Chidpi%2ChighlightText%2CmakeCollapsible%2Cmw-jump%2Cplaceholder%2Csuggestions%2CtabIndex%7Cmediawiki.action.view.postEdit%7Cmediawiki.api.watch%7Cmediawiki.hidpi%2CsearchSuggest%2Cui%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmobile.desktop%7Cmw.MwEmbedSupport.style%7Cmw.PopUpMediaTransform%7Cschema.Echo%2CEchoInteraction%2CEchoMail%2CEdit%2CGettingStartedNavbar%2CNavigationTiming&skin=vector&version=20130811T022514Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.echo.alert%2Cbase%2Coverlay&skin=vector&version=20130811T022513Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.echo.alert%2Cbase%2Coverlay&skin=vector&version=20130811T022513Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery.ui.button%2Ccore%2Cdialog%2Cdraggable%2Cmouse%2Cposition%2Cresizable%2Cwidget&skin=vector&version=20130725T144824Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery.ui.button%2Ccore%2Cdialog%2Cdraggable%2Cmouse%2Cposition%2Cresizable%2Cwidget&skin=vector&version=20130725T144824Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=site&only=scripts&skin=vector&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=site&only=scripts&skin=vector&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://meta.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&from=enwiki",
+"details": "GET /wiki/Special:CentralAutoLogin/start?type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/checkLoggedIn?wikiid=metawiki&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/checkLoggedIn?wikiid=metawiki&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/createSession?gu_id=28633903&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/validateSession?token=6b66303e8adeeae829e29a577df8f1751b4eb2f&wikiid=metawiki&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/setCookies?type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://en.wikiquote.org/wiki/Special:CentralAutoLogin/start?type=1x1&from=enwiki",
+"details": "GET /wiki/Special:CentralAutoLogin/start?type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/checkLoggedIn?wikiid=enwikiquote&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/checkLoggedIn?wikiid=enwikiquote&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/createSession?gu_id=28633903&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/validateSession?token=18cacb3ea1f64ec369e010a79fb7bb601b4eb2f&wikiid=enwikiquote&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/setCookies?type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://en.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1&from=enwiki",
+"details": "GET /wiki/Special:CentralAutoLogin/start?type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/checkLoggedIn?wikiid=enwiktionary&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/checkLoggedIn?wikiid=enwiktionary&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/createSession?gu_id=28633903&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/validateSession?token=818f7435e51e34c4f70f402f0c1a9f1b1b4eb2f&wikiid=enwiktionary&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/setCookies?type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.mediawiki.org/wiki/Special:CentralAutoLogin/start?type=1x1&from=enwiki",
+"details": "GET /wiki/Special:CentralAutoLogin/start?type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/checkLoggedIn?wikiid=mediawikiwiki&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/checkLoggedIn?wikiid=mediawikiwiki&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/createSession?gu_id=28633903&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/validateSession?token=169ae9dbfb05c9c5180819f018272ff21b4eb2f&wikiid=mediawikiwiki&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/setCookies?type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://en.wikinews.org/wiki/Special:CentralAutoLogin/start?type=1x1&from=enwiki",
+"details": "GET /wiki/Special:CentralAutoLogin/start?type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/checkLoggedIn?wikiid=enwikinews&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/checkLoggedIn?wikiid=enwikinews&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/createSession?gu_id=28633903&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/validateSession?token=21afb8b72f3fc1720bb4068ede8c6e2a1b4eb2f&wikiid=enwikinews&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/setCookies?type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://commons.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&from=enwiki",
+"details": "GET /wiki/Special:CentralAutoLogin/start?type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/checkLoggedIn?wikiid=commonswiki&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/checkLoggedIn?wikiid=commonswiki&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/createSession?gu_id=28633903&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/validateSession?token=c7787b64701db08e0e045cad5792c7741b4eb2f&wikiid=commonswiki&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/setCookies?type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://en.wikisource.org/wiki/Special:CentralAutoLogin/start?type=1x1&from=enwiki",
+"details": "GET /wiki/Special:CentralAutoLogin/start?type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/checkLoggedIn?wikiid=enwikisource&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/checkLoggedIn?wikiid=enwikisource&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/createSession?gu_id=28633903&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/validateSession?token=2cb189bf46fc03d8b90b69dd2cffc1031b4eb2f&wikiid=enwikisource&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/setCookies?type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://en.wikibooks.org/wiki/Special:CentralAutoLogin/start?type=1x1&from=enwiki",
+"details": "GET /wiki/Special:CentralAutoLogin/start?type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/checkLoggedIn?wikiid=enwikibooks&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/checkLoggedIn?wikiid=enwikibooks&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/createSession?gu_id=28633903&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/validateSession?token=1dc6ba425e1f23038ad4196ec98619c71b4eb2f&wikiid=enwikibooks&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/setCookies?type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://en.wikiversity.org/wiki/Special:CentralAutoLogin/start?type=1x1&from=enwiki",
+"details": "GET /wiki/Special:CentralAutoLogin/start?type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/checkLoggedIn?wikiid=enwikiversity&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/checkLoggedIn?wikiid=enwikiversity&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/createSession?gu_id=28633903&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/validateSession?token=1dcb50837956cd1080474eb1e814200e1b4eb2f&wikiid=enwikiversity&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/setCookies?type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://login.wikimedia.org/wiki/Special:CentralAutoLogin/refreshCookies?type=1x1&wikiid=enwiki",
+"details": "GET /wiki/Special:CentralAutoLogin/refreshCookies?type=1x1&wikiid=enwiki HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/refreshCookies?type=1x1&wikiid=enwiki HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.wikidata.org/wiki/Special:CentralAutoLogin/start?type=1x1&from=enwiki",
+"details": "GET /wiki/Special:CentralAutoLogin/start?type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/checkLoggedIn?wikiid=wikidatawiki&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/checkLoggedIn?wikiid=wikidatawiki&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/createSession?gu_id=28633903&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/validateSession?token=f50dc0a3421b522236fa2f403f0ce34e1b4eb2f&wikiid=wikidatawiki&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/setCookies?type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://species.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&from=enwiki",
+"details": "GET /wiki/Special:CentralAutoLogin/start?type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/checkLoggedIn?wikiid=specieswiki&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/checkLoggedIn?wikiid=specieswiki&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/createSession?gu_id=28633903&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/validateSession?token=9a0ffacc0137bb9407cf8eb84ce15c301b4eb2f&wikiid=specieswiki&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/setCookies?type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://incubator.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&from=enwiki",
+"details": "GET /wiki/Special:CentralAutoLogin/start?type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/checkLoggedIn?wikiid=incubatorwiki&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/checkLoggedIn?wikiid=incubatorwiki&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/createSession?gu_id=28633903&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/validateSession?token=6900ffa9a20b9b7f3c054e245454d7e71b4eb2f&wikiid=incubatorwiki&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/setCookies?type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://en.wikivoyage.org/wiki/Special:CentralAutoLogin/start?type=1x1&from=enwiki",
+"details": "GET /wiki/Special:CentralAutoLogin/start?type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/checkLoggedIn?wikiid=enwikivoyage&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/checkLoggedIn?wikiid=enwikivoyage&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/createSession?gu_id=28633903&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/validateSession?token=cb4b4fa828aaa8e169c3e5582195f3731b4eb2f&wikiid=enwikivoyage&type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralAutoLogin/setCookies?type=1x1&from=enwiki HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"PAGEUPDATE": 1376460021773
+},
+{
+"REQUEST": "http://en.wikipedia.org/wiki/User:Arktos769",
+"details": "GET /wiki/User:Arktos769 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=vector&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=vector&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery%2Cmediawiki%2CSpinner%7Cjquery.triggerQueueCallback%2CloadingSpinner%2CmwEmbedUtil%7Cmw.MwEmbedSupport&only=scripts&skin=vector&version=20130811T022513Z",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery%2Cmediawiki%2CSpinner%7Cjquery.triggerQueueCallback%2CloadingSpinner%2CmwEmbedUtil%7Cmw.MwEmbedSupport&only=scripts&skin=vector&version=20130811T022513Z HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.centralNotice.bannerController%7Cext.uls.displaysettings%2Ci18n%2Cime%2Cinit%2Cinputsettings%2Cinterface%2Clanguagenames%2Clanguagesettings%2Cpreferences%2Cwebfonts%7Cext.uls.webfonts.repository%7Cext.vector.footerCleanup%7Cext.wikimediaShopLink.core%7Cjquery.client%2Ccookie%2CdelayedBind%2Ci18n%2Cime%2CjStorage%2Cjson%2CmwExtension%2Ctipsy%2Culs%2Cwebfonts%7Cjquery.uls.data%2Cgrid%7Cmediawiki.Title%2CUri%2Capi%2Ccldr%2CjqueryMsg%2Clanguage%2Cnotify%2Cuser%2Cutil%7Cmediawiki.api.parse%7Cmediawiki.language.data%2Cinit%7Cmediawiki.legacy.ajax%2Cwikibits%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.startup%7Cskins.vector.js%7Cwikibase.client.init&skin=vector&version=20130814T055707Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.centralNotice.bannerController%7Cext.uls.displaysettings%2Ci18n%2Cime%2Cinit%2Cinputsettings%2Cinterface%2Clanguagenames%2Clanguagesettings%2Cpreferences%2Cwebfonts%7Cext.uls.webfonts.repository%7Cext.vector.footerCleanup%7Cext.wikimediaShopLink.core%7Cjquery.client%2Ccookie%2CdelayedBind%2Ci18n%2Cime%2CjStorage%2Cjson%2CmwExtension%2Ctipsy%2Culs%2Cwebfonts%7Cjquery.uls.data%2Cgrid%7Cmediawiki.Title%2CUri%2Capi%2Ccldr%2CjqueryMsg%2Clanguage%2Cnotify%2Cuser%2Cutil%7Cmediawiki.api.parse%7Cmediawiki.language.data%2Cinit%7Cmediawiki.legacy.ajax%2Cwikibits%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.startup%7Cskins.vector.js%7Cwikibase.client.init&skin=vector&version=20130814T055707Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.visualEditor.viewPageTarget.init&skin=vector&version=20130811T022514Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.visualEditor.viewPageTarget.init&skin=vector&version=20130811T022514Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/geoiplookup",
+"details": "GET /geoiplookup HTTP/1.1",
+"RESPONSE": "200 geoiplookup, text/javascript"
+},
+{
+"REQUEST": "http://meta.wikimedia.org/wiki/Special:BannerRandom?uselang=en&sitename=Wikipedia&project=wikipedia&anonymous=false&bucket=1&country=US&device=desktop&slot=28",
+"details": "GET /wiki/Special:BannerRandom?uselang=en&sitename=Wikipedia&project=wikipedia&anonymous=false&bucket=1&country=US&device=desktop&slot=28 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://en.wikipedia.org/w/api.php?action=ulslocalization&language=en",
+"details": "GET /w/api.php?action=ulslocalization&language=en HTTP/1.1",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.echo.alert%2Cbase%2Coverlay&skin=vector&version=20130811T022513Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.echo.alert%2Cbase%2Coverlay&skin=vector&version=20130811T022513Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.eventLogging%2CnavigationTiming%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CmySandbox%2Cteahouse%7Cext.gettingstarted.logging%2CopenTask%7Cext.vector.collapsibleNav%7Cjquery.autoEllipsis%2CcheckboxShiftClick%2Chidpi%2ChighlightText%2CmakeCollapsible%2Cmw-jump%2Cplaceholder%2Csuggestions%2CtabIndex%7Cmediawiki.action.view.postEdit%7Cmediawiki.api.watch%7Cmediawiki.hidpi%2CsearchSuggest%2Cui%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmobile.desktop%7Cmw.MwEmbedSupport.style%7Cmw.PopUpMediaTransform%7Cschema.Echo%2CEchoInteraction%2CEchoMail%2CEdit%2CGettingStartedNavbar%2CNavigationTiming&skin=vector&version=20130811T022514Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.eventLogging%2CnavigationTiming%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CmySandbox%2Cteahouse%7Cext.gettingstarted.logging%2CopenTask%7Cext.vector.collapsibleNav%7Cjquery.autoEllipsis%2CcheckboxShiftClick%2Chidpi%2ChighlightText%2CmakeCollapsible%2Cmw-jump%2Cplaceholder%2Csuggestions%2CtabIndex%7Cmediawiki.action.view.postEdit%7Cmediawiki.api.watch%7Cmediawiki.hidpi%2CsearchSuggest%2Cui%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmobile.desktop%7Cmw.MwEmbedSupport.style%7Cmw.PopUpMediaTransform%7Cschema.Echo%2CEchoInteraction%2CEchoMail%2CEdit%2CGettingStartedNavbar%2CNavigationTiming&skin=vector&version=20130811T022514Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery.ui.button%2Ccore%2Cdialog%2Cdraggable%2Cmouse%2Cposition%2Cresizable%2Cwidget&skin=vector&version=20130725T144824Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery.ui.button%2Ccore%2Cdialog%2Cdraggable%2Cmouse%2Cposition%2Cresizable%2Cwidget&skin=vector&version=20130725T144824Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=site&only=scripts&skin=vector&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=site&only=scripts&skin=vector&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"PAGEUPDATE": 1376460028909
+},
+{
+"REQUEST": "http://en.wikipedia.org/w/index.php?title=User:Arktos769&action=edit",
+"details": "GET /w/index.php?title=User:Arktos769&action=edit HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=vector&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=vector&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery%2Cmediawiki%2CSpinner%7Cjquery.triggerQueueCallback%2CloadingSpinner%2CmwEmbedUtil%7Cmw.MwEmbedSupport&only=scripts&skin=vector&version=20130811T022513Z",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery%2Cmediawiki%2CSpinner%7Cjquery.triggerQueueCallback%2CloadingSpinner%2CmwEmbedUtil%7Cmw.MwEmbedSupport&only=scripts&skin=vector&version=20130811T022513Z HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.centralNotice.bannerController%7Cext.uls.displaysettings%2Ci18n%2Cime%2Cinit%2Cinputsettings%2Cinterface%2Clanguagenames%2Clanguagesettings%2Cpreferences%2Cwebfonts%7Cext.uls.webfonts.repository%7Cext.vector.footerCleanup%7Cext.wikimediaShopLink.core%7Cjquery.byteLength%2CbyteLimit%2Cclient%2Ccookie%2CdelayedBind%2Ci18n%2Cime%2CjStorage%2Cjson%2CmwExtension%2CtextSelection%2Ctipsy%2Culs%2Cwebfonts%7Cjquery.uls.data%2Cgrid%7Cmediawiki.Title%2CUri%2Capi%2Ccldr%2CjqueryMsg%2Clanguage%2Cnotify%2Cuser%2Cutil%7Cmediawiki.action.edit%7Cmediawiki.api.parse%7Cmediawiki.language.data%2Cinit%7Cmediawiki.legacy.ajax%2Cwikibits%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.startup%7Cskins.vector.js%7Cwikibase.client.init&skin=vector&version=20130814T055707Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.centralNotice.bannerController%7Cext.uls.displaysettings%2Ci18n%2Cime%2Cinit%2Cinputsettings%2Cinterface%2Clanguagenames%2Clanguagesettings%2Cpreferences%2Cwebfonts%7Cext.uls.webfonts.repository%7Cext.vector.footerCleanup%7Cext.wikimediaShopLink.core%7Cjquery.byteLength%2CbyteLimit%2Cclient%2Ccookie%2CdelayedBind%2Ci18n%2Cime%2CjStorage%2Cjson%2CmwExtension%2CtextSelection%2Ctipsy%2Culs%2Cwebfonts%7Cjquery.uls.data%2Cgrid%7Cmediawiki.Title%2CUri%2Capi%2Ccldr%2CjqueryMsg%2Clanguage%2Cnotify%2Cuser%2Cutil%7Cmediawiki.action.edit%7Cmediawiki.api.parse%7Cmediawiki.language.data%2Cinit%7Cmediawiki.legacy.ajax%2Cwikibits%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.startup%7Cskins.vector.js%7Cwikibase.client.init&skin=vector&version=20130814T055707Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.visualEditor.viewPageTarget.init&skin=vector&version=20130811T022514Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.visualEditor.viewPageTarget.init&skin=vector&version=20130811T022514Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/geoiplookup",
+"details": "GET /geoiplookup HTTP/1.1",
+"RESPONSE": "200 geoiplookup, text/javascript"
+},
+{
+"REQUEST": "http://meta.wikimedia.org/wiki/Special:BannerRandom?uselang=en&sitename=Wikipedia&project=wikipedia&anonymous=false&bucket=1&country=US&device=desktop&slot=7",
+"details": "GET /wiki/Special:BannerRandom?uselang=en&sitename=Wikipedia&project=wikipedia&anonymous=false&bucket=1&country=US&device=desktop&slot=7 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://en.wikipedia.org/w/api.php?action=ulslocalization&language=en",
+"details": "GET /w/api.php?action=ulslocalization&language=en HTTP/1.1",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.echo.alert%2Cbase%2Coverlay&skin=vector&version=20130811T022513Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.echo.alert%2Cbase%2Coverlay&skin=vector&version=20130811T022513Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.eventLogging%2CnavigationTiming%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CmySandbox%2Cteahouse%7Cext.gettingstarted.logging%2CopenTask%7Cext.vector.collapsibleNav%7Cjquery.async%2CautoEllipsis%2CcheckboxShiftClick%2Chidpi%2ChighlightText%2CmakeCollapsible%2Cmw-jump%2Cplaceholder%2Csuggestions%2CtabIndex%7Cmediawiki.action.edit.editWarning%7Cmediawiki.action.view.postEdit%7Cmediawiki.api.watch%7Cmediawiki.hidpi%2CsearchSuggest%2Cui%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmobile.desktop%7Cmw.MwEmbedSupport.style%7Cmw.PopUpMediaTransform%7Cschema.Echo%2CEchoInteraction%2CEchoMail%2CEdit%2CGettingStartedNavbar%2CNavigationTiming&skin=vector&version=20130811T022514Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.eventLogging%2CnavigationTiming%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CmySandbox%2Cteahouse%7Cext.gettingstarted.logging%2CopenTask%7Cext.vector.collapsibleNav%7Cjquery.async%2CautoEllipsis%2CcheckboxShiftClick%2Chidpi%2ChighlightText%2CmakeCollapsible%2Cmw-jump%2Cplaceholder%2Csuggestions%2CtabIndex%7Cmediawiki.action.edit.editWarning%7Cmediawiki.action.view.postEdit%7Cmediawiki.api.watch%7Cmediawiki.hidpi%2CsearchSuggest%2Cui%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmobile.desktop%7Cmw.MwEmbedSupport.style%7Cmw.PopUpMediaTransform%7Cschema.Echo%2CEchoInteraction%2CEchoMail%2CEdit%2CGettingStartedNavbar%2CNavigationTiming&skin=vector&version=20130811T022514Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.wikiEditor%7Cext.wikiEditor.dialogs%2Ctoolbar%7Cext.wikiEditor.toolbar.hideSig%7Cjquery.wikiEditor%7Cjquery.wikiEditor.dialogs%2Ctoolbar%7Cjquery.wikiEditor.dialogs.config%7Cjquery.wikiEditor.toolbar.config%2Ci18n&skin=vector&version=20130811T022514Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.wikiEditor%7Cext.wikiEditor.dialogs%2Ctoolbar%7Cext.wikiEditor.toolbar.hideSig%7Cjquery.wikiEditor%7Cjquery.wikiEditor.dialogs%2Ctoolbar%7Cjquery.wikiEditor.dialogs.config%7Cjquery.wikiEditor.toolbar.config%2Ci18n&skin=vector&version=20130811T022514Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery.ui.button%2Ccore%2Cdialog%2Cdraggable%2Cmouse%2Cposition%2Cresizable%2Cwidget&skin=vector&version=20130725T144824Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery.ui.button%2Ccore%2Cdialog%2Cdraggable%2Cmouse%2Cposition%2Cresizable%2Cwidget&skin=vector&version=20130725T144824Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=site&only=scripts&skin=vector&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=site&only=scripts&skin=vector&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://en.wikipedia.org/w/index.php?title=MediaWiki:Common.js/edit.js&action=raw&ctype=text/javascript",
+"details": "GET /w/index.php?title=MediaWiki:Common.js/edit.js&action=raw&ctype=text/javascript HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://en.wikipedia.org/w/index.php?title=MediaWiki:RefToolbarBase.js&action=raw&ctype=text/javascript",
+"details": "GET /w/index.php?title=MediaWiki:RefToolbarBase.js&action=raw&ctype=text/javascript HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"PAGEUPDATE": 1376460044307
+},
+{
+"REQUEST": "http://en.wikipedia.org/w/index.php?title=MediaWiki:RefToolbar.js&action=raw&ctype=text/javascript",
+"details": "GET /w/index.php?title=MediaWiki:RefToolbar.js&action=raw&ctype=text/javascript HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://en.wikipedia.org/w/index.php?title=MediaWiki:RefToolbarMessages-en.js&action=raw&ctype=text/javascript",
+"details": "GET /w/index.php?title=MediaWiki:RefToolbarMessages-en.js&action=raw&ctype=text/javascript HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://en.wikipedia.org/w/index.php?title=MediaWiki:RefToolbarConfig.js&action=raw&ctype=text/javascript",
+"details": "GET /w/index.php?title=MediaWiki:RefToolbarConfig.js&action=raw&ctype=text/javascript HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://en.wikipedia.org/w/index.php?title=User:Arktos769&action=submit",
+"details": "POST /w/index.php?title=User:Arktos769&action=submit HTTP/1.1","post_data": "------WebKitFormBoundaryyiuXjqGQBC5zAA2Q%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22wpAntispam%22%0D%0A%0D%0A%0D%0A------WebKitFormBoundaryyiuXjqGQBC5zAA2Q%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22baseRevId%22%0D%0A%0D%0A0%0D%0A------WebKitFormBoundaryyiuXjqGQBC5zAA2Q%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22altBaseRevId%22%0D%0A%0D%0A0%0D%0A------WebKitFormBoundaryyiuXjqGQBC5zAA2Q%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22undidRev%22%0D%0A%0D%0A0%0D%0A------WebKitFormBoundaryyiuXjqGQBC5zAA2Q%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22wpSection%22%0D%0A%0D%0A%0D%0A------WebKitFormBoundaryyiuXjqGQBC5zAA2Q%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22wpStarttime%22%0D%0A%0D%0A20130814060043%0D%0A------WebKitFormBoundaryyiuXjqGQBC5zAA2Q%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22wpEdittime%22%0D%0A%0D%0A20130814060043%0D%0A------WebKitFormBoundaryyiuXjqGQBC5zAA2Q%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22wpScrolltop%22%0D%0A%0D%0A0%0D%0A------WebKitFormBoundaryyiuXjqGQBC5zAA2Q%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22wpAutoSummary%22%0D%0A%0D%0Ad41d8cd98f00b204e9800998ecf8427e%0D%0A------WebKitFormBoundaryyiuXjqGQBC5zAA2Q%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22oldid%22%0D%0A%0D%0A0%0D%0A------WebKitFormBoundaryyiuXjqGQBC5zAA2Q%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22format%22%0D%0A%0D%0Atext%2Fx-wiki%0D%0A------WebKitFormBoundaryyiuXjqGQBC5zAA2Q%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22model%22%0D%0A%0D%0Awikitext%0D%0A------WebKitFormBoundaryyiuXjqGQBC5zAA2Q%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22wpTextbox1%22%0D%0A%0D%0AArktos%20Page%0D%0A------WebKitFormBoundaryyiuXjqGQBC5zAA2Q%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22wpSummary%22%0D%0A%0D%0A%0D%0A------WebKitFormBoundaryyiuXjqGQBC5zAA2Q%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22wpWatchthis%22%0D%0A%0D%0A1%0D%0A------WebKitFormBoundaryyiuXjqGQBC5zAA2Q%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22wpSave%22%0D%0A%0D%0ASave%20page%0D%0A------WebKitFormBoundaryyiuXjqGQBC5zAA2Q%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22wpEditToken%22%0D%0A%0D%0A61d52e7ce8e058ae6ae4b7b3a8c0c09a%2B%5C%0D%0A------WebKitFormBoundaryyiuXjqGQBC5zAA2Q--%0D%0A",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/User:Arktos769 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=vector&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=vector&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery%2Cmediawiki%2CSpinner%7Cjquery.triggerQueueCallback%2CloadingSpinner%2CmwEmbedUtil%7Cmw.MwEmbedSupport&only=scripts&skin=vector&version=20130811T022513Z",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery%2Cmediawiki%2CSpinner%7Cjquery.triggerQueueCallback%2CloadingSpinner%2CmwEmbedUtil%7Cmw.MwEmbedSupport&only=scripts&skin=vector&version=20130811T022513Z HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.centralNotice.bannerController%7Cext.uls.displaysettings%2Ci18n%2Cime%2Cinit%2Cinputsettings%2Cinterface%2Clanguagenames%2Clanguagesettings%2Cpreferences%2Cwebfonts%7Cext.uls.webfonts.repository%7Cext.vector.footerCleanup%7Cext.wikimediaShopLink.core%7Cjquery.client%2Ccookie%2CdelayedBind%2Ci18n%2Cime%2CjStorage%2Cjson%2CmwExtension%2Ctipsy%2Culs%2Cwebfonts%7Cjquery.uls.data%2Cgrid%7Cmediawiki.Title%2CUri%2Capi%2Ccldr%2CjqueryMsg%2Clanguage%2Cnotify%2Cuser%2Cutil%7Cmediawiki.api.parse%7Cmediawiki.language.data%2Cinit%7Cmediawiki.legacy.ajax%2Cwikibits%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.startup%7Cskins.vector.js%7Cwikibase.client.init%2Cnolanglinks&skin=vector&version=20130814T055707Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.centralNotice.bannerController%7Cext.uls.displaysettings%2Ci18n%2Cime%2Cinit%2Cinputsettings%2Cinterface%2Clanguagenames%2Clanguagesettings%2Cpreferences%2Cwebfonts%7Cext.uls.webfonts.repository%7Cext.vector.footerCleanup%7Cext.wikimediaShopLink.core%7Cjquery.client%2Ccookie%2CdelayedBind%2Ci18n%2Cime%2CjStorage%2Cjson%2CmwExtension%2Ctipsy%2Culs%2Cwebfonts%7Cjquery.uls.data%2Cgrid%7Cmediawiki.Title%2CUri%2Capi%2Ccldr%2CjqueryMsg%2Clanguage%2Cnotify%2Cuser%2Cutil%7Cmediawiki.api.parse%7Cmediawiki.language.data%2Cinit%7Cmediawiki.legacy.ajax%2Cwikibits%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.startup%7Cskins.vector.js%7Cwikibase.client.init%2Cnolanglinks&skin=vector&version=20130814T055707Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.visualEditor.viewPageTarget.init&skin=vector&version=20130811T022514Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.visualEditor.viewPageTarget.init&skin=vector&version=20130811T022514Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/geoiplookup",
+"details": "GET /geoiplookup HTTP/1.1",
+"RESPONSE": "200 geoiplookup, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=site&only=scripts&skin=vector&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=site&only=scripts&skin=vector&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://meta.wikimedia.org/wiki/Special:BannerRandom?uselang=en&sitename=Wikipedia&project=wikipedia&anonymous=false&bucket=1&country=US&device=desktop&slot=4",
+"details": "GET /wiki/Special:BannerRandom?uselang=en&sitename=Wikipedia&project=wikipedia&anonymous=false&bucket=1&country=US&device=desktop&slot=4 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://en.wikipedia.org/w/api.php?action=ulslocalization&language=en",
+"details": "GET /w/api.php?action=ulslocalization&language=en HTTP/1.1",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.echo.alert%2Cbase%2Coverlay&skin=vector&version=20130811T022513Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.echo.alert%2Cbase%2Coverlay&skin=vector&version=20130811T022513Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.eventLogging%2CnavigationTiming%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CmySandbox%2Cteahouse%7Cext.gettingstarted.logging%2CopenTask%7Cext.vector.collapsibleNav%7Cjquery.autoEllipsis%2CcheckboxShiftClick%2Chidpi%2ChighlightText%2CmakeCollapsible%2Cmw-jump%2Cplaceholder%2Cspinner%2Csuggestions%2CtabIndex%7Cmediawiki.action.view.postEdit%7Cmediawiki.api.watch%7Cmediawiki.hidpi%2CsearchSuggest%2Cui%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmobile.desktop%7Cmw.MwEmbedSupport.style%7Cmw.PopUpMediaTransform%7Cschema.Echo%2CEchoInteraction%2CEchoMail%2CEdit%2CGettingStartedNavbar%2CNavigationTiming%7Cwikibase.client.linkitem.init&skin=vector&version=20130811T022514Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.eventLogging%2CnavigationTiming%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CmySandbox%2Cteahouse%7Cext.gettingstarted.logging%2CopenTask%7Cext.vector.collapsibleNav%7Cjquery.autoEllipsis%2CcheckboxShiftClick%2Chidpi%2ChighlightText%2CmakeCollapsible%2Cmw-jump%2Cplaceholder%2Cspinner%2Csuggestions%2CtabIndex%7Cmediawiki.action.view.postEdit%7Cmediawiki.api.watch%7Cmediawiki.hidpi%2CsearchSuggest%2Cui%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmobile.desktop%7Cmw.MwEmbedSupport.style%7Cmw.PopUpMediaTransform%7Cschema.Echo%2CEchoInteraction%2CEchoMail%2CEdit%2CGettingStartedNavbar%2CNavigationTiming%7Cwikibase.client.linkitem.init&skin=vector&version=20130811T022514Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery.ui.button%2Ccore%2Cdialog%2Cdraggable%2Cmouse%2Cposition%2Cresizable%2Cwidget&skin=vector&version=20130725T144824Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery.ui.button%2Ccore%2Cdialog%2Cdraggable%2Cmouse%2Cposition%2Cresizable%2Cwidget&skin=vector&version=20130725T144824Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"PAGEUPDATE": 1376460067783
+}
+]

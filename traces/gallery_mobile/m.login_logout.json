@@ -1,0 +1,455 @@
+[
+{
+"PAGEUPDATE": 1378632496902
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3",
+"details": "GET /gallery3 HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET /gallery3/ HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/imobile/js/staystandalone.min.js",
+"details": "GET /gallery3/themes/imobile/js/staystandalone.min.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/modules/gallery/css/gallery.css",
+"details": "GET /gallery3/modules/gallery/css/gallery.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/lib/jquery.cookie.js",
+"details": "GET /gallery3/lib/jquery.cookie.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/lib/uploadify/uploadify.css",
+"details": "GET /gallery3/lib/uploadify/uploadify.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/modules/user/css/user.css",
+"details": "GET /gallery3/modules/user/css/user.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/modules/user/js/password_strength.js",
+"details": "GET /gallery3/modules/user/js/password_strength.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/modules/comment/css/comment.css",
+"details": "GET /gallery3/modules/comment/css/comment.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/modules/comment/js/comment.js",
+"details": "GET /gallery3/modules/comment/js/comment.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/lib/jquery.autocomplete.css",
+"details": "GET /gallery3/lib/jquery.autocomplete.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/lib/jquery.autocomplete.js",
+"details": "GET /gallery3/lib/jquery.autocomplete.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/modules/tag/css/tag.css",
+"details": "GET /gallery3/modules/tag/css/tag.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/modules/themedispatcher/css/themedispatcher.css",
+"details": "GET /gallery3/modules/themedispatcher/css/themedispatcher.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/imobile/css/imobile.css",
+"details": "GET /gallery3/themes/imobile/css/imobile.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/imobile/css/photoswipe-3.0.5.css",
+"details": "GET /gallery3/themes/imobile/css/photoswipe-3.0.5.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/imobile/js/klass.min.js",
+"details": "GET /gallery3/themes/imobile/js/klass.min.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/imobile/js/code.photoswipe-3.0.5.min.js",
+"details": "GET /gallery3/themes/imobile/js/code.photoswipe-3.0.5.min.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/imobile/js/imobile-1.0.1.min.js",
+"details": "GET /gallery3/themes/imobile/js/imobile-1.0.1.min.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://e.cooliris.com/slideshow/v/37732/go.js",
+"details": "GET /slideshow/v/37732/go.js HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/imobile/images/toolbar.png",
+"details": "GET /gallery3/themes/imobile/images/toolbar.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/imobile/images/button.png",
+"details": "GET /gallery3/themes/imobile/images/button.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/imobile/images/dummy.gif",
+"details": "GET /gallery3/themes/imobile/images/dummy.gif HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/var/thumbs/Bear-album/.album.jpg?m=1378628626",
+"details": "GET /gallery3/var/thumbs/Bear-album/.album.jpg?m=1378628626 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/var/thumbs/New-Album/.album.jpg?m=1378630691",
+"details": "GET /gallery3/var/thumbs/New-Album/.album.jpg?m=1378630691 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"PAGEUPDATE": 1378632519070
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/index.php/login/html",
+"details": "GET /gallery3/index.php/login/html HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/imobile/js/staystandalone.min.js",
+"details": "GET /gallery3/themes/imobile/js/staystandalone.min.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/modules/gallery/css/gallery.css",
+"details": "GET /gallery3/modules/gallery/css/gallery.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/lib/jquery.cookie.js",
+"details": "GET /gallery3/lib/jquery.cookie.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/lib/uploadify/uploadify.css",
+"details": "GET /gallery3/lib/uploadify/uploadify.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/modules/user/css/user.css",
+"details": "GET /gallery3/modules/user/css/user.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/modules/user/js/password_strength.js",
+"details": "GET /gallery3/modules/user/js/password_strength.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/modules/comment/css/comment.css",
+"details": "GET /gallery3/modules/comment/css/comment.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/modules/comment/js/comment.js",
+"details": "GET /gallery3/modules/comment/js/comment.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/lib/jquery.autocomplete.css",
+"details": "GET /gallery3/lib/jquery.autocomplete.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/lib/jquery.autocomplete.js",
+"details": "GET /gallery3/lib/jquery.autocomplete.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/modules/tag/css/tag.css",
+"details": "GET /gallery3/modules/tag/css/tag.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/modules/themedispatcher/css/themedispatcher.css",
+"details": "GET /gallery3/modules/themedispatcher/css/themedispatcher.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/imobile/css/imobile.css",
+"details": "GET /gallery3/themes/imobile/css/imobile.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/imobile/css/photoswipe-3.0.5.css",
+"details": "GET /gallery3/themes/imobile/css/photoswipe-3.0.5.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/imobile/js/klass.min.js",
+"details": "GET /gallery3/themes/imobile/js/klass.min.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/imobile/js/code.photoswipe-3.0.5.min.js",
+"details": "GET /gallery3/themes/imobile/js/code.photoswipe-3.0.5.min.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/imobile/js/imobile-1.0.1.min.js",
+"details": "GET /gallery3/themes/imobile/js/imobile-1.0.1.min.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://e.cooliris.com/slideshow/v/37732/go.js",
+"details": "GET /slideshow/v/37732/go.js HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"PAGEUPDATE": 1378632524984
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/index.php/login/auth_html",
+"details": "POST /gallery3/index.php/login/auth_html HTTP/1.1","post_data": "csrf%3D36beb2aee8b5dfdf03c64ea5d2b17351%26continue_url%3D%26name%3Dmuser%26password%3Dmuserpw%2521",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /gallery3/index.php/ HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/imobile/js/staystandalone.min.js",
+"details": "GET /gallery3/themes/imobile/js/staystandalone.min.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/modules/gallery/css/gallery.css",
+"details": "GET /gallery3/modules/gallery/css/gallery.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/lib/jquery.cookie.js",
+"details": "GET /gallery3/lib/jquery.cookie.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/lib/uploadify/uploadify.css",
+"details": "GET /gallery3/lib/uploadify/uploadify.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/modules/user/css/user.css",
+"details": "GET /gallery3/modules/user/css/user.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/modules/user/js/password_strength.js",
+"details": "GET /gallery3/modules/user/js/password_strength.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/modules/comment/css/comment.css",
+"details": "GET /gallery3/modules/comment/css/comment.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/modules/comment/js/comment.js",
+"details": "GET /gallery3/modules/comment/js/comment.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/lib/jquery.autocomplete.css",
+"details": "GET /gallery3/lib/jquery.autocomplete.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/lib/jquery.autocomplete.js",
+"details": "GET /gallery3/lib/jquery.autocomplete.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/modules/tag/css/tag.css",
+"details": "GET /gallery3/modules/tag/css/tag.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/modules/themedispatcher/css/themedispatcher.css",
+"details": "GET /gallery3/modules/themedispatcher/css/themedispatcher.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/imobile/css/imobile.css",
+"details": "GET /gallery3/themes/imobile/css/imobile.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/imobile/css/photoswipe-3.0.5.css",
+"details": "GET /gallery3/themes/imobile/css/photoswipe-3.0.5.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/imobile/js/klass.min.js",
+"details": "GET /gallery3/themes/imobile/js/klass.min.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/imobile/js/code.photoswipe-3.0.5.min.js",
+"details": "GET /gallery3/themes/imobile/js/code.photoswipe-3.0.5.min.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/imobile/js/imobile-1.0.1.min.js",
+"details": "GET /gallery3/themes/imobile/js/imobile-1.0.1.min.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://e.cooliris.com/slideshow/v/37732/go.js",
+"details": "GET /slideshow/v/37732/go.js HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/imobile/images/dummy.gif",
+"details": "GET /gallery3/themes/imobile/images/dummy.gif HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/var/thumbs/Bear-album/.album.jpg?m=1378628626",
+"details": "GET /gallery3/var/thumbs/Bear-album/.album.jpg?m=1378628626 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/var/thumbs/New-Album/.album.jpg?m=1378630691",
+"details": "GET /gallery3/var/thumbs/New-Album/.album.jpg?m=1378630691 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"PAGEUPDATE": 1378632534759
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/index.php/logout?csrf=36beb2aee8b5dfdf03c64ea5d2b17351&continue_url=http%3A%2F%2Fbear.cc.gt.atl.ga.us%3A8080%2Fgallery3%2Findex.php%2F",
+"details": "GET /gallery3/index.php/logout?csrf=36beb2aee8b5dfdf03c64ea5d2b17351&continue_url=http%3A%2F%2Fbear.cc.gt.atl.ga.us%3A8080%2Fgallery3%2Findex.php%2F HTTP/1.1",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /gallery3/index.php/ HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/imobile/js/staystandalone.min.js",
+"details": "GET /gallery3/themes/imobile/js/staystandalone.min.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/modules/gallery/css/gallery.css",
+"details": "GET /gallery3/modules/gallery/css/gallery.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/lib/jquery.cookie.js",
+"details": "GET /gallery3/lib/jquery.cookie.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/lib/uploadify/uploadify.css",
+"details": "GET /gallery3/lib/uploadify/uploadify.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/modules/user/css/user.css",
+"details": "GET /gallery3/modules/user/css/user.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/modules/user/js/password_strength.js",
+"details": "GET /gallery3/modules/user/js/password_strength.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/modules/comment/css/comment.css",
+"details": "GET /gallery3/modules/comment/css/comment.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/modules/comment/js/comment.js",
+"details": "GET /gallery3/modules/comment/js/comment.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/lib/jquery.autocomplete.css",
+"details": "GET /gallery3/lib/jquery.autocomplete.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/lib/jquery.autocomplete.js",
+"details": "GET /gallery3/lib/jquery.autocomplete.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/modules/tag/css/tag.css",
+"details": "GET /gallery3/modules/tag/css/tag.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/modules/themedispatcher/css/themedispatcher.css",
+"details": "GET /gallery3/modules/themedispatcher/css/themedispatcher.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/imobile/css/imobile.css",
+"details": "GET /gallery3/themes/imobile/css/imobile.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/imobile/css/photoswipe-3.0.5.css",
+"details": "GET /gallery3/themes/imobile/css/photoswipe-3.0.5.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/imobile/js/klass.min.js",
+"details": "GET /gallery3/themes/imobile/js/klass.min.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/imobile/js/code.photoswipe-3.0.5.min.js",
+"details": "GET /gallery3/themes/imobile/js/code.photoswipe-3.0.5.min.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/imobile/js/imobile-1.0.1.min.js",
+"details": "GET /gallery3/themes/imobile/js/imobile-1.0.1.min.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://e.cooliris.com/slideshow/v/37732/go.js",
+"details": "GET /slideshow/v/37732/go.js HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/imobile/images/dummy.gif",
+"details": "GET /gallery3/themes/imobile/images/dummy.gif HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/var/thumbs/Bear-album/.album.jpg?m=1378628626",
+"details": "GET /gallery3/var/thumbs/Bear-album/.album.jpg?m=1378628626 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/var/thumbs/New-Album/.album.jpg?m=1378630691",
+"details": "GET /gallery3/var/thumbs/New-Album/.album.jpg?m=1378630691 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"PAGEUPDATE": 1378632559619
+}
+]

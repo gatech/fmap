@@ -1,0 +1,69 @@
+Delivered-To: tmitzzz@gmail.com
+Received: by 10.194.51.202 with SMTP id m10csp16824wjo;
+        Sat, 7 Sep 2013 21:39:20 -0700 (PDT)
+Return-Path: <shauvik@gmail.com>
+Received-SPF: pass (google.com: domain of shauvik@gmail.com designates 10.220.237.208 as permitted sender) client-ip=10.220.237.208
+Authentication-Results: mr.google.com;
+       spf=pass (google.com: domain of shauvik@gmail.com designates 10.220.237.208 as permitted sender) smtp.mail=shauvik@gmail.com;
+       dkim=pass header.i=@gmail.com
+X-Received: from mr.google.com ([10.220.237.208])
+        by 10.220.237.208 with SMTP id kp16mr10750546vcb.4.1378615159609 (num_hops = 1);
+        Sat, 07 Sep 2013 21:39:19 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:in-reply-to:references:from:date:message-id
+         :subject:to:content-type;
+        bh=NQJyo3kM+93JT2Ej6DwIurtg7ezj8KPPJLeGby1EuMU=;
+        b=AzmEC2/tHLi0WThE58OhLlkAzo6BTp6UQ45+Hsr1d/YTH4fUzDlk6xnnXaakscr+uL
+         eW4t6aLzsdt8zVoyR8OYFFA8PYgrzeAedloozctBoyBRvB6oUP/NLIJzulaALvtSZN5J
+         Bnq8Ibg+CUnjfMafbJN4Cyq9GmTIZbcBAX93XAmQv4JKDnhYPJkq9K7kuZdLzDAH3I25
+         doI/uYVfRMAbj6z8shcmlYi6t2z6LPFhMN0tPSTZt+8+wfc33l3Fll7DvQtoQEn7tzpy
+         IcpPiGL0N9ZuiFPaLIwoyF0Qoj3qHsUBAWGsLDAn4kUlG0CjcC7OBH34j744lQioHn4P
+         oN6g==
+X-Received: by 10.220.237.208 with SMTP id kp16mr10750546vcb.4.1378615159601;
+ Sat, 07 Sep 2013 21:39:19 -0700 (PDT)
+MIME-Version: 1.0
+Sender: shauvik@gmail.com
+Received: by 10.221.51.2 with HTTP; Sat, 7 Sep 2013 21:38:49 -0700 (PDT)
+In-Reply-To: <08a281b4d7ce7ea9685e9d060ef850c2@gmail.com>
+References: <08a281b4d7ce7ea9685e9d060ef850c2@gmail.com>
+From: Shauvik Roy Choudhary <shauvik@cc.gatech.edu>
+Date: Sun, 8 Sep 2013 00:38:49 -0400
+X-Google-Sender-Auth: M7Kty7eFwE5YRQYLiOO-sftj7M8
+Message-ID: <CAKXmLPEF5aZy5RChPuCZxNm-XDsVQYUZ3vwd7WoKiqUVSnSNAw@mail.gmail.com>
+Subject: Re: Test email
+To: tmitzzz@gmail.com
+Content-Type: multipart/alternative; boundary=047d7b343464dec22f04e5d7dab7
+
+--047d7b343464dec22f04e5d7dab7
+Content-Type: text/plain; charset=UTF-8
+
+Test reply.
+
+Shauvik Roy Choudhary
+PhD Student, Georgia Tech
+http://www.cc.gatech.edu/~shauvik
+
+
+On Sun, Sep 8, 2013 at 12:35 AM, <tmitzzz@gmail.com> wrote:
+
+>
+>
+
+--047d7b343464dec22f04e5d7dab7
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Test reply.</div><div class=3D"gmail_extra"><br clear=3D"a=
+ll"><div>Shauvik Roy Choudhary<br>PhD Student, Georgia Tech<br><a href=3D"h=
+ttp://www.cc.gatech.edu/~shauvik">http://www.cc.gatech.edu/~shauvik</a></di=
+v>
+<br><br><div class=3D"gmail_quote">On Sun, Sep 8, 2013 at 12:35 AM,  <span =
+dir=3D"ltr">&lt;<a href=3D"mailto:tmitzzz@gmail.com" target=3D"_blank">tmit=
+zzz@gmail.com</a>&gt;</span> wrote:<br><blockquote class=3D"gmail_quote" st=
+yle=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+
+<br>
+</blockquote></div><br></div>
+
+--047d7b343464dec22f04e5d7dab7--

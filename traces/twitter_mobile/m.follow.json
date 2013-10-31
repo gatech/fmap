@@ -1,0 +1,47 @@
+[
+{
+"PAGEUPDATE": 1376467461595
+},
+{
+"REQUEST": "http://m.twitter.com/",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "302 Found, text/html",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /signup HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376467465018
+},
+{
+"REQUEST": "https://mobile.twitter.com/session/new",
+"details": "GET /session/new HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376467466882
+},
+{
+"REQUEST": "https://mobile.twitter.com/session",
+"details": "POST /session HTTP/1.1","post_data": "authenticity_token%3D448c8908e00a39d5e56a%26username%3Dmasala32%26password%3Dmasala44%26commit%3DSign%2Bin",
+"RESPONSE": "302 Found, text/html",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376467475421
+},
+{
+"REQUEST": "https://mobile.twitter.com/maddow/follow",
+"details": "POST /maddow/follow HTTP/1.1","post_data": "authenticity_token%3D448c8908e00a39d5e56a%26x%3D16%26y%3D1%26scribe_item%3D",
+"RESPONSE": "302 Found, text/html",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376467485710
+}
+]

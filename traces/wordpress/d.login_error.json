@@ -1,0 +1,60 @@
+[
+{
+"PAGEUPDATE": 1378091358946
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin",
+"details": "GET /wordpress/wp-admin HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET /wordpress/wp-admin/ HTTP/1.1",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /wordpress/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8080%2Fwordpress%2Fwp-admin%2F&reauth=1 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/css/wp-admin.min.css?ver=3.6",
+"details": "GET /wordpress/wp-admin/css/wp-admin.min.css?ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-includes/css/buttons.min.css?ver=3.6",
+"details": "GET /wordpress/wp-includes/css/buttons.min.css?ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/css/colors-fresh.min.css?ver=3.6",
+"details": "GET /wordpress/wp-admin/css/colors-fresh.min.css?ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/images/wordpress-logo.png?ver=20120216",
+"details": "GET /wordpress/wp-admin/images/wordpress-logo.png?ver=20120216 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"PAGEUPDATE": 1378091361881
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-login.php",
+"details": "POST /wordpress/wp-login.php HTTP/1.1","post_data": "log%3Dadmin1%26pwd%3Dwrong%26wp-submit%3DLog%2BIn%26redirect_to%3Dhttp%253A%252F%252Flocalhost%253A8080%252Fwordpress%252Fwp-admin%252F%26testcookie%3D1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/css/wp-admin.min.css?ver=3.6",
+"details": "GET /wordpress/wp-admin/css/wp-admin.min.css?ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-includes/css/buttons.min.css?ver=3.6",
+"details": "GET /wordpress/wp-includes/css/buttons.min.css?ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/css/colors-fresh.min.css?ver=3.6",
+"details": "GET /wordpress/wp-admin/css/colors-fresh.min.css?ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"PAGEUPDATE": 1378091371345
+}
+]

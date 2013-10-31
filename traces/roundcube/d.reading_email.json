@@ -1,0 +1,328 @@
+[
+{
+"PAGEUPDATE": 1378614437213
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube",
+"details": "GET /roundcube HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET /roundcube/ HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/program/js/jstz.min.js?s=1378470049",
+"details": "GET /roundcube/program/js/jstz.min.js?s=1378470049 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/skins/larry/images/linen_login.jpg?v=0484.10363",
+"details": "GET /roundcube/skins/larry/images/linen_login.jpg?v=0484.10363 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/skins/larry/images/login_shadow.png?v=3337.1069",
+"details": "GET /roundcube/skins/larry/images/login_shadow.png?v=3337.1069 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/skins/larry/images/ajaxloader.gif",
+"details": "GET /roundcube/skins/larry/images/ajaxloader.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/skins/larry/images/buttons.png",
+"details": "GET /roundcube/skins/larry/images/buttons.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/skins/larry/images/filetypes.png",
+"details": "GET /roundcube/skins/larry/images/filetypes.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/skins/larry/images/listicons.png",
+"details": "GET /roundcube/skins/larry/images/listicons.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/skins/larry/images/messages.png",
+"details": "GET /roundcube/skins/larry/images/messages.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/skins/larry/images/quota.png",
+"details": "GET /roundcube/skins/larry/images/quota.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/skins/larry/images/selector.png",
+"details": "GET /roundcube/skins/larry/images/selector.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/skins/larry/images/splitter.png",
+"details": "GET /roundcube/skins/larry/images/splitter.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/skins/larry/images/watermark.jpg",
+"details": "GET /roundcube/skins/larry/images/watermark.jpg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"PAGEUPDATE": 1378614444814
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/skins/larry/images/ajaxloader.gif?v=c252.1434",
+"details": "GET /roundcube/skins/larry/images/ajaxloader.gif?v=c252.1434 HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/",
+"details": "POST /roundcube/ HTTP/1.1","post_data": "_token%3D55bcec474e20dd88015e3ab701ec9144%26_task%3Dlogin%26_action%3Dlogin%26_timezone%3DAmerica%252FNew_York%26_url%3D%26_user%3Dtmitzzz%2540gmail.com%26_pass%3Dtanu164822",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /roundcube/?_task=mail HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/program/js/list.js?s=1378470049",
+"details": "GET /roundcube/program/js/list.js?s=1378470049 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/skins/larry/watermark.html",
+"details": "GET /roundcube/skins/larry/watermark.html HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/skins/larry/images/linen.jpg?v=0382.14157",
+"details": "GET /roundcube/skins/larry/images/linen.jpg?v=0382.14157 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg",
+"details": "GET /roundcube/skins/larry/images/linen.jpg?v=0382.14157 HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/skins/larry/images/linen_header.jpg?v=514a.580",
+"details": "GET /roundcube/skins/larry/images/linen_header.jpg?v=514a.580 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/skins/larry/images/listicons.png?v=bd98.25486",
+"details": "GET /roundcube/skins/larry/images/listicons.png?v=bd98.25486 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/skins/larry/images/quota.png?v=4835.3622",
+"details": "GET /roundcube/skins/larry/images/quota.png?v=4835.3622 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/skins/larry/images/selector.png?v=799c.181",
+"details": "GET /roundcube/skins/larry/images/selector.png?v=799c.181 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/skins/larry/images/splitter.png?v=2724.136",
+"details": "GET /roundcube/skins/larry/images/splitter.png?v=2724.136 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/?_task=mail&_refresh=1&_mbox=INBOX&_action=list&_remote=1&_unlock=loading1378614459720&_=1378614459722",
+"details": "GET /roundcube/?_task=mail&_refresh=1&_mbox=INBOX&_action=list&_remote=1&_unlock=loading1378614459720&_=1378614459722 HTTP/1.1",
+"RESPONSE": "200 OK, text/plain"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/?_task=mail&_action=getunread&_remote=1&_unlock=0&_=1378614459724",
+"details": "GET /roundcube/?_task=mail&_action=getunread&_remote=1&_unlock=0&_=1378614459724 HTTP/1.1",
+"RESPONSE": "200 OK, text/plain"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/program/resources/blank.tif",
+"details": "GET /roundcube/program/resources/blank.tif HTTP/1.1",
+"RESPONSE": "200 OK, image/tiff"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/skins/larry/images/ajaxloader.gif?v=c252.1434",
+"details": "GET /roundcube/skins/larry/images/ajaxloader.gif?v=c252.1434 HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/skins/larry/watermark.html",
+"details": "GET /roundcube/skins/larry/watermark.html HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/skins/larry/images/watermark.jpg?v=e784.5000",
+"details": "GET /roundcube/skins/larry/images/watermark.jpg?v=e784.5000 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"PAGEUPDATE": 1378614460242
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/?_task=mail&_action=show&_uid=328&_mbox=INBOX&_caps=pdf%3D0%2Cflash%3D1%2Ctif%3D0",
+"details": "GET /roundcube/?_task=mail&_action=show&_uid=328&_mbox=INBOX&_caps=pdf%3D0%2Cflash%3D1%2Ctif%3D0 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/skins/larry/images/buttons.png?v=abf1.36693",
+"details": "GET /roundcube/skins/larry/images/buttons.png?v=abf1.36693 HTTP/1.1",
+"RESPONSE": "200 OK, image/png",
+"details": "GET /roundcube/skins/larry/images/buttons.png?v=abf1.36693 HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/skins/larry/images/contactpic_48px.png?v=1bc4.353",
+"details": "GET /roundcube/skins/larry/images/contactpic_48px.png?v=1bc4.353 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/skins/larry/images/messages.png?v=01ee.1736",
+"details": "GET /roundcube/skins/larry/images/messages.png?v=01ee.1736 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/program/resources/blocked.gif",
+"details": "GET /roundcube/program/resources/blocked.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/?_task=mail&_uid=328&_mbox=INBOX&_action=pagenav&_remote=1&_unlock=loading1378614477767&_=1378614477768",
+"details": "GET /roundcube/?_task=mail&_uid=328&_mbox=INBOX&_action=pagenav&_remote=1&_unlock=loading1378614477767&_=1378614477768 HTTP/1.1",
+"RESPONSE": "200 OK, text/plain"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/?_task=mail&_action=getunread&_remote=1&_unlock=0&_=1378614477769",
+"details": "GET /roundcube/?_task=mail&_action=getunread&_remote=1&_unlock=0&_=1378614477769 HTTP/1.1",
+"RESPONSE": "200 OK, text/plain"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/program/resources/blank.tif",
+"details": "GET /roundcube/program/resources/blank.tif HTTP/1.1",
+"RESPONSE": "200 OK, image/tiff"
+},
+{
+"PAGEUPDATE": 1378614478172
+},
+{
+"PAGEUPDATE": 1378614489453
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/?_task=mail&_action=show&_uid=328&_mbox=INBOX&_safe=1&_caps=pdf%3D0%2Cflash%3D1%2Ctif%3D0",
+"details": "GET /roundcube/?_task=mail&_action=show&_uid=328&_mbox=INBOX&_safe=1&_caps=pdf%3D0%2Cflash%3D1%2Ctif%3D0 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/skins/larry/styles.css?s=1378470050",
+"details": "GET /roundcube/skins/larry/styles.css?s=1378470050 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /roundcube/skins/larry/styles.css?s=1378470050 HTTP/1.1",
+"details": "GET /roundcube/skins/larry/styles.css?s=1378470050 HTTP/1.1",
+"details": "GET /roundcube/skins/larry/styles.css?s=1378470050 HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/skins/larry/mail.css?s=1378470050",
+"details": "GET /roundcube/skins/larry/mail.css?s=1378470050 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /roundcube/skins/larry/mail.css?s=1378470050 HTTP/1.1",
+"details": "GET /roundcube/skins/larry/mail.css?s=1378470050 HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/plugins/jqueryui/themes/larry/jquery-ui-1.9.1.custom.css?s=1378470048",
+"details": "GET /roundcube/plugins/jqueryui/themes/larry/jquery-ui-1.9.1.custom.css?s=1378470048 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /roundcube/plugins/jqueryui/themes/larry/jquery-ui-1.9.1.custom.css?s=1378470048 HTTP/1.1",
+"details": "GET /roundcube/plugins/jqueryui/themes/larry/jquery-ui-1.9.1.custom.css?s=1378470048 HTTP/1.1",
+"details": "GET /roundcube/plugins/jqueryui/themes/larry/jquery-ui-1.9.1.custom.css?s=1378470048 HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/skins/larry/ui.js?s=1378470050",
+"details": "GET /roundcube/skins/larry/ui.js?s=1378470050 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /roundcube/skins/larry/ui.js?s=1378470050 HTTP/1.1",
+"details": "GET /roundcube/skins/larry/ui.js?s=1378470050 HTTP/1.1",
+"details": "GET /roundcube/skins/larry/ui.js?s=1378470050 HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/program/js/jquery.min.js?s=1378470049",
+"details": "GET /roundcube/program/js/jquery.min.js?s=1378470049 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /roundcube/program/js/jquery.min.js?s=1378470049 HTTP/1.1",
+"details": "GET /roundcube/program/js/jquery.min.js?s=1378470049 HTTP/1.1",
+"details": "GET /roundcube/program/js/jquery.min.js?s=1378470049 HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/program/js/common.js?s=1378470049",
+"details": "GET /roundcube/program/js/common.js?s=1378470049 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /roundcube/program/js/common.js?s=1378470049 HTTP/1.1",
+"details": "GET /roundcube/program/js/common.js?s=1378470049 HTTP/1.1",
+"details": "GET /roundcube/program/js/common.js?s=1378470049 HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/program/js/app.js?s=1378470049",
+"details": "GET /roundcube/program/js/app.js?s=1378470049 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /roundcube/program/js/app.js?s=1378470049 HTTP/1.1",
+"details": "GET /roundcube/program/js/app.js?s=1378470049 HTTP/1.1",
+"details": "GET /roundcube/program/js/app.js?s=1378470049 HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/plugins/jqueryui/js/jquery-ui-1.9.1.custom.min.js?s=1378470048",
+"details": "GET /roundcube/plugins/jqueryui/js/jquery-ui-1.9.1.custom.min.js?s=1378470048 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /roundcube/plugins/jqueryui/js/jquery-ui-1.9.1.custom.min.js?s=1378470048 HTTP/1.1",
+"details": "GET /roundcube/plugins/jqueryui/js/jquery-ui-1.9.1.custom.min.js?s=1378470048 HTTP/1.1",
+"details": "GET /roundcube/plugins/jqueryui/js/jquery-ui-1.9.1.custom.min.js?s=1378470048 HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/skins/larry/images/roundcube_logo.png",
+"details": "GET /roundcube/skins/larry/images/roundcube_logo.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png",
+"details": "GET /roundcube/skins/larry/images/roundcube_logo.png HTTP/1.1",
+"details": "GET /roundcube/skins/larry/images/roundcube_logo.png HTTP/1.1",
+"details": "GET /roundcube/skins/larry/images/roundcube_logo.png HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/skins/larry/images/addcontact.png",
+"details": "GET /roundcube/skins/larry/images/addcontact.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png",
+"details": "GET /roundcube/skins/larry/images/addcontact.png HTTP/1.1",
+"details": "GET /roundcube/skins/larry/images/addcontact.png HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/?_email=notification%2Bzrdolhvh1gce%40facebookmail.com&_action=photo&_task=addressbook",
+"details": "GET /roundcube/?_email=notification%2Bzrdolhvh1gce%40facebookmail.com&_action=photo&_task=addressbook HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg",
+"details": "GET /roundcube/?_email=notification%2Bzrdolhvh1gce%40facebookmail.com&_action=photo&_task=addressbook HTTP/1.1"
+},
+{
+"REQUEST": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yr/r/7F4dDoh_z7C.png",
+"details": "GET /rsrc.php/v2/yr/r/7F4dDoh_z7C.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/y3/r/dcyG8MSuyIB.png",
+"details": "GET /rsrc.php/v2/y3/r/dcyG8MSuyIB.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://www.facebook.com/email_open_log_pic.php?c=1430583146&mid=88b298bG5af3a9b9c0a1G0G1eb",
+"details": "GET /email_open_log_pic.php?c=1430583146&mid=88b298bG5af3a9b9c0a1G0G1eb HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/?_task=mail&_uid=328&_mbox=INBOX&_action=pagenav&_remote=1&_unlock=loading1378614491318&_=1378614491321",
+"details": "GET /roundcube/?_task=mail&_uid=328&_mbox=INBOX&_action=pagenav&_remote=1&_unlock=loading1378614491318&_=1378614491321 HTTP/1.1",
+"RESPONSE": "200 OK, text/plain"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/?_task=mail&_action=getunread&_remote=1&_unlock=0&_=1378614491322",
+"details": "GET /roundcube/?_task=mail&_action=getunread&_remote=1&_unlock=0&_=1378614491322 HTTP/1.1",
+"RESPONSE": "200 OK, text/plain"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8888/roundcube/program/resources/blank.tif",
+"details": "GET /roundcube/program/resources/blank.tif HTTP/1.1",
+"RESPONSE": "200 OK, image/tiff"
+},
+{
+"PAGEUPDATE": 1378614491541
+}
+]

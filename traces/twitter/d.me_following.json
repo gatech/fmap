@@ -1,0 +1,112 @@
+[
+{
+"PAGEUPDATE": 1376517154640
+},
+{
+"REQUEST": "http://twitter.com/",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, ",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376517160760
+},
+{
+"REQUEST": "https://ssl.google-analytics.com/ga.js",
+"details": "GET /ga.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"PAGEUPDATE": 1376517171007
+},
+{
+"REQUEST": "https://twitter.com/sessions",
+"details": "POST /sessions HTTP/1.1","post_data": "session%255Busername_or_email%255D%3Darktos10%26session%255Bpassword%255D%3Dbear44%26remember_me%3D1%26return_to_ssl%3Dtrue%26scribe_log%3D%26redirect_after_login%3D%252F%26authenticity_token%3D6c01e977705cad5101a901dba49a2a7ca0f88057",
+"RESPONSE": "302 Found, text/html",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376517171855
+},
+{
+"REQUEST": "https://twitter.com/i/search/typeahead.json?count=1200&prefetch=true&result_type=users&users_cache_age=-1",
+"details": "GET /i/search/typeahead.json?count=1200&prefetch=true&result_type=users&users_cache_age=-1 HTTP/1.1",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "https://twitter.com/i/search/typeahead.json?count=500&prefetch=true&result_type=topics&topics_cache_age=-1",
+"details": "GET /i/search/typeahead.json?count=500&prefetch=true&result_type=topics&topics_cache_age=-1 HTTP/1.1",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "https://twitter.com/trends?k=3f1e9b3007&pc=true&src=module",
+"details": "GET /trends?k=3f1e9b3007&pc=true&src=module HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://ssl.google-analytics.com/ga.js",
+"details": "GET /ga.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/i/users/recommendations?connections=true&disabled=false&dismissable=true&display_location=wtf-component&excluded=&initialResults=true&limit=3&oldest_unread_id=0&pc=true&scribeContext%5Bcomponent%5D=user_recommendations",
+"details": "GET /i/users/recommendations?connections=true&disabled=false&dismissable=true&display_location=wtf-component&excluded=&initialResults=true&limit=3&oldest_unread_id=0&pc=true&scribeContext%5Bcomponent%5D=user_recommendations HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/i/resolve.json?urls%5B%5D=http%3A%2F%2Fswoo.sh%2F19T0YFd&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAgpqSGvAm%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAePeRQayk%2F&urls%5B%5D=http%3A%2F%2Fbusiness.instagram.com%2Fblog%2Fpost%2F58260750086%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAarSjiTLU%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAXF5_Qa2t%2F&urls%5B%5D=http%3A%2F%2FSixers.com%2Flive",
+"details": "GET /i/resolve.json?urls%5B%5D=http%3A%2F%2Fswoo.sh%2F19T0YFd&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAgpqSGvAm%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAePeRQayk%2F&urls%5B%5D=http%3A%2F%2Fbusiness.instagram.com%2Fblog%2Fpost%2F58260750086%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAarSjiTLU%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAXF5_Qa2t%2F&urls%5B%5D=http%3A%2F%2FSixers.com%2Flive HTTP/1.1",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"PAGEUPDATE": 1376517187512
+},
+{
+"REQUEST": "https://twitter.com/Arktos10",
+"details": "GET /Arktos10 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"PAGEUPDATE": 1376517187674
+},
+{
+"REQUEST": "https://twitter.com/i/profiles/show/Arktos10/media_timeline",
+"details": "GET /i/profiles/show/Arktos10/media_timeline HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/i/users/recommendations?connections=true&dismissable=true&display_location=profile-sidebar&excluded=&initialResults=true&limit=3&pc=true&scribeContext%5Bcomponent%5D=user_recommendations&similar_to_user_id=1671276493",
+"details": "GET /i/users/recommendations?connections=true&dismissable=true&display_location=profile-sidebar&excluded=&initialResults=true&limit=3&pc=true&scribeContext%5Bcomponent%5D=user_recommendations&similar_to_user_id=1671276493 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/i/profiles/show/Arktos10/media_timeline?max_id=367765595963408385",
+"details": "GET /i/profiles/show/Arktos10/media_timeline?max_id=367765595963408385 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/i/jot",
+"details": "POST /i/jot HTTP/1.1","post_data": "log%3D%255B%257B%2522internal_referer%2522%253Anull%252C%2522client_version%2522%253A%2522swift%2522%252C%2522user_id%2522%253A0%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522front%2522%252C%2522section%2522%253A%2522front%2522%252C%2522component%2522%253A%2522login_callout%2522%252C%2522element%2522%253A%2522form%2522%252C%2522action%2522%253A%2522login_click%2522%257D%252C%2522triggered_on%2522%253A1376517170997%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522macaw-swift%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522home%2522%252C%2522section%2522%253A%2522home%2522%252C%2522component%2522%253A%2522gallery%2522%252C%2522element%2522%253A%2522gallery%2522%252C%2522action%2522%253A%2522close%2522%257D%252C%2522triggered_on%2522%253A1376517172441%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522macaw-swift%2522%252C%2522woeid%2522%253A1%252C%2522referring_event%2522%253A%2522initial%2522%252C%2522items%2522%253A%255B%257B%2522name%2522%253A%2522%2523SadGoogleSearches%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522%2523SadGoogleSearches%2522%252C%2522position%2522%253A0%257D%252C%257B%2522name%2522%253A%2522%2523DontTouchBestSongEver%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522%2523DontTouchBestSongEver%2522%252C%2522position%2522%253A1%257D%252C%257B%2522name%2522%253A%2522%2523NoSosDeMiCursoSi%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522%2523NoSosDeMiCursoSi%2522%252C%2522position%2522%253A2%257D%252C%257B%2522name%2522%253A%2522%2523ViviLlevameAVerAlPoe%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522%2523ViviLlevameAVerAlPoe%2522%252C%2522position%2522%253A3%257D%252C%257B%2522name%2522%253A%2522%2523M%25C4%25B1s%25C4%25B1rdaKatliamaSon%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522%2523M%25C4%25B1s%25C4%25B1rdaKatliamaSon%2522%252C%2522position%2522%253A4%257D%252C%257B%2522name%2522%253A%2522Good%2BLuck%2BE3%2BAnd%2BSelena%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522Good%2BLuck%2BE3%2BAnd%2BSelena%2522%252C%2522position%2522%253A5%257D%252C%257B%2522name%2522%253A%2522Santi%2BCazorla%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522Santi%2BCazorla%2522%252C%2522position%2522%253A6%257D%252C%257B%2522name%2522%253A%2522Koke%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522Koke%2522%252C%2522position%2522%253A7%257D%252C%257B%2522name%2522%253A%2522Joe%2BMauer%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522Joe%2BMauer%2522%252C%2522position%2522%253A8%257D%252C%257B%2522name%2522%253A%2522Tom%2BBrady%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522Tom%2BBrady%2522%252C%2522position%2522%253A9%257D%255D%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522home%2522%252C%2522section%2522%253A%2522home%2522%252C%2522component%2522%253A%2522trends%2522%252C%2522element%2522%253A%2522initial%2522%252C%2522action%2522%253A%2522results%2522%257D%252C%2522triggered_on%2522%253A1376517172481%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522macaw-swift%2522%252C%2522woeid%2522%253A1%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522home%2522%252C%2522section%2522%253A%2522home%2522%252C%2522component%2522%253A%2522trends%2522%252C%2522action%2522%253A%2522impression%2522%257D%252C%2522triggered_on%2522%253A1376517172481%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522macaw-swift%2522%252C%2522items%2522%253A%255B%257B%2522position%2522%253A0%252C%2522id%2522%253A%252219397785%2522%252C%2522item_type%2522%253A3%252C%2522token%2522%253A%252242%2522%257D%252C%257B%2522position%2522%253A1%252C%2522id%2522%253A%252219058681%2522%252C%2522item_type%2522%253A3%252C%2522token%2522%253A%252242%2522%257D%252C%257B%2522position%2522%253A2%252C%2522id%2522%253A%252217915334%2522%252C%2522item_type%2522%253A3%252C%2522token%2522%253A%252240%2522%257D%255D%252C%2522referring_event%2522%253A%2522initial%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522home%2522%252C%2522section%2522%253A%2522home%2522%252C%2522component%2522%253A%2522user_recommendations%2522%252C%2522element%2522%253A%2522initial%2522%252C%2522action%2522%253A%2522results%2522%257D%252C%2522triggered_on%2522%253A1376517172629%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522macaw-swift%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522home%2522%252C%2522section%2522%253A%2522home%2522%252C%2522component%2522%253A%2522user_recommendations%2522%252C%2522action%2522%253A%2522impression%2522%257D%252C%2522triggered_on%2522%253A1376517172629%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522macaw-swift%2522%252C%2522url%2522%253A%2522%252FArktos10%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522home%2522%252C%2522section%2522%253A%2522home%2522%252C%2522component%2522%253A%2522top_bar%2522%252C%2522element%2522%253A%2522profile%2522%252C%2522action%2522%253A%2522navigate%2522%257D%252C%2522triggered_on%2522%253A1376517187497%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522macaw-swift%2522%252C%2522profile_id%2522%253A1671276493%252C%2522item_count%2522%253A0%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522me%2522%252C%2522section%2522%253A%2522profile%2522%252C%2522component%2522%253A%2522dashboard_media%2522%252C%2522action%2522%253A%2522no_results%2522%257D%252C%2522triggered_on%2522%253A1376517187980%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522macaw-swift%2522%252C%2522profile_id%2522%253A1671276493%252C%2522woeid%2522%253A1%252C%2522referring_event%2522%253A%2522initial%2522%252C%2522items%2522%253A%255B%257B%2522name%2522%253A%2522%2523SadGoogleSearches%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522%2523SadGoogleSearches%2522%252C%2522position%2522%253A0%257D%252C%257B%2522name%2522%253A%2522%2523DontTouchBestSongEver%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522%2523DontTouchBestSongEver%2522%252C%2522position%2522%253A1%257D%252C%257B%2522name%2522%253A%2522%2523NoSosDeMiCursoSi%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522%2523NoSosDeMiCursoSi%2522%252C%2522position%2522%253A2%257D%252C%257B%2522name%2522%253A%2522%2523ViviLlevameAVerAlPoe%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522%2523ViviLlevameAVerAlPoe%2522%252C%2522position%2522%253A3%257D%252C%257B%2522name%2522%253A%2522%2523M%25C4%25B1s%25C4%25B1rdaKatliamaSon%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522%2523M%25C4%25B1s%25C4%25B1rdaKatliamaSon%2522%252C%2522position%2522%253A4%257D%252C%257B%2522name%2522%253A%2522Good%2BLuck%2BE3%2BAnd%2BSelena%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522Good%2BLuck%2BE3%2BAnd%2BSelena%2522%252C%2522position%2522%253A5%257D%252C%257B%2522name%2522%253A%2522Santi%2BCazorla%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522Santi%2BCazorla%2522%252C%2522position%2522%253A6%257D%252C%257B%2522name%2522%253A%2522Koke%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522Koke%2522%252C%2522position%2522%253A7%257D%252C%257B%2522name%2522%253A%2522Joe%2BMauer%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522Joe%2BMauer%2522%252C%2522position%2522%253A8%257D%252C%257B%2522name%2522%253A%2522Tom%2BBrady%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522Tom%2BBrady%2522%252C%2522position%2522%253A9%257D%255D%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522me%2522%252C%2522section%2522%253A%2522profile%2522%252C%2522component%2522%253A%2522trends%2522%252C%2522element%2522%253A%2522initial%2522%252C%2522action%2522%253A%2522results%2522%257D%252C%2522triggered_on%2522%253A1376517188042%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522macaw-swift%2522%252C%2522profile_id%2522%253A1671276493%252C%2522woeid%2522%253A1%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522me%2522%252C%2522section%2522%253A%2522profile%2522%252C%2522component%2522%253A%2522trends%2522%252C%2522action%2522%253A%2522impression%2522%257D%252C%2522triggered_on%2522%253A1376517188042%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522macaw-swift%2522%252C%2522profile_id%2522%253A1671276493%252C%2522item_count%2522%253A1%252C%2522item_names%2522%253A%255B%2522https%253A%252F%252Fpbs.twimg.com%252Fmedia%252FBRqQ3GyCQAEmmtM.png%2522%255D%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522me%2522%252C%2522section%2522%253A%2522profile%2522%252C%2522component%2522%253A%2522dashboard_media%2522%252C%2522action%2522%253A%2522results%2522%257D%252C%2522triggered_on%2522%253A1376517188227%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522macaw-swift%2522%252C%2522profile_id%2522%253A1671276493%252C%2522item_count%2522%253A1%252C%2522item_names%2522%253A%255B%2522https%253A%252F%252Fpbs.twimg.com%252Fmedia%252FBRqQ3GyCQAEmmtM.png%2522%255D%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522me%2522%252C%2522section%2522%253A%2522profile%2522%252C%2522component%2522%253A%2522dashboard_media%2522%252C%2522action%2522%253A%2522results%2522%257D%252C%2522triggered_on%2522%253A1376517188228%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522macaw-swift%2522%252C%2522profile_id%2522%253A1671276493%252C%2522items%2522%253A%255B%257B%2522position%2522%253A0%252C%2522id%2522%253A%252215485441%2522%252C%2522item_type%2522%253A3%252C%2522token%2522%253A%252240%2522%257D%252C%257B%2522position%2522%253A1%252C%2522id%2522%253A%252220346956%2522%252C%2522item_type%2522%253A3%252C%2522token%2522%253A%2522117%2522%257D%252C%257B%2522position%2522%253A2%252C%2522id%2522%253A%252227195114%2522%252C%2522item_type%2522%253A3%252C%2522token%2522%253A%252242%2522%257D%255D%252C%2522referring_event%2522%253A%2522initial%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522me%2522%252C%2522section%2522%253A%2522profile%2522%252C%2522component%2522%253A%2522user_recommendations%2522%252C%2522element%2522%253A%2522initial%2522%252C%2522action%2522%253A%2522results%2522%257D%252C%2522triggered_on%2522%253A1376517188246%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522macaw-swift%2522%252C%2522profile_id%2522%253A1671276493%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522me%2522%252C%2522section%2522%253A%2522profile%2522%252C%2522component%2522%253A%2522user_recommendations%2522%252C%2522action%2522%253A%2522impression%2522%257D%252C%2522triggered_on%2522%253A1376517188246%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522macaw-swift%2522%252C%2522profile_id%2522%253A1671276493%252C%2522url%2522%253A%2522%252Ffollowing%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522me%2522%252C%2522section%2522%253A%2522profile%2522%252C%2522component%2522%253A%2522dashboard_nav%2522%252C%2522element%2522%253A%2522following%2522%252C%2522action%2522%253A%2522navigate%2522%257D%252C%2522triggered_on%2522%253A1376517205028%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%255D%26lang%3Den",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "https://twitter.com/following",
+"details": "GET /following HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"PAGEUPDATE": 1376517205353
+},
+{
+"REQUEST": "https://twitter.com/i/profiles/show/Arktos10/media_timeline",
+"details": "GET /i/profiles/show/Arktos10/media_timeline HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/i/profiles/show/Arktos10/media_timeline?max_id=367765595963408385",
+"details": "GET /i/profiles/show/Arktos10/media_timeline?max_id=367765595963408385 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+}
+]

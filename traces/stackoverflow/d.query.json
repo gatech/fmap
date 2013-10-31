@@ -1,0 +1,113 @@
+[
+{
+"PAGEUPDATE": 1378414869680
+},
+{
+"REQUEST": "http://www.stackoverflow.com/",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js",
+"details": "GET /ajax/libs/jquery/1.7.1/jquery.min.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://www.google-analytics.com/ga.js",
+"details": "GET /ga.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"PAGEUPDATE": 1378415066225
+},
+{
+"REQUEST": "http://stackoverflow.com/users/login/global/request",
+"details": "POST /users/login/global/request HTTP/1.1","post_data": "undefined",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "http://careers.stackoverflow.com/gethired/js",
+"details": "GET /gethired/js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://stackauth.com/auth/global/read?request=WkmkfBTXKP%2FKz5R1BahmoSFR%2FYHaBStxu8e2JIlTaF%2BU1kg0%2F0PBOoRBrfxvJb8%2Fydrk0PrwNQWIRyHw2JzX1Q%3D%3D&nonce=2vEoUgAAAABXAuE4d2OJdQ%3D%3D",
+"details": "GET /auth/global/read?request=WkmkfBTXKP%2FKz5R1BahmoSFR%2FYHaBStxu8e2JIlTaF%2BU1kg0%2F0PBOoRBrfxvJb8%2Fydrk0PrwNQWIRyHw2JzX1Q%3D%3D&nonce=2vEoUgAAAABXAuE4d2OJdQ%3D%3D HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://static.adzerk.net/Extensions/adFeedback.js",
+"details": "GET /Extensions/adFeedback.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://stackoverflow.com/search?q=javascript+html5",
+"details": "GET /search?q=javascript+html5 HTTP/1.1",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /questions/tagged/javascript+html5 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js",
+"details": "GET /ajax/libs/jquery/1.7.1/jquery.min.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://www.google-analytics.com/ga.js",
+"details": "GET /ga.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"PAGEUPDATE": 1378415081497
+},
+{
+"REQUEST": "http://static.adzerk.net/Extensions/adFeedback.js",
+"details": "GET /Extensions/adFeedback.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://careers.stackoverflow.com/gethired/js?tags=javascript,html5",
+"details": "GET /gethired/js?tags=javascript,html5 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://stackoverflow.com/questions/18645794/which-html5-canvas-javascript-library-should-i-use",
+"details": "GET /questions/18645794/which-html5-canvas-javascript-library-should-i-use HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js",
+"details": "GET /ajax/libs/jquery/1.7.1/jquery.min.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://www.google-analytics.com/ga.js",
+"details": "GET /ga.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"PAGEUPDATE": 1378415093244
+},
+{
+"REQUEST": "http://careers.stackoverflow.com/gethired/js?tags=javascript,jquery,html5,animation,canvas",
+"details": "GET /gethired/js?tags=javascript,jquery,html5,animation,canvas HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://static.adzerk.net/Extensions/adFeedback.js",
+"details": "GET /Extensions/adFeedback.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://stackoverflow.com/tags/html5/subscriber-info?_=1378415102149",
+"details": "GET /tags/html5/subscriber-info?_=1378415102149 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://stackoverflow.com/tags/jquery/subscriber-info?_=1378415123724",
+"details": "GET /tags/jquery/subscriber-info?_=1378415123724 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+}
+]

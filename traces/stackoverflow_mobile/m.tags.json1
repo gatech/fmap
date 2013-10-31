@@ -1,0 +1,297 @@
+[
+{
+"PAGEUPDATE": 1378479595587
+},
+{
+"REQUEST": "http://stackoverflow.com/",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js",
+"details": "GET /ajax/libs/jquery/1.7.1/jquery.min.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/stub.js?v=0ad8a2cff262",
+"details": "GET /js/stub.js?v=0ad8a2cff262 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/mobile.js?v=75f8938d6753",
+"details": "GET /js/mobile.js?v=75f8938d6753 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/skins/mobile/all.css?v=1de0668ed3db",
+"details": "GET /skins/mobile/all.css?v=1de0668ed3db HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/stackoverflow/img/icon-48.png",
+"details": "GET /stackoverflow/img/icon-48.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/262e1887a2edd00298ab057376877ad4?s=16&d=identicon&r=PG&f=1",
+"details": "GET /avatar/262e1887a2edd00298ab057376877ad4?s=16&d=identicon&r=PG&f=1 HTTP/1.1",
+"RESPONSE": "304 Not Modified, image/png"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/skins/mobile/img/bg-hatchline.png",
+"details": "GET /skins/mobile/img/bg-hatchline.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.google-analytics.com/ga.js",
+"details": "GET /ga.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://edge.quantserve.com/quant.js",
+"details": "GET /quant.js HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/full.js?v=f9e9cb812ede",
+"details": "GET /js/full.js?v=f9e9cb812ede HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"PAGEUPDATE": 1378479983688
+},
+{
+"REQUEST": "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=10&utmn=1290274399&utmhn=stackoverflow.com&utme=8(2!accountid)9(2!3266717)11(2!2)&utmcs=UTF-8&utmsr=1600x900&utmvp=431x784&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=Stack%20Overflow&utmhid=1932843079&utmr=-&utmp=%2F&utmht=1378479983739&utmac=UA-5620270-1&utmcc=__utma%3D140029553.1894410780.1378478025.1378478025.1378478025.1%3B%2B__utmz%3D140029553.1378478025.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qQ~",
+"details": "GET /__utm.gif?utmwv=5.4.4&utms=10&utmn=1290274399&utmhn=stackoverflow.com&utme=8(2!accountid)9(2!3266717)11(2!2)&utmcs=UTF-8&utmsr=1600x900&utmvp=431x784&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=Stack%20Overflow&utmhid=1932843079&utmr=-&utmp=%2F&utmht=1378479983739&utmac=UA-5620270-1&utmcc=__utma%3D140029553.1894410780.1378478025.1378478025.1378478025.1%3B%2B__utmz%3D140029553.1378478025.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qQ~ HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://pixel.quantserve.com/pixel;r=645819154;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-441788324-1378478025153;ns=0;ce=1;cm=;je=1;sr=1600x900x32;enc=n;dst=1;et=1378479983739;tzo=240;ref=;url=http%3A%2F%2Fstackoverflow.com%2F;ogl=",
+"details": "GET /pixel;r=645819154;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-441788324-1378478025153;ns=0;ce=1;cm=;je=1;sr=1600x900x32;enc=n;dst=1;et=1378479983739;tzo=240;ref=;url=http%3A%2F%2Fstackoverflow.com%2F;ogl= HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://stackoverflow.com/tags",
+"details": "GET /tags HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js",
+"details": "GET /ajax/libs/jquery/1.7.1/jquery.min.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/stub.js?v=0ad8a2cff262",
+"details": "GET /js/stub.js?v=0ad8a2cff262 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/mobile.js?v=75f8938d6753",
+"details": "GET /js/mobile.js?v=75f8938d6753 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/skins/mobile/all.css?v=1de0668ed3db",
+"details": "GET /skins/mobile/all.css?v=1de0668ed3db HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/stackoverflow/img/icon-48.png",
+"details": "GET /stackoverflow/img/icon-48.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/262e1887a2edd00298ab057376877ad4?s=16&d=identicon&r=PG&f=1",
+"details": "GET /avatar/262e1887a2edd00298ab057376877ad4?s=16&d=identicon&r=PG&f=1 HTTP/1.1",
+"RESPONSE": "304 Not Modified, image/png"
+},
+{
+"REQUEST": "http://www.google-analytics.com/ga.js",
+"details": "GET /ga.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://edge.quantserve.com/quant.js",
+"details": "GET /quant.js HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/full.js?v=f9e9cb812ede",
+"details": "GET /js/full.js?v=f9e9cb812ede HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"PAGEUPDATE": 1378479993735
+},
+{
+"REQUEST": "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=11&utmn=592236086&utmhn=stackoverflow.com&utme=8(2!accountid)9(2!3266717)11(2!2)&utmcs=UTF-8&utmsr=1600x900&utmvp=448x747&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=Tags%20-%20Stack%20Overflow&utmhid=1978873859&utmr=0&utmp=%2Ftags&utmht=1378479993739&utmac=UA-5620270-1&utmcc=__utma%3D140029553.1894410780.1378478025.1378478025.1378478025.1%3B%2B__utmz%3D140029553.1378478025.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qQ~",
+"details": "GET /__utm.gif?utmwv=5.4.4&utms=11&utmn=592236086&utmhn=stackoverflow.com&utme=8(2!accountid)9(2!3266717)11(2!2)&utmcs=UTF-8&utmsr=1600x900&utmvp=448x747&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=Tags%20-%20Stack%20Overflow&utmhid=1978873859&utmr=0&utmp=%2Ftags&utmht=1378479993739&utmac=UA-5620270-1&utmcc=__utma%3D140029553.1894410780.1378478025.1378478025.1378478025.1%3B%2B__utmz%3D140029553.1378478025.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qQ~ HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://pixel.quantserve.com/pixel;r=2107369958;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-441788324-1378478025153;ns=0;ce=1;cm=;je=1;sr=1600x900x32;enc=n;dst=1;et=1378479993755;tzo=240;ref=http%3A%2F%2Fstackoverflow.com%2F;url=http%3A%2F%2Fstackoverflow.com%2Ftags;ogl=",
+"details": "GET /pixel;r=2107369958;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-441788324-1378478025153;ns=0;ce=1;cm=;je=1;sr=1600x900x32;enc=n;dst=1;et=1378479993755;tzo=240;ref=http%3A%2F%2Fstackoverflow.com%2F;url=http%3A%2F%2Fstackoverflow.com%2Ftags;ogl= HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://stackoverflow.com/questions/tagged/android",
+"details": "GET /questions/tagged/android HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js",
+"details": "GET /ajax/libs/jquery/1.7.1/jquery.min.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/stub.js?v=0ad8a2cff262",
+"details": "GET /js/stub.js?v=0ad8a2cff262 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/mobile.js?v=75f8938d6753",
+"details": "GET /js/mobile.js?v=75f8938d6753 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/skins/mobile/all.css?v=1de0668ed3db",
+"details": "GET /skins/mobile/all.css?v=1de0668ed3db HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/stackoverflow/img/icon-48.png",
+"details": "GET /stackoverflow/img/icon-48.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/262e1887a2edd00298ab057376877ad4?s=16&d=identicon&r=PG&f=1",
+"details": "GET /avatar/262e1887a2edd00298ab057376877ad4?s=16&d=identicon&r=PG&f=1 HTTP/1.1",
+"RESPONSE": "304 Not Modified, image/png"
+},
+{
+"REQUEST": "http://www.google-analytics.com/ga.js",
+"details": "GET /ga.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://edge.quantserve.com/quant.js",
+"details": "GET /quant.js HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/full.js?v=f9e9cb812ede",
+"details": "GET /js/full.js?v=f9e9cb812ede HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"PAGEUPDATE": 1378480003501
+},
+{
+"REQUEST": "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=12&utmn=1483868058&utmhn=stackoverflow.com&utme=8(tags*accountid)9(%7Candroid%7C*3266717)11(2!2)&utmcs=UTF-8&utmsr=1600x900&utmvp=431x747&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=Newest%20'android'%20Questions%20-%20Stack%20Overflow&utmhid=1489198859&utmr=0&utmp=%2Fquestions%2Ftagged%2Fandroid&utmht=1378480003489&utmac=UA-5620270-1&utmcc=__utma%3D140029553.1894410780.1378478025.1378478025.1378478025.1%3B%2B__utmz%3D140029553.1378478025.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qQ~",
+"details": "GET /__utm.gif?utmwv=5.4.4&utms=12&utmn=1483868058&utmhn=stackoverflow.com&utme=8(tags*accountid)9(%7Candroid%7C*3266717)11(2!2)&utmcs=UTF-8&utmsr=1600x900&utmvp=431x747&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=Newest%20'android'%20Questions%20-%20Stack%20Overflow&utmhid=1489198859&utmr=0&utmp=%2Fquestions%2Ftagged%2Fandroid&utmht=1378480003489&utmac=UA-5620270-1&utmcc=__utma%3D140029553.1894410780.1378478025.1378478025.1378478025.1%3B%2B__utmz%3D140029553.1378478025.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qQ~ HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://pixel.quantserve.com/pixel;r=1798306811;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-441788324-1378478025153;ns=0;ce=1;cm=;je=1;sr=1600x900x32;enc=n;dst=1;et=1378480003489;tzo=240;ref=http%3A%2F%2Fstackoverflow.com%2Ftags;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2Ftagged%2Fandroid;ogl=",
+"details": "GET /pixel;r=1798306811;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-441788324-1378478025153;ns=0;ce=1;cm=;je=1;sr=1600x900x32;enc=n;dst=1;et=1378480003489;tzo=240;ref=http%3A%2F%2Fstackoverflow.com%2Ftags;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2Ftagged%2Fandroid;ogl= HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://stackoverflow.com/questions/18660783/live-wallpaper-not-showing-up-properly-android",
+"details": "GET /questions/18660783/live-wallpaper-not-showing-up-properly-android HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js",
+"details": "GET /ajax/libs/jquery/1.7.1/jquery.min.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/stub.js?v=0ad8a2cff262",
+"details": "GET /js/stub.js?v=0ad8a2cff262 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/mobile.js?v=75f8938d6753",
+"details": "GET /js/mobile.js?v=75f8938d6753 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/skins/mobile/all.css?v=1de0668ed3db",
+"details": "GET /skins/mobile/all.css?v=1de0668ed3db HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/stackoverflow/img/icon-48.png",
+"details": "GET /stackoverflow/img/icon-48.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/262e1887a2edd00298ab057376877ad4?s=16&d=identicon&r=PG&f=1",
+"details": "GET /avatar/262e1887a2edd00298ab057376877ad4?s=16&d=identicon&r=PG&f=1 HTTP/1.1",
+"RESPONSE": "304 Not Modified, image/png"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/skins/mobile/img/sprites.png",
+"details": "GET /skins/mobile/img/sprites.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/cb7b4fcb37b8b12caf20a5b2731a069f?s=30&d=identicon&r=PG",
+"details": "GET /avatar/cb7b4fcb37b8b12caf20a5b2731a069f?s=30&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/skins/mobile/img/bg-hatchline.png",
+"details": "GET /skins/mobile/img/bg-hatchline.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.google-analytics.com/ga.js",
+"details": "GET /ga.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://edge.quantserve.com/quant.js",
+"details": "GET /quant.js HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/full.js?v=f9e9cb812ede",
+"details": "GET /js/full.js?v=f9e9cb812ede HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=13&utmn=266702964&utmhn=stackoverflow.com&utme=8(tags*accountid)9(%7Candroid%7Cwallpaper%7C*3266717)11(2!2)&utmcs=UTF-8&utmsr=1600x900&utmvp=431x747&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=Live%20Wallpaper%20not%20showing%20up%20properly%20android%20-%20Stack%20Overflow&utmhid=1705233030&utmr=0&utmp=%2Fquestions%2F18660783%2Flive-wallpaper-not-showing-up-properly-android&utmht=1378480053754&utmac=UA-5620270-1&utmcc=__utma%3D140029553.1894410780.1378478025.1378478025.1378478025.1%3B%2B__utmz%3D140029553.1378478025.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qQ~",
+"details": "GET /__utm.gif?utmwv=5.4.4&utms=13&utmn=266702964&utmhn=stackoverflow.com&utme=8(tags*accountid)9(%7Candroid%7Cwallpaper%7C*3266717)11(2!2)&utmcs=UTF-8&utmsr=1600x900&utmvp=431x747&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=Live%20Wallpaper%20not%20showing%20up%20properly%20android%20-%20Stack%20Overflow&utmhid=1705233030&utmr=0&utmp=%2Fquestions%2F18660783%2Flive-wallpaper-not-showing-up-properly-android&utmht=1378480053754&utmac=UA-5620270-1&utmcc=__utma%3D140029553.1894410780.1378478025.1378478025.1378478025.1%3B%2B__utmz%3D140029553.1378478025.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qQ~ HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://pixel.quantserve.com/pixel;r=824083424;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-441788324-1378478025153;ns=0;ce=1;cm=;je=1;sr=1600x900x32;enc=n;dst=1;et=1378480053754;tzo=240;ref=http%3A%2F%2Fstackoverflow.com%2Fquestions%2Ftagged%2Fandroid;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F18660783%2Flive-wallpaper-not-showing-up-properly-android;ogl=",
+"details": "GET /pixel;r=824083424;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-441788324-1378478025153;ns=0;ce=1;cm=;je=1;sr=1600x900x32;enc=n;dst=1;et=1378480053754;tzo=240;ref=http%3A%2F%2Fstackoverflow.com%2Fquestions%2Ftagged%2Fandroid;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F18660783%2Flive-wallpaper-not-showing-up-properly-android;ogl= HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/prettify-full.js?v=6c261bebf56a",
+"details": "GET /js/prettify-full.js?v=6c261bebf56a HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/wmd.js?v=12e251f7c6c3",
+"details": "GET /js/wmd.js?v=12e251f7c6c3 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://stackoverflow.com/questions/ticks?_=1378480053800",
+"details": "GET /questions/ticks?_=1378480053800 HTTP/1.1",
+"RESPONSE": "200 OK, text/plain"
+},
+{
+"REQUEST": "http://stackoverflow.com/posts/18660783/ivc/4c29?_=1378480053800",
+"details": "GET /posts/18660783/ivc/4c29?_=1378480053800 HTTP/1.1",
+"RESPONSE": "204 No Content, text/plain"
+},
+{
+"PAGEUPDATE": 1378480054030
+}
+]

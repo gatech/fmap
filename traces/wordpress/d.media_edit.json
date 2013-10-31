@@ -1,0 +1,330 @@
+[
+{
+"PAGEUPDATE": 1378087596798
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin",
+"details": "GET /wordpress/wp-admin HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET /wordpress/wp-admin/ HTTP/1.1",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /wordpress/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8080%2Fwordpress%2Fwp-admin%2F&reauth=1 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/css/wp-admin.min.css?ver=3.6",
+"details": "GET /wordpress/wp-admin/css/wp-admin.min.css?ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-includes/css/buttons.min.css?ver=3.6",
+"details": "GET /wordpress/wp-includes/css/buttons.min.css?ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/css/colors-fresh.min.css?ver=3.6",
+"details": "GET /wordpress/wp-admin/css/colors-fresh.min.css?ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/images/wordpress-logo.png?ver=20120216",
+"details": "GET /wordpress/wp-admin/images/wordpress-logo.png?ver=20120216 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"PAGEUPDATE": 1378087601758
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/",
+"details": "GET /wordpress/wp-admin/ HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load=admin-bar,wp-admin,buttons,wp-auth-check&ver=3.6",
+"details": "GET /wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load=admin-bar,wp-admin,buttons,wp-auth-check&ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-includes/js/thickbox/thickbox.css?ver=20121105",
+"details": "GET /wordpress/wp-includes/js/thickbox/thickbox.css?ver=20121105 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/css/colors-fresh.min.css?ver=3.6",
+"details": "GET /wordpress/wp-admin/css/colors-fresh.min.css?ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/load-scripts.php?c=1&load%5B%5D=jquery-core,jquery-migrate,utils,json2&ver=3.6",
+"details": "GET /wordpress/wp-admin/load-scripts.php?c=1&load%5B%5D=jquery-core,jquery-migrate,utils,json2&ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/images/menu-shadow.png",
+"details": "GET /wordpress/wp-admin/images/menu-shadow.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/images/menu.png?ver=20121105",
+"details": "GET /wordpress/wp-admin/images/menu.png?ver=20121105 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/images/arrows.png",
+"details": "GET /wordpress/wp-admin/images/arrows.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-includes/images/admin-bar-sprite.png?d=20120830",
+"details": "GET /wordpress/wp-includes/images/admin-bar-sprite.png?d=20120830 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/images/icons32.png?ver=20121105",
+"details": "GET /wordpress/wp-admin/images/icons32.png?ver=20121105 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://0.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=50",
+"details": "GET /avatar/ad516503a11cd5ca435acc9bb6523536?s=50 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-includes/css/editor.min.css?ver=3.6",
+"details": "GET /wordpress/wp-includes/css/editor.min.css?ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/images/media-button.png",
+"details": "GET /wordpress/wp-admin/images/media-button.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/images/wpspin_light.gif",
+"details": "GET /wordpress/wp-admin/images/wpspin_light.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load=media-views,wp-jquery-ui-dialog&ver=3.6",
+"details": "GET /wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load=media-views,wp-jquery-ui-dialog&ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/load-scripts.php?c=1&load%5B%5D=hoverIntent,common,admin-bar,wp-ajax-response,jquery-color,wp-lists,quicktags,jquery-query,admin-comments,jquery-ui-core,jquery-&load%5B%5D=ui-widget,jquery-ui-mouse,jquery-ui-sortable,postbox,dashboard,customize-base,customize-loader,thickbox,plugin-install,underscor&load%5B%5D=e,shortcode,media-upload,heartbeat,wp-auth-check,backbone,wp-util,wp-backbone,media-models,plupload,plupload-html5,plupload-flas&load%5B%5D=h,plupload-silverlight,plupload-html4,wp-plupload,media-views,media-editor,word-count,jquery-ui-resizable,jquery-ui-draggable,jq&load%5B%5D=uery-ui-button,jquery-ui-position,jquery-ui-dialog,wpdialogs,wplink,wpdialogs-popup&ver=3.6",
+"details": "GET /wordpress/wp-admin/load-scripts.php?c=1&load%5B%5D=hoverIntent,common,admin-bar,wp-ajax-response,jquery-color,wp-lists,quicktags,jquery-query,admin-comments,jquery-ui-core,jquery-&load%5B%5D=ui-widget,jquery-ui-mouse,jquery-ui-sortable,postbox,dashboard,customize-base,customize-loader,thickbox,plugin-install,underscor&load%5B%5D=e,shortcode,media-upload,heartbeat,wp-auth-check,backbone,wp-util,wp-backbone,media-models,plupload,plupload-html5,plupload-flas&load%5B%5D=h,plupload-silverlight,plupload-html4,wp-plupload,media-views,media-editor,word-count,jquery-ui-resizable,jquery-ui-draggable,jq&load%5B%5D=uery-ui-button,jquery-ui-position,jquery-ui-dialog,wpdialogs,wplink,wpdialogs-popup&ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-includes/js/thickbox/loadingAnimation.gif",
+"details": "GET /wordpress/wp-includes/js/thickbox/loadingAnimation.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://1.gravatar.com/avatar/734d2479783bbe2ccb57c1a0733a5f03?s=16&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D16&r=G",
+"details": "GET /avatar/734d2479783bbe2ccb57c1a0733a5f03?s=16&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D16&r=G HTTP/1.1",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /avatar/ad516503a11cd5ca435acc9bb6523536?s=16 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://1.gravatar.com/avatar/734d2479783bbe2ccb57c1a0733a5f03?s=64&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D64&r=G",
+"details": "GET /avatar/734d2479783bbe2ccb57c1a0733a5f03?s=64&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D64&r=G HTTP/1.1",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /avatar/ad516503a11cd5ca435acc9bb6523536?s=64 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"PAGEUPDATE": 1378087607031
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/upload.php",
+"details": "GET /wordpress/wp-admin/upload.php HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load=admin-bar,wp-admin,buttons,wp-auth-check&ver=3.6",
+"details": "GET /wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load=admin-bar,wp-admin,buttons,wp-auth-check&ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/css/colors-fresh.min.css?ver=3.6",
+"details": "GET /wordpress/wp-admin/css/colors-fresh.min.css?ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/load-scripts.php?c=1&load%5B%5D=jquery-core,jquery-migrate,utils&ver=3.6",
+"details": "GET /wordpress/wp-admin/load-scripts.php?c=1&load%5B%5D=jquery-core,jquery-migrate,utils&ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"REQUEST": "http://1.gravatar.com/avatar/734d2479783bbe2ccb57c1a0733a5f03?s=16&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D16&r=G",
+"details": "GET /avatar/734d2479783bbe2ccb57c1a0733a5f03?s=16&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D16&r=G HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://1.gravatar.com/avatar/734d2479783bbe2ccb57c1a0733a5f03?s=64&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D64&r=G",
+"details": "GET /avatar/734d2479783bbe2ccb57c1a0733a5f03?s=64&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D64&r=G HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-content/uploads/2013/09/bear-150x150.png",
+"details": "GET /wordpress/wp-content/uploads/2013/09/bear-150x150.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/images/sort.gif",
+"details": "GET /wordpress/wp-admin/images/sort.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/images/comment-grey-bubble.png",
+"details": "GET /wordpress/wp-admin/images/comment-grey-bubble.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/images/bubble_bg.gif",
+"details": "GET /wordpress/wp-admin/images/bubble_bg.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/load-scripts.php?c=1&load%5B%5D=hoverIntent,common,admin-bar,wp-ajax-response,jquery-ui-core,jquery-ui-widget,jquery-ui-mouse,jquery-ui-draggable,media,heartbea&load%5B%5D=t,wp-auth-check&ver=3.6",
+"details": "GET /wordpress/wp-admin/load-scripts.php?c=1&load%5B%5D=hoverIntent,common,admin-bar,wp-ajax-response,jquery-ui-core,jquery-ui-widget,jquery-ui-mouse,jquery-ui-draggable,media,heartbea&load%5B%5D=t,wp-auth-check&ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"PAGEUPDATE": 1378087625256
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/post.php?post=10&action=edit",
+"details": "GET /wordpress/wp-admin/post.php?post=10&action=edit HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load=admin-bar,wp-admin,buttons,wp-auth-check&ver=3.6",
+"details": "GET /wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load=admin-bar,wp-admin,buttons,wp-auth-check&ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-includes/js/imgareaselect/imgareaselect.css?ver=0.9.8",
+"details": "GET /wordpress/wp-includes/js/imgareaselect/imgareaselect.css?ver=0.9.8 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/css/colors-fresh.min.css?ver=3.6",
+"details": "GET /wordpress/wp-admin/css/colors-fresh.min.css?ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/load-scripts.php?c=1&load%5B%5D=jquery-core,jquery-migrate,utils,json2&ver=3.6",
+"details": "GET /wordpress/wp-admin/load-scripts.php?c=1&load%5B%5D=jquery-core,jquery-migrate,utils,json2&ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"REQUEST": "http://1.gravatar.com/avatar/734d2479783bbe2ccb57c1a0733a5f03?s=16&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D16&r=G",
+"details": "GET /avatar/734d2479783bbe2ccb57c1a0733a5f03?s=16&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D16&r=G HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://1.gravatar.com/avatar/734d2479783bbe2ccb57c1a0733a5f03?s=64&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D64&r=G",
+"details": "GET /avatar/734d2479783bbe2ccb57c1a0733a5f03?s=64&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D64&r=G HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-content/uploads/2013/09/bear.png",
+"details": "GET /wordpress/wp-content/uploads/2013/09/bear.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-includes/css/editor.min.css?ver=3.6",
+"details": "GET /wordpress/wp-includes/css/editor.min.css?ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/images/wpspin_light-2x.gif",
+"details": "GET /wordpress/wp-admin/images/wpspin_light-2x.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load=wp-jquery-ui-dialog&ver=3.6",
+"details": "GET /wordpress/wp-admin/load-styles.php?c=1&dir=ltr&load=wp-jquery-ui-dialog&ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/images/date-button.gif",
+"details": "GET /wordpress/wp-admin/images/date-button.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/load-scripts.php?c=1&load%5B%5D=hoverIntent,common,admin-bar,wp-ajax-response,jquery-color,wp-lists,quicktags,jquery-query,admin-comments,suggest,jquery-ui-core&load%5B%5D=,jquery-ui-widget,jquery-ui-mouse,jquery-ui-sortable,postbox,heartbeat,post,imgareaselect,image-edit,wp-auth-check,word-count,jq&load%5B%5D=uery-ui-resizable,jquery-ui-draggable,jquery-ui-button,jquery-ui-position,jquery-ui-dialog,wpdialogs,wplink,wpdialogs-popup&ver=3.6",
+"details": "GET /wordpress/wp-admin/load-scripts.php?c=1&load%5B%5D=hoverIntent,common,admin-bar,wp-ajax-response,jquery-color,wp-lists,quicktags,jquery-query,admin-comments,suggest,jquery-ui-core&load%5B%5D=,jquery-ui-widget,jquery-ui-mouse,jquery-ui-sortable,postbox,heartbeat,post,imgareaselect,image-edit,wp-auth-check,word-count,jq&load%5B%5D=uery-ui-resizable,jquery-ui-draggable,jquery-ui-button,jquery-ui-position,jquery-ui-dialog,wpdialogs,wplink,wpdialogs-popup&ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"PAGEUPDATE": 1378087633982
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/admin-ajax.php",
+"details": "POST /wordpress/wp-admin/admin-ajax.php HTTP/1.1","post_data": "action%3Dimage-editor%26_ajax_nonce%3Df67a945791%26postid%3D10%26do%3Dopen",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/admin-ajax.php?action=imgedit-preview&_ajax_nonce=f67a945791&postid=10&rand=63314",
+"details": "GET /wordpress/wp-admin/admin-ajax.php?action=imgedit-preview&_ajax_nonce=f67a945791&postid=10&rand=63314 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-content/uploads/2013/09/bear-150x150.png",
+"details": "GET /wordpress/wp-content/uploads/2013/09/bear-150x150.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/images/imgedit-icons.png",
+"details": "GET /wordpress/wp-admin/images/imgedit-icons.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-includes/js/imgareaselect/border-anim-v.gif",
+"details": "GET /wordpress/wp-includes/js/imgareaselect/border-anim-v.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-includes/js/imgareaselect/border-anim-h.gif",
+"details": "GET /wordpress/wp-includes/js/imgareaselect/border-anim-h.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/admin-ajax.php",
+"details": "POST /wordpress/wp-admin/admin-ajax.php HTTP/1.1","post_data": "data%255Bwp-refresh-post-lock%255D%255Bpost_id%255D%3D10%26data%255Bwp-refresh-post-lock%255D%255Block%255D%3D1378087633%253A2%26interval%3D15%26_nonce%3D238b7ea363%26action%3Dheartbeat%26screen_id%3Dattachment%26has_focus%3Dtrue",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/admin-ajax.php",
+"details": "POST /wordpress/wp-admin/admin-ajax.php HTTP/1.1","post_data": "data%255Bwp-refresh-post-lock%255D%255Bpost_id%255D%3D10%26data%255Bwp-refresh-post-lock%255D%255Block%255D%3D1378087648%253A2%26interval%3D15%26_nonce%3D238b7ea363%26action%3Dheartbeat%26screen_id%3Dattachment%26has_focus%3Dtrue",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/admin-ajax.php?action=imgedit-preview&_ajax_nonce=f67a945791&postid=10&history=%5B%7B%22c%22%3A%7B%22x%22%3A38%2C%22y%22%3A39%2C%22w%22%3A297%2C%22h%22%3A311%7D%7D%5D&rand=990408",
+"details": "GET /wordpress/wp-admin/admin-ajax.php?action=imgedit-preview&_ajax_nonce=f67a945791&postid=10&history=%5B%7B%22c%22%3A%7B%22x%22%3A38%2C%22y%22%3A39%2C%22w%22%3A297%2C%22h%22%3A311%7D%7D%5D&rand=990408 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/admin-ajax.php",
+"details": "POST /wordpress/wp-admin/admin-ajax.php HTTP/1.1","post_data": "data%255Bwp-refresh-post-lock%255D%255Bpost_id%255D%3D10%26data%255Bwp-refresh-post-lock%255D%255Block%255D%3D1378087663%253A2%26interval%3D15%26_nonce%3D238b7ea363%26action%3Dheartbeat%26screen_id%3Dattachment%26has_focus%3Dtrue",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/admin-ajax.php",
+"details": "POST /wordpress/wp-admin/admin-ajax.php HTTP/1.1","post_data": "action%3Dimage-editor%26_ajax_nonce%3Df67a945791%26postid%3D10%26history%3D%255B%257B%2522c%2522%253A%257B%2522x%2522%253A38%252C%2522y%2522%253A39%252C%2522w%2522%253A297%252C%2522h%2522%253A311%257D%257D%255D%26target%3Dall%26context%3Dedit-attachment%26do%3Dsave",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-content/uploads/2013/09/bear-e1378087688163.png",
+"details": "GET /wordpress/wp-content/uploads/2013/09/bear-e1378087688163.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://localhost:8080/wordpress/wp-admin/admin-ajax.php",
+"details": "POST /wordpress/wp-admin/admin-ajax.php HTTP/1.1","post_data": "data%255Bwp-refresh-post-lock%255D%255Bpost_id%255D%3D10%26data%255Bwp-refresh-post-lock%255D%255Block%255D%3D1378087678%253A2%26interval%3D15%26_nonce%3D238b7ea363%26action%3Dheartbeat%26screen_id%3Dattachment%26has_focus%3Dfalse",
+"RESPONSE": "200 OK, application/json"
+}
+]

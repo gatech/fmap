@@ -1,0 +1,171 @@
+[
+{
+"PAGEUPDATE": 1378652462528
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/",
+"details": "GET /elgg/ HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/ajax/view/js/languages?language=en&lc=1378606625",
+"details": "GET /elgg/ajax/view/js/languages?language=en&lc=1378606625 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/_graphics/header_shadow.png",
+"details": "GET /elgg/_graphics/header_shadow.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/_graphics/elgg_sprites.png",
+"details": "GET /elgg/_graphics/elgg_sprites.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/_graphics/sidebar_background.gif",
+"details": "GET /elgg/_graphics/sidebar_background.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"PAGEUPDATE": 1378652467048
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/action/login",
+"details": "POST /elgg/action/login HTTP/1.1","post_data": "__elgg_token%3Dc2f534548470d191690aa1e4c65c44f5%26__elgg_ts%3D1378652463%26username%3Dtmitzzz%2540gmail.com%26password%3Dtanu164822",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /elgg/ HTTP/1.1",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /elgg/activity HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/js/lib/ui.river.js",
+"details": "GET /elgg/js/lib/ui.river.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/_graphics/spacer.gif",
+"details": "GET /elgg/_graphics/spacer.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif",
+"details": "GET /elgg/_graphics/spacer.gif HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/ajax/view/js/languages?language=en&lc=1378606625",
+"details": "GET /elgg/ajax/view/js/languages?language=en&lc=1378606625 HTTP/1.1",
+"RESPONSE": "304 Not Modified, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/_graphics/toptoolbar_background.gif",
+"details": "GET /elgg/_graphics/toptoolbar_background.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/_graphics/icons/user/defaultsmall.gif",
+"details": "GET /elgg/_graphics/icons/user/defaultsmall.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif",
+"details": "GET /elgg/_graphics/icons/user/defaultsmall.gif HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/_graphics/icons/user/defaulttiny.gif",
+"details": "GET /elgg/_graphics/icons/user/defaulttiny.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif",
+"details": "GET /elgg/_graphics/icons/user/defaulttiny.gif HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/mod/reportedcontent/graphics/icon_reportthis.gif",
+"details": "GET /elgg/mod/reportedcontent/graphics/icon_reportthis.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"PAGEUPDATE": 1378652474298
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/settings/user/tmitzzz",
+"details": "GET /elgg/settings/user/tmitzzz HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/ajax/view/js/languages?language=en&lc=1378606625",
+"details": "GET /elgg/ajax/view/js/languages?language=en&lc=1378606625 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1378652480415
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/_graphics/button_graduation.png",
+"details": "GET /elgg/_graphics/button_graduation.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png",
+"details": "GET /elgg/_graphics/button_graduation.png HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/action/usersettings/save",
+"details": "POST /elgg/action/usersettings/save HTTP/1.1","post_data": "__elgg_token%3D074cb5224debc64d89ecc4ea3bd2019e%26__elgg_ts%3D1378652479%26name%3Dtmit%26guid%3D42%26current_password%3D%26password%3D%26password2%3D%26email%3Dtmitzzz%2540gmail.com%26language%3Den",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /elgg/settings/user/tmitzzz HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/cache/css/default/elgg.1378606625.css",
+"details": "GET /elgg/cache/css/default/elgg.1378606625.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /elgg/cache/css/default/elgg.1378606625.css HTTP/1.1",
+"details": "GET /elgg/cache/css/default/elgg.1378606625.css HTTP/1.1",
+"details": "GET /elgg/cache/css/default/elgg.1378606625.css HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/vendors/jquery/jquery-1.6.4.min.js",
+"details": "GET /elgg/vendors/jquery/jquery-1.6.4.min.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /elgg/vendors/jquery/jquery-1.6.4.min.js HTTP/1.1",
+"details": "GET /elgg/vendors/jquery/jquery-1.6.4.min.js HTTP/1.1",
+"details": "GET /elgg/vendors/jquery/jquery-1.6.4.min.js HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/vendors/jquery/jquery-ui-1.8.16.min.js",
+"details": "GET /elgg/vendors/jquery/jquery-ui-1.8.16.min.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /elgg/vendors/jquery/jquery-ui-1.8.16.min.js HTTP/1.1",
+"details": "GET /elgg/vendors/jquery/jquery-ui-1.8.16.min.js HTTP/1.1",
+"details": "GET /elgg/vendors/jquery/jquery-ui-1.8.16.min.js HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/cache/js/default/elgg.1378606625.js",
+"details": "GET /elgg/cache/js/default/elgg.1378606625.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript",
+"details": "GET /elgg/cache/js/default/elgg.1378606625.js HTTP/1.1",
+"details": "GET /elgg/cache/js/default/elgg.1378606625.js HTTP/1.1",
+"details": "GET /elgg/cache/js/default/elgg.1378606625.js HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/ajax/view/js/languages?language=en&lc=1378606625",
+"details": "GET /elgg/ajax/view/js/languages?language=en&lc=1378606625 HTTP/1.1",
+"RESPONSE": "304 Not Modified, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/_graphics/elgg_toolbar_logo.gif",
+"details": "GET /elgg/_graphics/elgg_toolbar_logo.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif",
+"details": "GET /elgg/_graphics/elgg_toolbar_logo.gif HTTP/1.1",
+"details": "GET /elgg/_graphics/elgg_toolbar_logo.gif HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/_graphics/icons/user/defaulttopbar.gif",
+"details": "GET /elgg/_graphics/icons/user/defaulttopbar.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif",
+"details": "GET /elgg/_graphics/icons/user/defaulttopbar.gif HTTP/1.1",
+"details": "GET /elgg/_graphics/icons/user/defaulttopbar.gif HTTP/1.1"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/elgg/_graphics/powered_by_elgg_badge_drk_bckgnd.gif",
+"details": "GET /elgg/_graphics/powered_by_elgg_badge_drk_bckgnd.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif",
+"details": "GET /elgg/_graphics/powered_by_elgg_badge_drk_bckgnd.gif HTTP/1.1",
+"details": "GET /elgg/_graphics/powered_by_elgg_badge_drk_bckgnd.gif HTTP/1.1",
+"details": "GET /elgg/_graphics/powered_by_elgg_badge_drk_bckgnd.gif HTTP/1.1"
+},
+{
+"PAGEUPDATE": 1378652494871
+}
+]

@@ -1,0 +1,63 @@
+[
+{
+"PAGEUPDATE": 1376467177307
+},
+{
+"REQUEST": "http://m.twitter.com/",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "302 Found, text/html",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /signup HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376467206036
+},
+{
+"REQUEST": "https://mobile.twitter.com/signup",
+"details": "POST /signup HTTP/1.1","post_data": "authenticity_token%3D13a2dc3590835916026e%26oauth_signup_client%255Bfullname%255D%3DMasala%26oauth_signup_client%255Bphone_number%255D%3Dmasala%2540klaudr.com%26oauth_signup_client%255Bpassword%255D%3Dmasala44%26captcha_response_field%3Dsmooth%2Belivies%26captcha_token%3D1T137646720574465T88b84d684138f8cb76947f99b8ebe3094a6fee3a%26commit%3DSign%2Bup%2Bfor%2BTwitter",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /signup/screen_name HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376467240317
+},
+{
+"REQUEST": "https://mobile.twitter.com/signup/screen_name",
+"details": "POST /signup/screen_name HTTP/1.1","post_data": "authenticity_token%3D13a2dc3590835916026e%26suggestion%3D0%253A%26settings%255Bscreen_name%255D%3DMasala32%26commit%3DContinue",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /welcome/intro HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376467262243
+},
+{
+"REQUEST": "https://mobile.twitter.com/",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376467289389
+},
+{
+"REQUEST": "https://mobile.twitter.com/settings/phone",
+"details": "POST /settings/phone HTTP/1.1","post_data": "authenticity_token%3D13a2dc3590835916026e%26return_url%3D%252F%26settings%255Bphone_number%255D%3D",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376467300322
+},
+{
+"REQUEST": "https://mobile.twitter.com/settings",
+"details": "GET /settings HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376467317243
+}
+]

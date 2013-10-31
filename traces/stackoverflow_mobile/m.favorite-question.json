@@ -1,0 +1,423 @@
+[
+{
+"PAGEUPDATE": 1378521663500
+},
+{
+"REQUEST": "http://www.stackoverflow.com/",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js",
+"details": "GET /ajax/libs/jquery/1.7.1/jquery.min.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/stub.js?v=0ad8a2cff262",
+"details": "GET /js/stub.js?v=0ad8a2cff262 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/mobile.js?v=75f8938d6753",
+"details": "GET /js/mobile.js?v=75f8938d6753 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/skins/mobile/all.css?v=1de0668ed3db",
+"details": "GET /skins/mobile/all.css?v=1de0668ed3db HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/stackoverflow/img/icon-48.png",
+"details": "GET /stackoverflow/img/icon-48.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/skins/mobile/img/bg-hatchline.png",
+"details": "GET /skins/mobile/img/bg-hatchline.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.google-analytics.com/ga.js",
+"details": "GET /ga.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://edge.quantserve.com/quant.js",
+"details": "GET /quant.js HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/full-anon.js?v=91e39f868c82",
+"details": "GET /js/full-anon.js?v=91e39f868c82 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=1&utmn=1293494395&utmhn=stackoverflow.com&utmcs=UTF-8&utmsr=1600x900&utmvp=483x791&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=Stack%20Overflow&utmhid=1049096778&utmr=-&utmp=%2F&utmht=1378521672690&utmac=UA-5620270-1&utmcc=__utma%3D140029553.587591793.1378521673.1378521673.1378521673.1%3B%2B__utmz%3D140029553.1378521673.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=q~",
+"details": "GET /__utm.gif?utmwv=5.4.4&utms=1&utmn=1293494395&utmhn=stackoverflow.com&utmcs=UTF-8&utmsr=1600x900&utmvp=483x791&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=Stack%20Overflow&utmhid=1049096778&utmr=-&utmp=%2F&utmht=1378521672690&utmac=UA-5620270-1&utmcc=__utma%3D140029553.587591793.1378521673.1378521673.1378521673.1%3B%2B__utmz%3D140029553.1378521673.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=q~ HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://pixel.quantserve.com/pixel;r=1695608581;a=p-c1rF4kxgLUzNc;fpan=1;fpa=P0-1140075044-1378521672706;ns=0;ce=1;cm=;je=1;sr=1600x900x32;enc=n;dst=1;et=1378521672706;tzo=240;ref=;url=http%3A%2F%2Fstackoverflow.com%2F;ogl=",
+"details": "GET /pixel;r=1695608581;a=p-c1rF4kxgLUzNc;fpan=1;fpa=P0-1140075044-1378521672706;ns=0;ce=1;cm=;je=1;sr=1600x900x32;enc=n;dst=1;et=1378521672706;tzo=240;ref=;url=http%3A%2F%2Fstackoverflow.com%2F;ogl= HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://stackoverflow.com/users/login/global/request",
+"details": "POST /users/login/global/request HTTP/1.1","post_data": "undefined",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"PAGEUPDATE": 1378521672938
+},
+{
+"REQUEST": "https://stackauth.com/auth/global/read?request=ftNW%2FD%2BXspTk8l4a5a4ZRllxGIemzXApRqMsz1UWx5UrLdb9%2BxcuGF5yQWFNcpANg5w5BGop%2Bnu8dbTm161lPg%3D%3D&nonce=SZIqUgAAAADeDlGZH9V20A%3D%3D",
+"details": "GET /auth/global/read?request=ftNW%2FD%2BXspTk8l4a5a4ZRllxGIemzXApRqMsz1UWx5UrLdb9%2BxcuGF5yQWFNcpANg5w5BGop%2Bnu8dbTm161lPg%3D%3D&nonce=SZIqUgAAAADeDlGZH9V20A%3D%3D HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://stackoverflow.com/questions/18668858/putting-a-user-submitted-twitter-widget-id-in-js",
+"details": "GET /questions/18668858/putting-a-user-submitted-twitter-widget-id-in-js HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js",
+"details": "GET /ajax/libs/jquery/1.7.1/jquery.min.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/stub.js?v=0ad8a2cff262",
+"details": "GET /js/stub.js?v=0ad8a2cff262 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/mobile.js?v=75f8938d6753",
+"details": "GET /js/mobile.js?v=75f8938d6753 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/skins/mobile/all.css?v=1de0668ed3db",
+"details": "GET /skins/mobile/all.css?v=1de0668ed3db HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/stackoverflow/img/icon-48.png",
+"details": "GET /stackoverflow/img/icon-48.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/skins/mobile/img/sprites.png",
+"details": "GET /skins/mobile/img/sprites.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/0fd1fdda23abeeec939ba1a6d0aca78c?s=30&d=identicon&r=PG&f=1",
+"details": "GET /avatar/0fd1fdda23abeeec939ba1a6d0aca78c?s=30&d=identicon&r=PG&f=1 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/skins/mobile/img/bg-hatchline.png",
+"details": "GET /skins/mobile/img/bg-hatchline.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.google-analytics.com/ga.js",
+"details": "GET /ga.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://edge.quantserve.com/quant.js",
+"details": "GET /quant.js HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"REQUEST": "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=2&utmn=1367467350&utmhn=stackoverflow.com&utme=8(tags)9(%7Cjavascript%7Ctwitter%7Cwidget%7C)&utmcs=UTF-8&utmsr=1600x900&utmvp=483x754&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=Putting%20a%20user%20submitted%20Twitter%20widget%20ID%20in%20JS%20-%20Stack%20Overflow&utmhid=1903225620&utmr=0&utmp=%2Fquestions%2F18668858%2Fputting-a-user-submitted-twitter-widget-id-in-js&utmht=1378521682674&utmac=UA-5620270-1&utmcc=__utma%3D140029553.587591793.1378521673.1378521673.1378521673.1%3B%2B__utmz%3D140029553.1378521673.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qQ~",
+"details": "GET /__utm.gif?utmwv=5.4.4&utms=2&utmn=1367467350&utmhn=stackoverflow.com&utme=8(tags)9(%7Cjavascript%7Ctwitter%7Cwidget%7C)&utmcs=UTF-8&utmsr=1600x900&utmvp=483x754&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=Putting%20a%20user%20submitted%20Twitter%20widget%20ID%20in%20JS%20-%20Stack%20Overflow&utmhid=1903225620&utmr=0&utmp=%2Fquestions%2F18668858%2Fputting-a-user-submitted-twitter-widget-id-in-js&utmht=1378521682674&utmac=UA-5620270-1&utmcc=__utma%3D140029553.587591793.1378521673.1378521673.1378521673.1%3B%2B__utmz%3D140029553.1378521673.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qQ~ HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://pixel.quantserve.com/pixel;r=1092760801;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1140075044-1378521672706;ns=0;ce=1;cm=;je=1;sr=1600x900x32;enc=n;dst=1;et=1378521682690;tzo=240;ref=http%3A%2F%2Fstackoverflow.com%2F;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F18668858%2Fputting-a-user-submitted-twitter-widget-id-in-js;ogl=",
+"details": "GET /pixel;r=1092760801;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1140075044-1378521672706;ns=0;ce=1;cm=;je=1;sr=1600x900x32;enc=n;dst=1;et=1378521682690;tzo=240;ref=http%3A%2F%2Fstackoverflow.com%2F;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F18668858%2Fputting-a-user-submitted-twitter-widget-id-in-js;ogl= HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/full-anon.js?v=91e39f868c82",
+"details": "GET /js/full-anon.js?v=91e39f868c82 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/prettify-full.js?v=6c261bebf56a",
+"details": "GET /js/prettify-full.js?v=6c261bebf56a HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://stackoverflow.com/questions/ticks?_=1378521682768",
+"details": "GET /questions/ticks?_=1378521682768 HTTP/1.1",
+"RESPONSE": "200 OK, text/plain"
+},
+{
+"REQUEST": "http://stackoverflow.com/posts/18668858/ivc/e8fa?_=1378521682768",
+"details": "GET /posts/18668858/ivc/e8fa?_=1378521682768 HTTP/1.1",
+"RESPONSE": "204 No Content, text/plain"
+},
+{
+"PAGEUPDATE": 1378521682859
+},
+{
+"REQUEST": "http://stackoverflow.com/users/login?returnurl=http%3A//stackoverflow.com/questions/18668858/putting-a-user-submitted-twitter-widget-id-in-js",
+"details": "GET /users/login?returnurl=http%3A//stackoverflow.com/questions/18668858/putting-a-user-submitted-twitter-widget-id-in-js HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js",
+"details": "GET /ajax/libs/jquery/1.7.1/jquery.min.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/stub.js?v=0ad8a2cff262",
+"details": "GET /js/stub.js?v=0ad8a2cff262 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/mobile.js?v=75f8938d6753",
+"details": "GET /js/mobile.js?v=75f8938d6753 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/skins/mobile/all.css?v=1de0668ed3db",
+"details": "GET /skins/mobile/all.css?v=1de0668ed3db HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/skins/mobile/openid.css?v=bbcc303e8523",
+"details": "GET /skins/mobile/openid.css?v=bbcc303e8523 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/Js/mobile-openid.js?v=3fbaedd6334e",
+"details": "GET /Js/mobile-openid.js?v=3fbaedd6334e HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/stackoverflow/img/icon-48.png",
+"details": "GET /stackoverflow/img/icon-48.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.google-analytics.com/ga.js",
+"details": "GET /ga.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://edge.quantserve.com/quant.js",
+"details": "GET /quant.js HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/full-anon.js?v=91e39f868c82",
+"details": "GET /js/full-anon.js?v=91e39f868c82 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://sstatic.net/Img/openid/openid-logos.png?v=8",
+"details": "GET /Img/openid/openid-logos.png?v=8 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=3&utmn=1782032627&utmhn=stackoverflow.com&utmcs=UTF-8&utmsr=1600x900&utmvp=500x754&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=Log%20In%20-%20Stack%20Overflow&utmhid=1366185454&utmr=0&utmp=%2Fusers%2Flogin%3Freturnurl%3Dhttp%25253A%2F%2Fstackoverflow.com%2Fquestions%2F18668858%2Fputting-a-user-submitted-twitter-widget-id-in-js&utmht=1378521690147&utmac=UA-5620270-1&utmcc=__utma%3D140029553.587591793.1378521673.1378521673.1378521673.1%3B%2B__utmz%3D140029553.1378521673.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=q~",
+"details": "GET /__utm.gif?utmwv=5.4.4&utms=3&utmn=1782032627&utmhn=stackoverflow.com&utmcs=UTF-8&utmsr=1600x900&utmvp=500x754&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=Log%20In%20-%20Stack%20Overflow&utmhid=1366185454&utmr=0&utmp=%2Fusers%2Flogin%3Freturnurl%3Dhttp%25253A%2F%2Fstackoverflow.com%2Fquestions%2F18668858%2Fputting-a-user-submitted-twitter-widget-id-in-js&utmht=1378521690147&utmac=UA-5620270-1&utmcc=__utma%3D140029553.587591793.1378521673.1378521673.1378521673.1%3B%2B__utmz%3D140029553.1378521673.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=q~ HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://pixel.quantserve.com/pixel;r=17051710;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1140075044-1378521672706;ns=0;ce=1;cm=;je=1;sr=1600x900x32;enc=n;dst=1;et=1378521690162;tzo=240;ref=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F18668858%2Fputting-a-user-submitted-twitter-widget-id-in-js;url=http%3A%2F%2Fstackoverflow.com%2Fusers%2Flogin%3Freturnurl%3Dhttp%253A%2F%2Fstackoverflow.com%2Fquestions%2F18668858%2Fputting-a-user-submitted-twitter-widget-id-in-js;ogl=",
+"details": "GET /pixel;r=17051710;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1140075044-1378521672706;ns=0;ce=1;cm=;je=1;sr=1600x900x32;enc=n;dst=1;et=1378521690162;tzo=240;ref=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F18668858%2Fputting-a-user-submitted-twitter-widget-id-in-js;url=http%3A%2F%2Fstackoverflow.com%2Fusers%2Flogin%3Freturnurl%3Dhttp%253A%2F%2Fstackoverflow.com%2Fquestions%2F18668858%2Fputting-a-user-submitted-twitter-widget-id-in-js;ogl= HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://stackoverflow.com/users/login/global/request",
+"details": "POST /users/login/global/request HTTP/1.1","post_data": "undefined",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "https://stackauth.com/auth/global/read?request=asZqRL47LgIA6TRrA%2B0r0inzOluk0O2mRuMHPKG0xoXlWo%2F3TWzH052Mv%2BL5v60B%2BxSZewtQjCDHEVYFqhgSgg%3D%3D&nonce=W5IqUgAAAAB0YZsxXYFcsA%3D%3D",
+"details": "GET /auth/global/read?request=asZqRL47LgIA6TRrA%2B0r0inzOluk0O2mRuMHPKG0xoXlWo%2F3TWzH052Mv%2BL5v60B%2BxSZewtQjCDHEVYFqhgSgg%3D%3D&nonce=W5IqUgAAAAB0YZsxXYFcsA%3D%3D HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1378521690550
+},
+{
+"REQUEST": "http://stackoverflow.com/users/authenticate",
+"details": "POST /users/authenticate HTTP/1.1","post_data": "fkey%3D826d632ea19555b290369410589e0dad%26oauth_version%3D%26oauth_server%3D%26openid_identifier%3Dhttps%253A%252F%252Fwww.google.com%252Faccounts%252Fo8%252Fid",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /accounts/o8/ud?openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.return_to=http%3A%2F%2Fstackoverflow.com%2Fusers%2Fauthenticate%2F%3Fs%3D1618be33-59dc-4910-a96e-f26be66b23c6%26dnoa.userSuppliedIdentifier%3Dhttps%253A%252F%252Fwww.google.com%252Faccounts%252Fo8%252Fid&openid.realm=http%3A%2F%2Fstackoverflow.com%2Fusers%2Fauthenticate%2F&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.alias3=http%3A%2F%2Fopenid.net%2Fsrv%2Fax%2F1.0&openid.alias3.if_available=alias1%2Calias2%2Calias3&openid.alias3.required=alias4&openid.alias3.mode=fetch_request&openid.alias3.type.alias1=http%3A%2F%2Fschema.openid.net%2FnamePerson&openid.alias3.count.alias1=1&openid.alias3.type.alias2=http%3A%2F%2Fschema.openid.net%2Fcontact%2Femail&openid.alias3.count.alias2=1&openid.alias3.type.alias3=http%3A%2F%2Faxschema.org%2FnamePerson&openid.alias3.count.alias3=1&openid.alias3.type.alias4=http%3A%2F%2Faxschema.org%2Fcontact%2Femail&openid.alias3.count.alias4=1 HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /o/openid2/auth?openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.return_to=http://stackoverflow.com/users/authenticate/?s%3D1618be33-59dc-4910-a96e-f26be66b23c6%26dnoa.userSuppliedIdentifier%3Dhttps%253A%252F%252Fwww.google.com%252Faccounts%252Fo8%252Fid&openid.realm=http://stackoverflow.com/users/authenticate/&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.ns.alias3=http://openid.net/srv/ax/1.0&openid.alias3.if_available=alias1,alias2,alias3&openid.alias3.required=alias4&openid.alias3.mode=fetch_request&openid.alias3.type.alias1=http://schema.openid.net/namePerson&openid.alias3.count.alias1=1&openid.alias3.type.alias2=http://schema.openid.net/contact/email&openid.alias3.count.alias2=1&openid.alias3.type.alias3=http://axschema.org/namePerson&openid.alias3.count.alias3=1&openid.alias3.type.alias4=http://axschema.org/contact/email&openid.alias3.count.alias4=1 HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /ServiceLogin?service=lso&passive=1209600&continue=https://accounts.google.com/o/openid2/auth?zt%3DChQ1dmV4dy01clVXMVpMd1IyNTdjehIfSXZQelNjV1lfQ3dXc2hRVjBpZVpEQXJXSVp2c2dRSQ%25E2%2588%2599APsBz4gAAAAAUiqV4Wvy-aP9ISPicdbQ1mOF8Jup0pNQ%26from_login%3D1%26hl%3Dzh-CN%26as%3D3112bee9a5b86f77&ltmpl=popup&shdf=Ch0LEgZkb21haW4aEVN0YWNrb3ZlcmZsb3cuY29tDBIDbHNvIhRb7_CmeMXHQRj3NWeWYOelkC4lbSgBMhRWlEBb3JkKS009wuqAL3fpBe6t3g&sarp=1&scc=1 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "https://fonts.googleapis.com/css?family=Open+Sans:300,400&subset=latin,cyrillic-ext,greek-ext,greek,latin-ext,vietnamese,cyrillic",
+"details": "GET /css?family=Open+Sans:300,400&subset=latin,cyrillic-ext,greek-ext,greek,latin-ext,vietnamese,cyrillic HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "https://ssl.gstatic.com/accounts/ui/logo_2x.png",
+"details": "GET /accounts/ui/logo_2x.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://ssl.gstatic.com/accounts/ui/avatar_2x.png",
+"details": "GET /accounts/ui/avatar_2x.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://ssl.gstatic.com/accounts/ui/logo_strip_2x.png",
+"details": "GET /accounts/ui/logo_strip_2x.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-970554276&timestamp=1378521692097",
+"details": "GET /accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-970554276&timestamp=1378521692097 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "https://themes.googleusercontent.com/static/fonts/opensans/v6/DXI1ORHCpsQm3Vp6mXoaTb3hpw3pgy2gAi-Ip7WPMi0.woff",
+"details": "GET /static/fonts/opensans/v6/DXI1ORHCpsQm3Vp6mXoaTb3hpw3pgy2gAi-Ip7WPMi0.woff HTTP/1.1",
+"RESPONSE": "200 OK, font/woff"
+},
+{
+"REQUEST": "https://themes.googleusercontent.com/static/fonts/opensans/v6/wMws1cEtxWZc6AZZIpiqWALUuEpTyoUstqEm5AMlJo4.woff",
+"details": "GET /static/fonts/opensans/v6/wMws1cEtxWZc6AZZIpiqWALUuEpTyoUstqEm5AMlJo4.woff HTTP/1.1",
+"RESPONSE": "200 OK, font/woff"
+},
+{
+"PAGEUPDATE": 1378521692329
+},
+{
+"REQUEST": "https://accounts.google.com/ServiceLoginAuth",
+"details": "POST /ServiceLoginAuth HTTP/1.1","post_data": "GALX%3D0OiPfpDSeQE%26continue%3Dhttps%253A%252F%252Faccounts.google.com%252Fo%252Fopenid2%252Fauth%253Fzt%253DChQ1dmV4dy01clVXMVpMd1IyNTdjehIfSXZQelNjV1lfQ3dXc2hRVjBpZVpEQXJXSVp2c2dRSQ%2525E2%252588%252599APsBz4gAAAAAUiqV4Wvy-aP9ISPicdbQ1mOF8Jup0pNQ%2526from_login%253D1%2526hl%253Dzh-CN%2526as%253D3112bee9a5b86f77%26service%3Dlso%26ltmpl%3Dpopup%26shdf%3DCh0LEgZkb21haW4aEVN0YWNrb3ZlcmZsb3cuY29tDBIDbHNvIhRb7_CmeMXHQRj3NWeWYOelkC4lbSgBMhRWlEBb3JkKS009wuqAL3fpBe6t3g%26scc%3D1%26sarp%3D1%26_utf8%3D%25E2%2598%2583%26bgresponse%3D%2521A0JgBXGzK4uJN0SWXdARa5KppgIAAAA8UgAAAA8qAPMqcZVjzTjDdY_fVc8H8jm3Q7M1yAKrO-IVHPqvw1uOHA4wkAhhFBHW26jNr2KKMR5BxbgFi-xfoPLPkdnm2YskguatH-Z8Y3LiMJs_Q1FNOBQdweY87bB8OUB4ga2edVuFqWA2ieS3ooxGC2EwF3psyukUdmAM_O2hItdWY9VBAYjmdGq6fhTesoJqasah6-SxdfLX4wjnI6XACvKfiPyz2EB99Wqxts3afTFjnY32OVCavhhO81IdKXaT489AY4se5h0iFeCyWUwJ2aJZxHkA7505V8OEgCAXrOyv-AjgMhNnellYqAdio_SKv6jyyZGYNwA%26pstMsg%3D1%26dnConn%3D%26checkConnection%3Dyoutube%253A109%253A1%26checkedDomains%3Dyoutube%26Email%3Dniklequan%2540gmail.com%26Passwd%3Dwxq790428%26signIn%3D%25E7%2599%25BB%25E5%25BD%2595%26PersistentCookie%3Dyes",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /accounts/SetSID?ssdc=1&sidt=ALWU2cvwR2TKCGlssT7U39UrBWXtD0hGUUzlNRViiCnkbbDtTMrY6lJmgNj2TS4txXkMI67QysJHA0%2F%2FOs%2FB1xCvp7n0HdTgmEewVFbL96nX799%2F4kZ9Co7lXL%2F%2FvDG9UxbZQ%2Fq9nQs6%2BfZLw93O%2B7ktwfEkn6rnjcIhSH9UpxCOXdVuAQ8WHXvqPt6tuhkg2RqKBA4R3O5rND1uVPFHcAU3S3UABNaQRVz9GmprjIbR3Vfd1CiJr5Y6vpXxzLnHwDEZIrQUVTcmJMM%2FATwLRsYQ5AbTsE3BKrIUaPn1xU7nQFwQ%2FQsNus236TFxf55GeFUSDoHMUn4X2787IcP69rqBno5t1CyjYsX3HaSwOhPTNAt2LWV22BFukTcDf%2FL3dofvXBXCm7tiVuemXdB%2BAOXauJU97MpiYQ%3D%3D&continue=https%3A%2F%2Faccounts.google.com%2Fo%2Fopenid2%2Fauth%3Fzt%3DChQ1dmV4dy01clVXMVpMd1IyNTdjehIfSXZQelNjV1lfQ3dXc2hRVjBpZVpEQXJXSVp2c2dRSQ%25E2%2588%2599APsBz4gAAAAAUiqV4Wvy-aP9ISPicdbQ1mOF8Jup0pNQ%26from_login%3D1%26hl%3Dzh-CN%26as%3D3112bee9a5b86f77%26auth%3DDQAAAI8AAACtwGA0_JZPG2fYrT1bQEkoCQ7CKzb_aMri0apyHfVcFZkiQXAdZqSFyLX7WY79iLAy9yKIlyWwTPb9IbC6PzqDI2B6y2dczzG4suKc2xVO8pUmokgxqoT4E32pbIGA_syMZVJNUhAZnh8wMOT5LpNMxEAzfdl1rMg4008u34xc2l4Xyp922LPCTQKQxWqMqCk HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /o/openid2/auth?zt=ChQ1dmV4dy01clVXMVpMd1IyNTdjehIfSXZQelNjV1lfQ3dXc2hRVjBpZVpEQXJXSVp2c2dRSQ%E2%88%99APsBz4gAAAAAUiqV4Wvy-aP9ISPicdbQ1mOF8Jup0pNQ&from_login=1&hl=zh-CN&as=3112bee9a5b86f77&auth=DQAAAI8AAACtwGA0_JZPG2fYrT1bQEkoCQ7CKzb_aMri0apyHfVcFZkiQXAdZqSFyLX7WY79iLAy9yKIlyWwTPb9IbC6PzqDI2B6y2dczzG4suKc2xVO8pUmokgxqoT4E32pbIGA_syMZVJNUhAZnh8wMOT5LpNMxEAzfdl1rMg4008u34xc2l4Xyp922LPCTQKQxWqMqCk HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /o/openid2/auth?zt=ChQ1dmV4dy01clVXMVpMd1IyNTdjehIfSXZQelNjV1lfQ3dXc2hRVjBpZVpEQXJXSVp2c2dRSQ%E2%88%99APsBz4gAAAAAUiqV4Wvy-aP9ISPicdbQ1mOF8Jup0pNQ&from_login=1&hl=zh-CN&as=3112bee9a5b86f77 HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /users/authenticate/?s=1618be33-59dc-4910-a96e-f26be66b23c6&dnoa.userSuppliedIdentifier=https%3A%2F%2Fwww.google.com%2Faccounts%2Fo8%2Fid&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Fwww.google.com%2Faccounts%2Fo8%2Fud&openid.response_nonce=2013-09-07T02%3A41%3A48ZF3G3C6IiHgdFgg&openid.return_to=http%3A%2F%2Fstackoverflow.com%2Fusers%2Fauthenticate%2F%3Fs%3D1618be33-59dc-4910-a96e-f26be66b23c6%26dnoa.userSuppliedIdentifier%3Dhttps%253A%252F%252Fwww.google.com%252Faccounts%252Fo8%252Fid&openid.assoc_handle=1.AMlYA9UwnNJyD7RKr2FTV9eleYIB-RUwfl0NMYMd3lsCVf1BNuqT1ttQZvI9X4Uk&openid.signed=op_endpoint%2Cclaimed_id%2Cidentity%2Creturn_to%2Cresponse_nonce%2Cassoc_handle%2Cns.ext1%2Cext1.mode%2Cext1.type.alias4%2Cext1.value.alias4&openid.sig=9X5iGK4%2FFfb20%2FgO3r%2FCck6BGmw%3D&openid.identity=https%3A%2F%2Fwww.google.com%2Faccounts%2Fo8%2Fid%3Fid%3DAItOawlZzXpHjo93OmKeb0qldRpf-Q_nNMXvi1Q&openid.claimed_id=https%3A%2F%2Fwww.google.com%2Faccounts%2Fo8%2Fid%3Fid%3DAItOawlZzXpHjo93OmKeb0qldRpf-Q_nNMXvi1Q&openid.ns.ext1=http%3A%2F%2Fopenid.net%2Fsrv%2Fax%2F1.0&openid.ext1.mode=fetch_response&openid.ext1.type.alias4=http%3A%2F%2Faxschema.org%2Fcontact%2Femail&openid.ext1.value.alias4=niklequan%40gmail.com HTTP/1.1",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /questions/18668858/putting-a-user-submitted-twitter-widget-id-in-js HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js",
+"details": "GET /ajax/libs/jquery/1.7.1/jquery.min.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/stub.js?v=0ad8a2cff262",
+"details": "GET /js/stub.js?v=0ad8a2cff262 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/mobile.js?v=75f8938d6753",
+"details": "GET /js/mobile.js?v=75f8938d6753 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/skins/mobile/all.css?v=1de0668ed3db",
+"details": "GET /skins/mobile/all.css?v=1de0668ed3db HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/stackoverflow/img/icon-48.png",
+"details": "GET /stackoverflow/img/icon-48.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/262e1887a2edd00298ab057376877ad4?s=16&d=identicon&r=PG&f=1",
+"details": "GET /avatar/262e1887a2edd00298ab057376877ad4?s=16&d=identicon&r=PG&f=1 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/0fd1fdda23abeeec939ba1a6d0aca78c?s=30&d=identicon&r=PG&f=1",
+"details": "GET /avatar/0fd1fdda23abeeec939ba1a6d0aca78c?s=30&d=identicon&r=PG&f=1 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.google-analytics.com/ga.js",
+"details": "GET /ga.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://edge.quantserve.com/quant.js",
+"details": "GET /quant.js HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/full.js?v=f9e9cb812ede",
+"details": "GET /js/full.js?v=f9e9cb812ede HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=4&utmn=1054781200&utmhn=stackoverflow.com&utme=8(tags*accountid)9(%7Cjavascript%7Ctwitter%7Cwidget%7C*3266717)11(2!2)&utmcs=UTF-8&utmsr=1600x900&utmvp=483x791&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=Putting%20a%20user%20submitted%20Twitter%20widget%20ID%20in%20JS%20-%20Stack%20Overflow&utmhid=1694531529&utmr=-&utmp=%2Fquestions%2F18668858%2Fputting-a-user-submitted-twitter-widget-id-in-js&utmht=1378521708258&utmac=UA-5620270-1&utmcc=__utma%3D140029553.587591793.1378521673.1378521673.1378521673.1%3B%2B__utmz%3D140029553.1378521673.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qQ~",
+"details": "GET /__utm.gif?utmwv=5.4.4&utms=4&utmn=1054781200&utmhn=stackoverflow.com&utme=8(tags*accountid)9(%7Cjavascript%7Ctwitter%7Cwidget%7C*3266717)11(2!2)&utmcs=UTF-8&utmsr=1600x900&utmvp=483x791&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=Putting%20a%20user%20submitted%20Twitter%20widget%20ID%20in%20JS%20-%20Stack%20Overflow&utmhid=1694531529&utmr=-&utmp=%2Fquestions%2F18668858%2Fputting-a-user-submitted-twitter-widget-id-in-js&utmht=1378521708258&utmac=UA-5620270-1&utmcc=__utma%3D140029553.587591793.1378521673.1378521673.1378521673.1%3B%2B__utmz%3D140029553.1378521673.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qQ~ HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://pixel.quantserve.com/pixel;r=1465632690;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1140075044-1378521672706;ns=0;ce=1;cm=;je=1;sr=1600x900x32;enc=n;dst=1;et=1378521708274;tzo=240;ref=;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F18668858%2Fputting-a-user-submitted-twitter-widget-id-in-js;ogl=",
+"details": "GET /pixel;r=1465632690;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1140075044-1378521672706;ns=0;ce=1;cm=;je=1;sr=1600x900x32;enc=n;dst=1;et=1378521708274;tzo=240;ref=;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F18668858%2Fputting-a-user-submitted-twitter-widget-id-in-js;ogl= HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"PAGEUPDATE": 1378521708334
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/prettify-full.js?v=6c261bebf56a",
+"details": "GET /js/prettify-full.js?v=6c261bebf56a HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/wmd.js?v=12e251f7c6c3",
+"details": "GET /js/wmd.js?v=12e251f7c6c3 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://stackoverflow.com/questions/ticks?_=1378521708367",
+"details": "GET /questions/ticks?_=1378521708367 HTTP/1.1",
+"RESPONSE": "200 OK, text/plain"
+},
+{
+"REQUEST": "http://stackoverflow.com/posts/18668858/ivc/e8fa?_=1378521708367",
+"details": "GET /posts/18668858/ivc/e8fa?_=1378521708367 HTTP/1.1",
+"RESPONSE": "204 No Content, text/plain"
+},
+{
+"REQUEST": "https://stackauth.com/auth/global/write?authToken=6dbRJSzjD%2FIRR5yF%2FfWIUOzo4dxd2XRBBb3LSOpktSeCgbSLbRR8fhZikIqufzgLypiIJ2VuWCihaBLtcaJcoltIotSR59kucrjtmKu3%2B34LdXWy6sUi3ktzOTDzQ2CK4zVcqJgIE9kNYPuaDpUmzkIm1Fc%2B4fjU%2FnYGwc3U14FvphBza3C9Ji0Nc2821MympRgOl3IMiMoyp9slQQU5RqViKBQe2fIKJmcyS1eblMY%3D&nonce=bJIqUgAAAADEy5x9T5FGsw%3D%3D",
+"details": "GET /auth/global/write?authToken=6dbRJSzjD%2FIRR5yF%2FfWIUOzo4dxd2XRBBb3LSOpktSeCgbSLbRR8fhZikIqufzgLypiIJ2VuWCihaBLtcaJcoltIotSR59kucrjtmKu3%2B34LdXWy6sUi3ktzOTDzQ2CK4zVcqJgIE9kNYPuaDpUmzkIm1Fc%2B4fjU%2FnYGwc3U14FvphBza3C9Ji0Nc2821MympRgOl3IMiMoyp9slQQU5RqViKBQe2fIKJmcyS1eblMY%3D&nonce=bJIqUgAAAADEy5x9T5FGsw%3D%3D HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://stackoverflow.com/posts/18668858/vote/5",
+"details": "POST /posts/18668858/vote/5 HTTP/1.1","post_data": "fkey%3Deaa946aee5b3de066b642f257520a220",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "http://stackoverflow.com/posts/18668858/vote/2",
+"details": "POST /posts/18668858/vote/2 HTTP/1.1","post_data": "fkey%3Deaa946aee5b3de066b642f257520a220%26ltu%3D",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "http://stackoverflow.com/posts/18668858/vote/5",
+"details": "POST /posts/18668858/vote/5 HTTP/1.1","post_data": "fkey%3Deaa946aee5b3de066b642f257520a220",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "http://stackoverflow.com/posts/18668858/vote/5",
+"details": "POST /posts/18668858/vote/5 HTTP/1.1","post_data": "fkey%3Deaa946aee5b3de066b642f257520a220",
+"RESPONSE": "200 OK, application/json"
+}
+]

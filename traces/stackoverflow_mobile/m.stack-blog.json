@@ -1,0 +1,432 @@
+[
+{
+"PAGEUPDATE": 1378521892022
+},
+{
+"REQUEST": "http://www.stackoverflow.com/",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js",
+"details": "GET /ajax/libs/jquery/1.7.1/jquery.min.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/stub.js?v=0ad8a2cff262",
+"details": "GET /js/stub.js?v=0ad8a2cff262 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/mobile.js?v=75f8938d6753",
+"details": "GET /js/mobile.js?v=75f8938d6753 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/skins/mobile/all.css?v=1de0668ed3db",
+"details": "GET /skins/mobile/all.css?v=1de0668ed3db HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/stackoverflow/img/icon-48.png",
+"details": "GET /stackoverflow/img/icon-48.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/skins/mobile/img/bg-hatchline.png",
+"details": "GET /skins/mobile/img/bg-hatchline.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.google-analytics.com/ga.js",
+"details": "GET /ga.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://edge.quantserve.com/quant.js",
+"details": "GET /quant.js HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/full-anon.js?v=91e39f868c82",
+"details": "GET /js/full-anon.js?v=91e39f868c82 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=1&utmn=1891024008&utmhn=stackoverflow.com&utmcs=UTF-8&utmsr=1600x900&utmvp=483x791&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=Stack%20Overflow&utmhid=869312331&utmr=-&utmp=%2F&utmht=1378521899711&utmac=UA-5620270-1&utmcc=__utma%3D140029553.1949922751.1378521900.1378521900.1378521900.1%3B%2B__utmz%3D140029553.1378521900.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=q~",
+"details": "GET /__utm.gif?utmwv=5.4.4&utms=1&utmn=1891024008&utmhn=stackoverflow.com&utmcs=UTF-8&utmsr=1600x900&utmvp=483x791&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=Stack%20Overflow&utmhid=869312331&utmr=-&utmp=%2F&utmht=1378521899711&utmac=UA-5620270-1&utmcc=__utma%3D140029553.1949922751.1378521900.1378521900.1378521900.1%3B%2B__utmz%3D140029553.1378521900.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=q~ HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://pixel.quantserve.com/pixel;r=1567152731;a=p-c1rF4kxgLUzNc;fpan=1;fpa=P0-17913760-1378521899711;ns=0;ce=1;cm=;je=1;sr=1600x900x32;enc=n;dst=1;et=1378521899711;tzo=240;ref=;url=http%3A%2F%2Fstackoverflow.com%2F;ogl=",
+"details": "GET /pixel;r=1567152731;a=p-c1rF4kxgLUzNc;fpan=1;fpa=P0-17913760-1378521899711;ns=0;ce=1;cm=;je=1;sr=1600x900x32;enc=n;dst=1;et=1378521899711;tzo=240;ref=;url=http%3A%2F%2Fstackoverflow.com%2F;ogl= HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://stackoverflow.com/users/login/global/request",
+"details": "POST /users/login/global/request HTTP/1.1","post_data": "undefined",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"PAGEUPDATE": 1378521899837
+},
+{
+"REQUEST": "https://stackauth.com/auth/global/read?request=qU1tRV5mpiJhHoi4gY6eSsWPXs7MGbRsgvntn69rEIX0NgfIrbWa1pWcgl4caFBeXbgFCXHNs%2FNtnjy5PJzg1g%3D%3D&nonce=LJMqUgAAAADewR3M2GXGQg%3D%3D",
+"details": "GET /auth/global/read?request=qU1tRV5mpiJhHoi4gY6eSsWPXs7MGbRsgvntn69rEIX0NgfIrbWa1pWcgl4caFBeXbgFCXHNs%2FNtnjy5PJzg1g%3D%3D&nonce=LJMqUgAAAADewR3M2GXGQg%3D%3D HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://blog.stackexchange.com/",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/themes/carrington-mobile-1.0.2/style.css",
+"details": "GET /wp-content/themes/carrington-mobile-1.0.2/style.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/themes/carrington-mobile-1.0.2/css/advanced.css",
+"details": "GET /wp-content/themes/carrington-mobile-1.0.2/css/advanced.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/plugins/podpress/players/1pixelout/1pixelout_audio-player.js",
+"details": "GET /wp-content/plugins/podpress/players/1pixelout/1pixelout_audio-player.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-includes/js/jquery/jquery.js?ver=1.10.2",
+"details": "GET /wp-includes/js/jquery/jquery.js?ver=1.10.2 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1",
+"details": "GET /wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/themes/carrington-mobile-1.0.2/js/mobile.js?ver=1.0",
+"details": "GET /wp-content/themes/carrington-mobile-1.0.2/js/mobile.js?ver=1.0 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/plugins/podpress/js/podpress.js?ver=3.6",
+"details": "GET /wp-content/plugins/podpress/js/podpress.js?ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/themes/carrington-mobile-1.0.2/img/header-gloss.png",
+"details": "GET /wp-content/themes/carrington-mobile-1.0.2/img/header-gloss.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/themes/carrington-mobile-1.0.2/img/home.png",
+"details": "GET /wp-content/themes/carrington-mobile-1.0.2/img/home.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/themes/carrington-mobile-1.0.2/img/disclosure.png",
+"details": "GET /wp-content/themes/carrington-mobile-1.0.2/img/disclosure.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/themes/carrington-mobile-1.0.2/img/footer-shadow.gif",
+"details": "GET /wp-content/themes/carrington-mobile-1.0.2/img/footer-shadow.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"PAGEUPDATE": 1378521909837
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/2013/09/podcast-52-we-didnt-need-headphones/",
+"details": "GET /2013/09/podcast-52-we-didnt-need-headphones/ HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/themes/carrington-mobile-1.0.2/style.css",
+"details": "GET /wp-content/themes/carrington-mobile-1.0.2/style.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/themes/carrington-mobile-1.0.2/css/advanced.css",
+"details": "GET /wp-content/themes/carrington-mobile-1.0.2/css/advanced.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/plugins/podpress/players/1pixelout/1pixelout_audio-player.js",
+"details": "GET /wp-content/plugins/podpress/players/1pixelout/1pixelout_audio-player.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-includes/js/jquery/jquery.js?ver=1.10.2",
+"details": "GET /wp-includes/js/jquery/jquery.js?ver=1.10.2 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1",
+"details": "GET /wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/themes/carrington-mobile-1.0.2/js/mobile.js?ver=1.0",
+"details": "GET /wp-content/themes/carrington-mobile-1.0.2/js/mobile.js?ver=1.0 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/plugins/podpress/js/podpress.js?ver=3.6",
+"details": "GET /wp-content/plugins/podpress/js/podpress.js?ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/themes/carrington-mobile-1.0.2/img/header-gloss.png",
+"details": "GET /wp-content/themes/carrington-mobile-1.0.2/img/header-gloss.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/themes/carrington-mobile-1.0.2/img/home.png",
+"details": "GET /wp-content/themes/carrington-mobile-1.0.2/img/home.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/themes/carrington-mobile-1.0.2/img/disclosure-left.png",
+"details": "GET /wp-content/themes/carrington-mobile-1.0.2/img/disclosure-left.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/themes/carrington-mobile-1.0.2/img/disclosure.png",
+"details": "GET /wp-content/themes/carrington-mobile-1.0.2/img/disclosure.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F108681379",
+"details": "GET /player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F108681379 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/plugins/podpress/images/audio_mp3_button.png",
+"details": "GET /wp-content/plugins/podpress/images/audio_mp3_button.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/themes/carrington-mobile-1.0.2/img/title-divider.png",
+"details": "GET /wp-content/themes/carrington-mobile-1.0.2/img/title-divider.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/themes/carrington-mobile-1.0.2/img/comment.png",
+"details": "GET /wp-content/themes/carrington-mobile-1.0.2/img/comment.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.google.com/recaptcha/api/challenge?k=6LfrgQIAAAAAAEaJ7C-t3YZo15FsalUikLvnZPE3",
+"details": "GET /recaptcha/api/challenge?k=6LfrgQIAAAAAAEaJ7C-t3YZo15FsalUikLvnZPE3 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://www.google.com/recaptcha/api/js/recaptcha_1-9001b58f_d756b56d_7e785b5e_cd195417_91463f4e.js",
+"details": "GET /recaptcha/api/js/recaptcha_1-9001b58f_d756b56d_7e785b5e_cd195417_91463f4e.js HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"REQUEST": "https://w.soundcloud.com/player/assets/widget-6142c55d.css",
+"details": "GET /player/assets/widget-6142c55d.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "https://w.soundcloud.com/player/assets/widget-e40403df.js",
+"details": "GET /player/assets/widget-e40403df.js HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"REQUEST": "http://www.google.com/recaptcha/api/img/clean/refresh.png",
+"details": "GET /recaptcha/api/img/clean/refresh.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.google.com/recaptcha/api/img/clean/audio.png",
+"details": "GET /recaptcha/api/img/clean/audio.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.google.com/recaptcha/api/img/clean/text.png",
+"details": "GET /recaptcha/api/img/clean/text.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.google.com/recaptcha/api/img/clean/help.png",
+"details": "GET /recaptcha/api/img/clean/help.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.google.com/recaptcha/api/img/clean/logo.png",
+"details": "GET /recaptcha/api/img/clean/logo.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.google.com/recaptcha/api/image?c=03AHJ_VusqPaAbx6sEgH15zkhIh3TUX6q5mPCH74Th_LIp7AwOh4-mdhWZg1jYKyfrrz273DVxWPokXnO4XD3LQEuj7g0VtKboUfE0_7GXsCZat-B28p3o8eFjKRLylcVBQcvdZkE3bPVfninCcYGUAuVuxkwd952JiYpvy7BCmbv2TunHsGBGqXs",
+"details": "GET /recaptcha/api/image?c=03AHJ_VusqPaAbx6sEgH15zkhIh3TUX6q5mPCH74Th_LIp7AwOh4-mdhWZg1jYKyfrrz273DVxWPokXnO4XD3LQEuj7g0VtKboUfE0_7GXsCZat-B28p3o8eFjKRLylcVBQcvdZkE3bPVfninCcYGUAuVuxkwd952JiYpvy7BCmbv2TunHsGBGqXs HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/themes/carrington-mobile-1.0.2/img/footer-shadow.gif",
+"details": "GET /wp-content/themes/carrington-mobile-1.0.2/img/footer-shadow.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/themes/carrington-mobile-1.0.2/img/tab-active.gif",
+"details": "GET /wp-content/themes/carrington-mobile-1.0.2/img/tab-active.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/themes/carrington-mobile-1.0.2/img/tab.gif",
+"details": "GET /wp-content/themes/carrington-mobile-1.0.2/img/tab.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"PAGEUPDATE": 1378521923799
+},
+{
+"REQUEST": "https://w.soundcloud.com/player/assets/xtcore-21b39252.js",
+"details": "GET /player/assets/xtcore-21b39252.js HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"REQUEST": "https://ssl.google-analytics.com/ga.js",
+"details": "GET /ga.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://api.sndcdn.com/tracks/108681379?client_id=0f8fdbbaa21a9bd18210986a7dc2d72c&format=json",
+"details": "GET /tracks/108681379?client_id=0f8fdbbaa21a9bd18210986a7dc2d72c&format=json HTTP/1.1",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "https://sb.scorecardresearch.com/beacon.js",
+"details": "GET /beacon.js HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"REQUEST": "https://eventlogger.soundcloud.com/pageview?anonymous_id=37450-299299-611532-170519&client_id=43164&ts=1378521923969&url=https%3A//w.soundcloud.com/player/%3Furl%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F108681379&referrer=http%3A%2F%2Fblog.stackoverflow.com%2F2013%2F09%2Fpodcast-52-we-didnt-need-headphones%2F&user=37450-299299-611532-170519&level=0&chapter=blog.stackoverflow.com%3A%3Ahttp%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F108681379",
+"details": "GET /pageview?anonymous_id=37450-299299-611532-170519&client_id=43164&ts=1378521923969&url=https%3A//w.soundcloud.com/player/%3Furl%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F108681379&referrer=http%3A%2F%2Fblog.stackoverflow.com%2F2013%2F09%2Fpodcast-52-we-didnt-need-headphones%2F&user=37450-299299-611532-170519&level=0&chapter=blog.stackoverflow.com%3A%3Ahttp%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F108681379 HTTP/1.1"
+},
+{
+"REQUEST": "https://ssl.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=1&utmn=987343864&utmhn=w.soundcloud.com&utmcs=UTF-8&utmsr=1600x900&utmvp=473x166&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=SoundCloud%20Widget&utmhid=609009013&utmr=http%3A%2F%2Fblog.stackoverflow.com%2F2013%2F09%2Fpodcast-52-we-didnt-need-headphones%2F&utmp=%2Fplayer%2F%3Furl%3Dhttp%25253A%25252F%25252Fapi.soundcloud.com%25252Ftracks%25252F108681379&utmht=1378521924187&utmac=UA-2519404-20&utmcc=__utma%3D62927721.822066669.1378521924.1378521924.1378521924.1%3B%2B__utmz%3D62927721.1378521924.1.1.utmcsr%3Dblog.stackoverflow.com%7Cutmccn%3D(referral)%7Cutmcmd%3Dreferral%7Cutmcct%3D%2F2013%2F09%2Fpodcast-52-we-didnt-need-headphones%2F%3B&aip=1&utmu=qAQ~",
+"details": "GET /__utm.gif?utmwv=5.4.4&utms=1&utmn=987343864&utmhn=w.soundcloud.com&utmcs=UTF-8&utmsr=1600x900&utmvp=473x166&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=SoundCloud%20Widget&utmhid=609009013&utmr=http%3A%2F%2Fblog.stackoverflow.com%2F2013%2F09%2Fpodcast-52-we-didnt-need-headphones%2F&utmp=%2Fplayer%2F%3Furl%3Dhttp%25253A%25252F%25252Fapi.soundcloud.com%25252Ftracks%25252F108681379&utmht=1378521924187&utmac=UA-2519404-20&utmcc=__utma%3D62927721.822066669.1378521924.1378521924.1378521924.1%3B%2B__utmz%3D62927721.1378521924.1.1.utmcsr%3Dblog.stackoverflow.com%7Cutmccn%3D(referral)%7Cutmcmd%3Dreferral%7Cutmcct%3D%2F2013%2F09%2Fpodcast-52-we-didnt-need-headphones%2F%3B&aip=1&utmu=qAQ~ HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "https://ssl.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=2&utmn=502745955&utmhn=w.soundcloud.com&utmt=event&utme=5(Widget%20size*Range*473x166)&utmcs=UTF-8&utmsr=1600x900&utmvp=473x166&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=SoundCloud%20Widget&utmhid=609009013&utmr=http%3A%2F%2Fblog.stackoverflow.com%2F2013%2F09%2Fpodcast-52-we-didnt-need-headphones%2F&utmp=%2Fplayer%2F%3Furl%3Dhttp%25253A%25252F%25252Fapi.soundcloud.com%25252Ftracks%25252F108681379&utmht=1378521924203&utmac=UA-2519404-20&utmcc=__utma%3D62927721.822066669.1378521924.1378521924.1378521924.1%3B%2B__utmz%3D62927721.1378521924.1.1.utmcsr%3Dblog.stackoverflow.com%7Cutmccn%3D(referral)%7Cutmcmd%3Dreferral%7Cutmcct%3D%2F2013%2F09%2Fpodcast-52-we-didnt-need-headphones%2F%3B&aip=1&utmu=6AQ~",
+"details": "GET /__utm.gif?utmwv=5.4.4&utms=2&utmn=502745955&utmhn=w.soundcloud.com&utmt=event&utme=5(Widget%20size*Range*473x166)&utmcs=UTF-8&utmsr=1600x900&utmvp=473x166&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=SoundCloud%20Widget&utmhid=609009013&utmr=http%3A%2F%2Fblog.stackoverflow.com%2F2013%2F09%2Fpodcast-52-we-didnt-need-headphones%2F&utmp=%2Fplayer%2F%3Furl%3Dhttp%25253A%25252F%25252Fapi.soundcloud.com%25252Ftracks%25252F108681379&utmht=1378521924203&utmac=UA-2519404-20&utmcc=__utma%3D62927721.822066669.1378521924.1378521924.1378521924.1%3B%2B__utmz%3D62927721.1378521924.1.1.utmcsr%3Dblog.stackoverflow.com%7Cutmccn%3D(referral)%7Cutmcmd%3Dreferral%7Cutmcct%3D%2F2013%2F09%2Fpodcast-52-we-didnt-need-headphones%2F%3B&aip=1&utmu=6AQ~ HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "https://sb.scorecardresearch.com/b?c1=7&c2=16601931&c3=43164&ns__t=1378521924250&ns_c=UTF-8&c8=SoundCloud%20Widget&c7=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Furl%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F108681379&c9=http%3A%2F%2Fblog.stackoverflow.com%2F2013%2F09%2Fpodcast-52-we-didnt-need-headphones%2F",
+"details": "GET /b?c1=7&c2=16601931&c3=43164&ns__t=1378521924250&ns_c=UTF-8&c8=SoundCloud%20Widget&c7=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Furl%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F108681379&c9=http%3A%2F%2Fblog.stackoverflow.com%2F2013%2F09%2Fpodcast-52-we-didnt-need-headphones%2F HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, ",
+"details": "GET /b2?c1=7&c2=16601931&c3=43164&ns__t=1378521924250&ns_c=UTF-8&c8=SoundCloud%20Widget&c7=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Furl%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F108681379&c9=http%3A%2F%2Fblog.stackoverflow.com%2F2013%2F09%2Fpodcast-52-we-didnt-need-headphones%2F HTTP/1.1",
+"RESPONSE": "204 No Content, text/plain"
+},
+{
+"REQUEST": "https://i1.sndcdn.com/avatars-000011139586-8ft0oi-t200x200.jpg?5e64f12",
+"details": "GET /avatars-000011139586-8ft0oi-t200x200.jpg?5e64f12 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://w.soundcloud.com/player/assets/images/default/cloudx200-72176be9.png",
+"details": "GET /player/assets/images/default/cloudx200-72176be9.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://w.soundcloud.com/player/assets/images/flip-indicator-e6c9bb3c.png",
+"details": "GET /player/assets/images/flip-indicator-e6c9bb3c.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://w.soundcloud.com/player/assets/images/buttons/play-43x43-972596fa.png",
+"details": "GET /player/assets/images/buttons/play-43x43-972596fa.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://w.soundcloud.com/player/assets/images/sc-logo-with-name-72af1d6f.png",
+"details": "GET /player/assets/images/sc-logo-with-name-72af1d6f.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://wis.sndcdn.com/UNngzrCTemiT_m.png",
+"details": "GET /UNngzrCTemiT_m.png HTTP/1.1",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "https://logs1252.xiti.com/hit.xiti?s=509436&hl=22x45x23&vrn=1&ac=&an=&lng=zh-CN&vtag=42004&idp=2245233016604&jv=1&r=1600x900x32x32&re=473x166&s2=0&p=blog.stackoverflow.com::http://api.soundcloud.com/tracks/108681379&ref=http://blog.stackoverflow.com/2013/09/podcast-52-we-didnt-need-headphones/",
+"details": "GET /hit.xiti?s=509436&hl=22x45x23&vrn=1&ac=&an=&lng=zh-CN&vtag=42004&idp=2245233016604&jv=1&r=1600x900x32x32&re=473x166&s2=0&p=blog.stackoverflow.com::http://api.soundcloud.com/tracks/108681379&ref=http://blog.stackoverflow.com/2013/09/podcast-52-we-didnt-need-headphones/ HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, ",
+"details": "GET /hit.xiti?s=509436&hl=22x45x23&vrn=1&ac=&an=&lng=zh-CN&vtag=42004&idp=2245233016604&jv=1&r=1600x900x32x32&re=473x166&s2=0&p=blog.stackoverflow.com::http://api.soundcloud.com/tracks/108681379&ref=http://blog.stackoverflow.com/2013/09/podcast-52-we-didnt-need-headphones/&Rdt=On HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://blog.stackexchange.com/",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/themes/carrington-mobile-1.0.2/style.css",
+"details": "GET /wp-content/themes/carrington-mobile-1.0.2/style.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/themes/carrington-mobile-1.0.2/css/advanced.css",
+"details": "GET /wp-content/themes/carrington-mobile-1.0.2/css/advanced.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/plugins/podpress/players/1pixelout/1pixelout_audio-player.js",
+"details": "GET /wp-content/plugins/podpress/players/1pixelout/1pixelout_audio-player.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-includes/js/jquery/jquery.js?ver=1.10.2",
+"details": "GET /wp-includes/js/jquery/jquery.js?ver=1.10.2 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1",
+"details": "GET /wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/themes/carrington-mobile-1.0.2/js/mobile.js?ver=1.0",
+"details": "GET /wp-content/themes/carrington-mobile-1.0.2/js/mobile.js?ver=1.0 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/plugins/podpress/js/podpress.js?ver=3.6",
+"details": "GET /wp-content/plugins/podpress/js/podpress.js?ver=3.6 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/themes/carrington-mobile-1.0.2/img/header-gloss.png",
+"details": "GET /wp-content/themes/carrington-mobile-1.0.2/img/header-gloss.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/themes/carrington-mobile-1.0.2/img/home.png",
+"details": "GET /wp-content/themes/carrington-mobile-1.0.2/img/home.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/themes/carrington-mobile-1.0.2/img/disclosure.png",
+"details": "GET /wp-content/themes/carrington-mobile-1.0.2/img/disclosure.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://blog.stackoverflow.com/wp-content/themes/carrington-mobile-1.0.2/img/footer-shadow.gif",
+"details": "GET /wp-content/themes/carrington-mobile-1.0.2/img/footer-shadow.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"PAGEUPDATE": 1378521927684
+}
+]

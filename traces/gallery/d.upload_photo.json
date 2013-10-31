@@ -1,0 +1,252 @@
+[
+{
+"PAGEUPDATE": 1378627968686
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3",
+"details": "GET /gallery3 HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET /gallery3/ HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/index.php/combined/css/d8818bfd2bdbb7a74931ed7ad6cf45cb",
+"details": "GET /gallery3/index.php/combined/css/d8818bfd2bdbb7a74931ed7ad6cf45cb HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/index.php/combined/javascript/7bb312b54df3b4867ec302cc622103db",
+"details": "GET /gallery3/index.php/combined/javascript/7bb312b54df3b4867ec302cc622103db HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/lib/images/logo.png",
+"details": "GET /gallery3/lib/images/logo.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/var/thumbs/Album1/.album.jpg?m=1378627743",
+"details": "GET /gallery3/var/thumbs/Album1/.album.jpg?m=1378627743 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://e.cooliris.com/slideshow/v/37732/go.js",
+"details": "GET /slideshow/v/37732/go.js HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/wind/images/ico-album.png",
+"details": "GET /gallery3/themes/wind/images/ico-album.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/wind/css/themeroller/images/ui-icons_469bdd_256x240.png",
+"details": "GET /gallery3/themes/wind/css/themeroller/images/ui-icons_469bdd_256x240.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/wind/css/themeroller/images/ui-bg_glass_85_dfeffc_1x400.png",
+"details": "GET /gallery3/themes/wind/css/themeroller/images/ui-bg_glass_85_dfeffc_1x400.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"PAGEUPDATE": 1378628020155
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/index.php/login/ajax",
+"details": "GET /gallery3/index.php/login/ajax HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/wind/css/themeroller/images/ui-bg_inset-hard_100_fcfdfd_1x100.png",
+"details": "GET /gallery3/themes/wind/css/themeroller/images/ui-bg_inset-hard_100_fcfdfd_1x100.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/wind/css/themeroller/images/ui-bg_gloss-wave_55_5c9ccc_500x100.png",
+"details": "GET /gallery3/themes/wind/css/themeroller/images/ui-bg_gloss-wave_55_5c9ccc_500x100.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/wind/css/themeroller/images/ui-icons_d8e7f3_256x240.png",
+"details": "GET /gallery3/themes/wind/css/themeroller/images/ui-icons_d8e7f3_256x240.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/index.php/login/auth_ajax",
+"details": "POST /gallery3/index.php/login/auth_ajax HTTP/1.1","post_data": "csrf%3Ddaee3db428a88853620b584d3d28a476%26continue_url%3D%26name%3Dduser%26password%3Dduserpw!",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/",
+"details": "GET /gallery3/ HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/index.php/combined/css/d8818bfd2bdbb7a74931ed7ad6cf45cb",
+"details": "GET /gallery3/index.php/combined/css/d8818bfd2bdbb7a74931ed7ad6cf45cb HTTP/1.1",
+"RESPONSE": "304 Not Modified, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/index.php/combined/javascript/7bb312b54df3b4867ec302cc622103db",
+"details": "GET /gallery3/index.php/combined/javascript/7bb312b54df3b4867ec302cc622103db HTTP/1.1",
+"RESPONSE": "304 Not Modified, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/lib/images/logo.png",
+"details": "GET /gallery3/lib/images/logo.png HTTP/1.1",
+"RESPONSE": "304 Not Modified, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/var/thumbs/Album1/.album.jpg?m=1378627743",
+"details": "GET /gallery3/var/thumbs/Album1/.album.jpg?m=1378627743 HTTP/1.1",
+"RESPONSE": "304 Not Modified, image/jpeg"
+},
+{
+"REQUEST": "http://e.cooliris.com/slideshow/v/37732/go.js",
+"details": "GET /slideshow/v/37732/go.js HTTP/1.1",
+"RESPONSE": "304 Not Modified, application/x-javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/lib/superfish/images/arrows-ffffff.png",
+"details": "GET /gallery3/lib/superfish/images/arrows-ffffff.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/lib/superfish/images/shadow.png",
+"details": "GET /gallery3/lib/superfish/images/shadow.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"PAGEUPDATE": 1378628030108
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/index.php/uploader/index/1",
+"details": "GET /gallery3/index.php/uploader/index/1 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/lib/swfobject.js?_=1378628032938",
+"details": "GET /gallery3/lib/swfobject.js?_=1378628032938 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/lib/uploadify/jquery.uploadify.min.js?_=1378628033064",
+"details": "GET /gallery3/lib/uploadify/jquery.uploadify.min.js?_=1378628033064 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/wind/images/ico-info.png",
+"details": "GET /gallery3/themes/wind/images/ico-info.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/wind/images/ico-warning.png",
+"details": "GET /gallery3/themes/wind/images/ico-warning.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/wind/images/ico-separator.gif",
+"details": "GET /gallery3/themes/wind/images/ico-separator.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/lib/uploadify/uploadify.swf.php",
+"details": "GET /gallery3/lib/uploadify/uploadify.swf.php HTTP/1.1",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /gallery3/lib/uploadify/uploadify.swf.php?token=8a5b1f1b0ed811c3f12ddd77c02ce9ff HTTP/1.1",
+"RESPONSE": "200 OK, application/x-shockwave-flash"
+},
+{
+"REQUEST": "http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif",
+"details": "GET /images/shared/download_buttons/get_flash_player.gif HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET /www.adobe.com/images/shared/download_buttons/get_flash_player.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/lib/uploadify/cancel.png",
+"details": "GET /gallery3/lib/uploadify/cancel.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/index.php/uploader/status/1/0",
+"details": "GET /gallery3/index.php/uploader/status/1/0 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/wind/images/ico-success.png",
+"details": "GET /gallery3/themes/wind/images/ico-success.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/index.php/tags/autocomplete?q=bear&limit=30&timestamp=1378628109764",
+"details": "GET /gallery3/index.php/tags/autocomplete?q=bear&limit=30&timestamp=1378628109764 HTTP/1.1",
+"RESPONSE": "200 OK, text/plain"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/wind/images/loading-small.gif",
+"details": "GET /gallery3/themes/wind/images/loading-small.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/wind/css/themeroller/images/ui-bg_glass_75_d0e5f5_1x400.png",
+"details": "GET /gallery3/themes/wind/css/themeroller/images/ui-bg_glass_75_d0e5f5_1x400.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/index.php/uploader/finish",
+"details": "POST /gallery3/index.php/uploader/finish HTTP/1.1","post_data": "csrf%3Ddaee3db428a88853620b584d3d28a476%26tags%3Dbear",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/",
+"details": "GET /gallery3/ HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/index.php/combined/css/d8818bfd2bdbb7a74931ed7ad6cf45cb",
+"details": "GET /gallery3/index.php/combined/css/d8818bfd2bdbb7a74931ed7ad6cf45cb HTTP/1.1",
+"RESPONSE": "304 Not Modified, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/index.php/combined/javascript/7bb312b54df3b4867ec302cc622103db",
+"details": "GET /gallery3/index.php/combined/javascript/7bb312b54df3b4867ec302cc622103db HTTP/1.1",
+"RESPONSE": "304 Not Modified, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/lib/images/logo.png",
+"details": "GET /gallery3/lib/images/logo.png HTTP/1.1",
+"RESPONSE": "304 Not Modified, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/var/thumbs/Album1/.album.jpg?m=1378627743",
+"details": "GET /gallery3/var/thumbs/Album1/.album.jpg?m=1378627743 HTTP/1.1",
+"RESPONSE": "304 Not Modified, image/jpeg"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/var/thumbs/bear.jpg?m=1378628106",
+"details": "GET /gallery3/var/thumbs/bear.jpg?m=1378628106 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://e.cooliris.com/slideshow/v/37732/go.js",
+"details": "GET /slideshow/v/37732/go.js HTTP/1.1",
+"RESPONSE": "304 Not Modified, application/x-javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/themes/wind/images/ico-view-slideshow.png",
+"details": "GET /gallery3/themes/wind/images/ico-view-slideshow.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"PAGEUPDATE": 1378628113238
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/gallery3/index.php/admin/upgrade_checker/check_now?csrf=daee3db428a88853620b584d3d28a476",
+"details": "GET /gallery3/index.php/admin/upgrade_checker/check_now?csrf=daee3db428a88853620b584d3d28a476 HTTP/1.1",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /gallery3/index.php/admin/dashboard HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+}
+]

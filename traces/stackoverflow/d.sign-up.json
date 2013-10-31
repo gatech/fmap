@@ -1,0 +1,309 @@
+[
+{
+"PAGEUPDATE": 1378514117895
+},
+{
+"REQUEST": "http://www.stackoverflow.com/",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js",
+"details": "GET /ajax/libs/jquery/1.7.1/jquery.min.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/stub.js?v=0ad8a2cff262",
+"details": "GET /js/stub.js?v=0ad8a2cff262 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/stackoverflow/all.css?v=cff37b15495c",
+"details": "GET /stackoverflow/all.css?v=cff37b15495c HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/tKsDb.png",
+"details": "GET /tKsDb.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/stackoverflow/img/sprites.png?v=6",
+"details": "GET /stackoverflow/img/sprites.png?v=6 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/Img/mini-hero-bg.png",
+"details": "GET /Img/mini-hero-bg.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/Img/sprite-herobox.png",
+"details": "GET /Img/sprite-herobox.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/6QN0y.png",
+"details": "GET /6QN0y.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/fEHUs.png",
+"details": "GET /fEHUs.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/L8rHf.png",
+"details": "GET /L8rHf.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/3ecBT.png",
+"details": "GET /3ecBT.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://static.adzerk.net/ados.js",
+"details": "GET /ados.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://www.google-analytics.com/ga.js",
+"details": "GET /ga.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://edge.quantserve.com/quant.js",
+"details": "GET /quant.js HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/full-anon.js?v=91e39f868c82",
+"details": "GET /js/full-anon.js?v=91e39f868c82 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=1&utmn=968155716&utmhn=stackoverflow.com&utmcs=UTF-8&utmsr=1600x900&utmvp=1509x803&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=Stack%20Overflow&utmhid=357360555&utmr=-&utmp=%2F&utmht=1378514129350&utmac=UA-5620270-1&utmcc=__utma%3D140029553.688960879.1378514129.1378514129.1378514129.1%3B%2B__utmz%3D140029553.1378514129.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=q~",
+"details": "GET /__utm.gif?utmwv=5.4.4&utms=1&utmn=968155716&utmhn=stackoverflow.com&utmcs=UTF-8&utmsr=1600x900&utmvp=1509x803&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=Stack%20Overflow&utmhid=357360555&utmr=-&utmp=%2F&utmht=1378514129350&utmac=UA-5620270-1&utmcc=__utma%3D140029553.688960879.1378514129.1378514129.1378514129.1%3B%2B__utmz%3D140029553.1378514129.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=q~ HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://engine.adzerk.net/ados?t=1378514129350&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1179465648%22,%22AT%22:17,%22Z%22:45}],%22Keywords%22:%22undefined%22,%22Referrer%22:%22%22,%22IsAsync%22:true}",
+"details": "GET /ados?t=1378514129350&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1179465648%22,%22AT%22:17,%22Z%22:45}],%22Keywords%22:%22undefined%22,%22Referrer%22:%22%22,%22IsAsync%22:true} HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://pixel.quantserve.com/pixel;r=491536899;a=p-c1rF4kxgLUzNc;fpan=1;fpa=P0-739006095-1378514129365;ns=0;ce=1;cm=;je=1;sr=1600x900x32;enc=n;dst=1;et=1378514129365;tzo=240;ref=;url=http%3A%2F%2Fstackoverflow.com%2F;ogl=",
+"details": "GET /pixel;r=491536899;a=p-c1rF4kxgLUzNc;fpan=1;fpa=P0-739006095-1378514129365;ns=0;ce=1;cm=;je=1;sr=1600x900x32;enc=n;dst=1;et=1378514129365;tzo=240;ref=;url=http%3A%2F%2Fstackoverflow.com%2F;ogl= HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://cdn-careers.sstatic.net/careers/gethired/loader.min.js?v=607ab2dda910",
+"details": "GET /careers/gethired/loader.min.js?v=607ab2dda910 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://stackoverflow.com/users/login/global/request",
+"details": "POST /users/login/global/request HTTP/1.1","post_data": "undefined",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "http://static.adzerk.net/Extensions/adFeedback.js",
+"details": "GET /Extensions/adFeedback.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://static.adzerk.net/Extensions/adFeedback.css",
+"details": "GET /Extensions/adFeedback.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"PAGEUPDATE": 1378514129611
+},
+{
+"REQUEST": "http://cdn-careers.sstatic.net/careers/gethired/sidebar.min.css?v=17be6ca0db4b",
+"details": "GET /careers/gethired/sidebar.min.css?v=17be6ca0db4b HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://careers.stackoverflow.com/gethired/js",
+"details": "GET /gethired/js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://static.adzerk.net/Advertisers/0a1c2db4e6b64c69aad3afb9a35078b9.png",
+"details": "GET /Advertisers/0a1c2db4e6b64c69aad3afb9a35078b9.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://engine.adzerk.net/i.gif?e=eyJhdiI6NDE0LCJhdCI6MTcsImNtIjozODMyOCwiY2giOjExNzgsImNyIjo5Njg5NSwiZGkiOiIyZDhjNmZlZWE5MDQ0ZDY3YWNlNzUzNDQzYzk4NmQ0NCIsImRtIjoxLCJmYyI6MTMzNDA1LCJmbCI6NjM4NjQsImt3IjoidW5kZWZpbmVkIiwibnciOjIyLCJydiI6MCwicHIiOjE1NjgsInN0Ijo4Mjc3LCJ6biI6NDV9&s=myILlbLGrPnOnHMDDGl_qpR7590",
+"details": "GET /i.gif?e=eyJhdiI6NDE0LCJhdCI6MTcsImNtIjozODMyOCwiY2giOjExNzgsImNyIjo5Njg5NSwiZGkiOiIyZDhjNmZlZWE5MDQ0ZDY3YWNlNzUzNDQzYzk4NmQ0NCIsImRtIjoxLCJmYyI6MTMzNDA1LCJmbCI6NjM4NjQsImt3IjoidW5kZWZpbmVkIiwibnciOjIyLCJydiI6MCwicHIiOjE1NjgsInN0Ijo4Mjc3LCJ6biI6NDV9&s=myILlbLGrPnOnHMDDGl_qpR7590 HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "https://stackauth.com/auth/global/read?request=LA0N0vQDO4I6%2FQcZTnCDI9Zb70oj6HdWopeGNOxXilH9EWAHx%2FMDU0g%2BkgHq5Q1yxQzySfotJzzZriMqGpCjuA%3D%3D&nonce=03QqUgAAAAA9jEqPJEiOYA%3D%3D",
+"details": "GET /auth/global/read?request=LA0N0vQDO4I6%2FQcZTnCDI9Zb70oj6HdWopeGNOxXilH9EWAHx%2FMDU0g%2BkgHq5Q1yxQzySfotJzzZriMqGpCjuA%3D%3D&nonce=03QqUgAAAAA9jEqPJEiOYA%3D%3D HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://cdn-careers.sstatic.net/careers/gethired/img/careers2-ad-header-so-crop.png",
+"details": "GET /careers/gethired/img/careers2-ad-header-so-crop.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://careers.stackoverflow.com/ad/i/LWNpTMTS-M0LxP9Cg-M0GR9Uqc-144-x0VW",
+"details": "GET /ad/i/LWNpTMTS-M0LxP9Cg-M0GR9Uqc-144-x0VW HTTP/1.1",
+"RESPONSE": "204 NoContent, image/gif"
+},
+{
+"REQUEST": "http://stackoverflow.com/users/login",
+"details": "GET /users/login HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js",
+"details": "GET /ajax/libs/jquery/1.7.1/jquery.min.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/stub.js?v=0ad8a2cff262",
+"details": "GET /js/stub.js?v=0ad8a2cff262 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/stackoverflow/all.css?v=cff37b15495c",
+"details": "GET /stackoverflow/all.css?v=cff37b15495c HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/Js/third-party/openid-jquery.js?v=baaac95b5900",
+"details": "GET /Js/third-party/openid-jquery.js?v=baaac95b5900 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/img/openid-large.png",
+"details": "GET /img/openid-large.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.google-analytics.com/ga.js",
+"details": "GET /ga.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://edge.quantserve.com/quant.js",
+"details": "GET /quant.js HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/Img/openid/openid-logos.png?v=8",
+"details": "GET /Img/openid/openid-logos.png?v=8 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/full-anon.js?v=91e39f868c82",
+"details": "GET /js/full-anon.js?v=91e39f868c82 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=2&utmn=1008499622&utmhn=stackoverflow.com&utmcs=UTF-8&utmsr=1600x900&utmvp=1509x766&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=Log%20In%20-%20Stack%20Overflow&utmhid=742960220&utmr=0&utmp=%2Fusers%2Flogin&utmht=1378514133156&utmac=UA-5620270-1&utmcc=__utma%3D140029553.688960879.1378514129.1378514129.1378514129.1%3B%2B__utmz%3D140029553.1378514129.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=q~",
+"details": "GET /__utm.gif?utmwv=5.4.4&utms=2&utmn=1008499622&utmhn=stackoverflow.com&utmcs=UTF-8&utmsr=1600x900&utmvp=1509x766&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=Log%20In%20-%20Stack%20Overflow&utmhid=742960220&utmr=0&utmp=%2Fusers%2Flogin&utmht=1378514133156&utmac=UA-5620270-1&utmcc=__utma%3D140029553.688960879.1378514129.1378514129.1378514129.1%3B%2B__utmz%3D140029553.1378514129.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=q~ HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://pixel.quantserve.com/pixel;r=648555101;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-739006095-1378514129365;ns=0;ce=1;cm=;je=1;sr=1600x900x32;enc=n;dst=1;et=1378514133156;tzo=240;ref=http%3A%2F%2Fstackoverflow.com%2F;url=http%3A%2F%2Fstackoverflow.com%2Fusers%2Flogin;ogl=",
+"details": "GET /pixel;r=648555101;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-739006095-1378514129365;ns=0;ce=1;cm=;je=1;sr=1600x900x32;enc=n;dst=1;et=1378514133156;tzo=240;ref=http%3A%2F%2Fstackoverflow.com%2F;url=http%3A%2F%2Fstackoverflow.com%2Fusers%2Flogin;ogl= HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://stackoverflow.com/gps/event",
+"details": "POST /gps/event HTTP/1.1","post_data": "%5B%7B%22evt%22%3A%22hero.show%22%2C%22properties%22%3A%7B%22hero_type%22%3A%22hero%22%7D%2C%22now%22%3A1378514129396%7D%5D",
+"RESPONSE": "204 No Content, text/plain"
+},
+{
+"REQUEST": "http://stackoverflow.com/users/login/global/request",
+"details": "POST /users/login/global/request HTTP/1.1","post_data": "undefined",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"PAGEUPDATE": 1378514133292
+},
+{
+"REQUEST": "https://stackauth.com/auth/global/read?request=qTk9GzQXE92OVLyqoJR6ILXmrdBaE1yn7JNOJM%2Foj4gCV031nxRp7UN22VXf2RccavTMSkbswJS8zjrECx9nFg%3D%3D&nonce=1nQqUgAAAABVDE2ILg3wWQ%3D%3D",
+"details": "GET /auth/global/read?request=qTk9GzQXE92OVLyqoJR6ILXmrdBaE1yn7JNOJM%2Foj4gCV031nxRp7UN22VXf2RccavTMSkbswJS8zjrECx9nFg%3D%3D&nonce=1nQqUgAAAABVDE2ILg3wWQ%3D%3D HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://stackoverflow.com/users/jambalaya?_=1378514135137",
+"details": "GET /users/jambalaya?_=1378514135137 HTTP/1.1",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"PAGEUPDATE": 1378514135149
+},
+{
+"REQUEST": "http://stackoverflow.com/content/img/progress-dots.gif",
+"details": "GET /content/img/progress-dots.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://stackoverflow.com/users/signup",
+"details": "POST /users/signup HTTP/1.1","post_data": "undefined",
+"RESPONSE": "200 OK, text/plain"
+},
+{
+"REQUEST": "https://openid.stackexchange.com/affiliate/form?affId=4&callback=http%3a%2f%2fstackoverflow.com%2fusers%2fauthenticate&nonce=2HQqUgAAAADlAQCtzpj2Yg%3d%3d&openid.sreg.requested=email&signupByDefault=true&onLoad=loaded&authCode=uSk6ItQYAU39lE5fjNKeP13kd3GLVlJedJzT%2bR3hJwLpk3UdRHvE8%2bzsuOg2V0dsb5UkmRTjwgwTDqbC1AFWM3ArdL%2fS0WbmV7DlejOY09o0k2Fxv1eBy%2fj8RLstwY4kvu0VZglD4rSTwU4NDon7ed9KubdFIXiJ2vAgFdqiTGo%3d",
+"details": "GET /affiliate/form?affId=4&callback=http%3a%2f%2fstackoverflow.com%2fusers%2fauthenticate&nonce=2HQqUgAAAADlAQCtzpj2Yg%3d%3d&openid.sreg.requested=email&signupByDefault=true&onLoad=loaded&authCode=uSk6ItQYAU39lE5fjNKeP13kd3GLVlJedJzT%2bR3hJwLpk3UdRHvE8%2bzsuOg2V0dsb5UkmRTjwgwTDqbC1AFWM3ArdL%2fS0WbmV7DlejOY09o0k2Fxv1eBy%2fj8RLstwY4kvu0VZglD4rSTwU4NDon7ed9KubdFIXiJ2vAgFdqiTGo%3d HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "https://openid.stackexchange.com/affiliate/form/ad-block-check?callback=jQuery17105687042467761785_1378514133000&_=1378514135340",
+"details": "GET /affiliate/form/ad-block-check?callback=jQuery17105687042467761785_1378514133000&_=1378514135340 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js",
+"details": "GET /ajax/libs/jquery/1.5.1/jquery.min.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://openid.stackexchange.com/Content/js/master.js?v=I9rpA6wOkNGS6XhI74Dd0Xz53%2bE%3d",
+"details": "GET /Content/js/master.js?v=I9rpA6wOkNGS6XhI74Dd0Xz53%2bE%3d HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "https://openid.stackexchange.com/Content/css/all.css?v=I9rpA6wOkNGS6XhI74Dd0Xz53%2bE%3d",
+"details": "GET /Content/css/all.css?v=I9rpA6wOkNGS6XhI74Dd0Xz53%2bE%3d HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "https://openid.stackexchange.com/Content/img/sprites.png",
+"details": "GET /Content/img/sprites.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://openid.stackexchange.com/affiliate/form/signup/submit",
+"details": "POST /affiliate/form/signup/submit HTTP/1.1","post_data": "email%3Dguoquan%2540iscas.ac.cn%26realname%3Dnikle%26password%3DSa1234567%26password2%3DSa1234567%26captcha-bypass%3D635141109387262222%253A-8994071296945838007%257Cc8V00GCvLs33PCLwo825baKwx5E%253D%26affId%3D4%26background%3D%26color%3D%26fkey%3Dc27505b4-9934-44e8-8f63-3b6790fb71a1%26legalLinksShown%3D1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js",
+"details": "GET /ajax/libs/jquery/1.5.1/jquery.min.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://openid.stackexchange.com/Content/js/master.js?v=I9rpA6wOkNGS6XhI74Dd0Xz53%2bE%3d",
+"details": "GET /Content/js/master.js?v=I9rpA6wOkNGS6XhI74Dd0Xz53%2bE%3d HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "https://openid.stackexchange.com/Content/css/all.css?v=I9rpA6wOkNGS6XhI74Dd0Xz53%2bE%3d",
+"details": "GET /Content/css/all.css?v=I9rpA6wOkNGS6XhI74Dd0Xz53%2bE%3d HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"PAGEUPDATE": 1378514203970
+}
+]

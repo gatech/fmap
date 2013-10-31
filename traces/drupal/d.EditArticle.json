@@ -1,0 +1,1226 @@
+[
+{
+"PAGEUPDATE": 1378488542942
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal",
+"details": "GET /drupal HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET /drupal/ HTTP/1.1",
+"RESPONSE": "200 OK, text/html",
+"details": "GET /drupal HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET /drupal/ HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/system/system.base.css?msnvf9",
+"details": "GET /drupal/modules/system/system.base.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/system/system.base.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/system/system.menus.css?msnvf9",
+"details": "GET /drupal/modules/system/system.menus.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/system/system.menus.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/system/system.messages.css?msnvf9",
+"details": "GET /drupal/modules/system/system.messages.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/system/system.messages.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/system/system.theme.css?msnvf9",
+"details": "GET /drupal/modules/system/system.theme.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/system/system.theme.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/comment/comment.css?msnvf9",
+"details": "GET /drupal/modules/comment/comment.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/comment/comment.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/field/theme/field.css?msnvf9",
+"details": "GET /drupal/modules/field/theme/field.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/field/theme/field.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/node/node.css?msnvf9",
+"details": "GET /drupal/modules/node/node.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/node/node.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/search/search.css?msnvf9",
+"details": "GET /drupal/modules/search/search.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/search/search.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/user/user.css?msnvf9",
+"details": "GET /drupal/modules/user/user.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/user/user.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/adaptivetheme/at_core/css/at.layout.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/adaptivetheme/at_core/css/at.layout.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/adaptivetheme/at_core/css/at.layout.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/html-elements.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/html-elements.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/html-elements.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/forms.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/forms.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/forms.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/tables.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/tables.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/tables.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/page.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/page.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/page.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/articles.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/articles.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/articles.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/comments.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/comments.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/comments.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/fields.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/fields.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/fields.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/blocks.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/blocks.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/blocks.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/navigation.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/navigation.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/navigation.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/corolla.settings.style.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/corolla.settings.style.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/corolla.settings.style.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/color/colors.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/color/colors.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/color/colors.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/print.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/print.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/print.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/jquery.js?v=1.4.4",
+"details": "GET /drupal/misc/jquery.js?v=1.4.4 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/misc/jquery.js?v=1.4.4 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/jquery.once.js?v=1.2",
+"details": "GET /drupal/misc/jquery.once.js?v=1.2 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/misc/jquery.once.js?v=1.2 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/drupal.js?msnvf9",
+"details": "GET /drupal/misc/drupal.js?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/misc/drupal.js?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/feed.png",
+"details": "GET /drupal/misc/feed.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png",
+"details": "GET /drupal/?q=sites/default/files/styles/medium/public/field/image/MyCMS.png&itok=1NIS9vgl HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/images/button.png",
+"details": "GET /drupal/sites/all/themes/corolla/css/images/button.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png",
+"details": "GET /drupal/misc/feed.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/?q=node&destination=node",
+"details": "POST /drupal/?q=node&destination=node HTTP/1.1","post_data": "name%3Dtest11%26pass%3Dtest123%26form_build_id%3Dform-ssng1ZaCsAeDz-rK5yYwl4ogQQjqIm-hbTMQ1rqT3uY%26form_id%3Duser_login_block%26op%3DLog%2Bin",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /drupal/?q=node HTTP/1.1",
+"RESPONSE": "200 OK, text/html",
+"details": "GET /drupal/sites/all/themes/corolla/css/images/button.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"PAGEUPDATE": 1378488548770
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/system/system.base.css?msnvf9",
+"details": "GET /drupal/modules/system/system.base.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "POST /drupal/?q=node&destination=node HTTP/1.1","post_data": "name%3Dtest11%26pass%3Dtest123%26form_build_id%3Dform-ko0lLHVNuHpPG3OxUe2h607zOa-bcoL-EpX8NOkjbNo%26form_id%3Duser_login_block%26op%3DLog%2Bin",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /drupal/?q=node HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/system/system.menus.css?msnvf9",
+"details": "GET /drupal/modules/system/system.menus.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/system/system.base.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/system/system.messages.css?msnvf9",
+"details": "GET /drupal/modules/system/system.messages.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/system/system.menus.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/system/system.theme.css?msnvf9",
+"details": "GET /drupal/modules/system/system.theme.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/system/system.messages.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/comment/comment.css?msnvf9",
+"details": "GET /drupal/modules/comment/comment.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/system/system.theme.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/field/theme/field.css?msnvf9",
+"details": "GET /drupal/modules/field/theme/field.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/comment/comment.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/node/node.css?msnvf9",
+"details": "GET /drupal/modules/node/node.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/field/theme/field.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/search/search.css?msnvf9",
+"details": "GET /drupal/modules/search/search.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/node/node.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/user/user.css?msnvf9",
+"details": "GET /drupal/modules/user/user.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/search/search.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/adaptivetheme/at_core/css/at.layout.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/adaptivetheme/at_core/css/at.layout.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/user/user.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/html-elements.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/html-elements.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/adaptivetheme/at_core/css/at.layout.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/forms.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/forms.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/html-elements.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/tables.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/tables.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/forms.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/page.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/page.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/tables.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/articles.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/articles.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/page.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/comments.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/comments.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/articles.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/fields.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/fields.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/comments.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/blocks.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/blocks.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/fields.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/navigation.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/navigation.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/blocks.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/corolla.settings.style.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/corolla.settings.style.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/navigation.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/color/colors.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/color/colors.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/corolla.settings.style.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/print.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/print.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/color/colors.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/jquery.js?v=1.4.4",
+"details": "GET /drupal/misc/jquery.js?v=1.4.4 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/sites/all/themes/corolla/css/print.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/jquery.once.js?v=1.2",
+"details": "GET /drupal/misc/jquery.once.js?v=1.2 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/misc/jquery.js?v=1.4.4 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/drupal.js?msnvf9",
+"details": "GET /drupal/misc/drupal.js?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/misc/jquery.once.js?v=1.2 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/feed.png",
+"details": "GET /drupal/misc/feed.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png",
+"details": "GET /drupal/misc/drupal.js?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/?q=node/8",
+"details": "GET /drupal/?q=node/8 HTTP/1.1",
+"RESPONSE": "200 OK, text/html",
+"details": "GET /drupal/sites/default/files/styles/medium/public/field/image/MyCMS.png?itok=1NIS9vgl HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/system/system.base.css?msnvf9",
+"details": "GET /drupal/modules/system/system.base.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/misc/feed.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"PAGEUPDATE": 1378488559520
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/system/system.menus.css?msnvf9",
+"details": "GET /drupal/modules/system/system.menus.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/?q=node/13 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/system/system.messages.css?msnvf9",
+"details": "GET /drupal/modules/system/system.messages.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/system/system.base.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/system/system.theme.css?msnvf9",
+"details": "GET /drupal/modules/system/system.theme.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/system/system.menus.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/comment/comment.css?msnvf9",
+"details": "GET /drupal/modules/comment/comment.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/system/system.messages.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/field/theme/field.css?msnvf9",
+"details": "GET /drupal/modules/field/theme/field.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/system/system.theme.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/node/node.css?msnvf9",
+"details": "GET /drupal/modules/node/node.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/comment/comment.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/search/search.css?msnvf9",
+"details": "GET /drupal/modules/search/search.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/field/theme/field.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/user/user.css?msnvf9",
+"details": "GET /drupal/modules/user/user.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/node/node.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/filter/filter.css?msnvf9",
+"details": "GET /drupal/modules/filter/filter.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/search/search.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/adaptivetheme/at_core/css/at.layout.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/adaptivetheme/at_core/css/at.layout.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/user/user.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/html-elements.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/html-elements.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/filter/filter.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/forms.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/forms.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/adaptivetheme/at_core/css/at.layout.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/tables.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/tables.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/html-elements.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/page.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/page.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/forms.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/articles.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/articles.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/tables.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/comments.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/comments.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/page.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/fields.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/fields.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/articles.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/blocks.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/blocks.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/comments.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/navigation.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/navigation.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/fields.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/corolla.settings.style.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/corolla.settings.style.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/blocks.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/color/colors.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/color/colors.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/navigation.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/print.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/print.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/corolla.settings.style.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/jquery.js?v=1.4.4",
+"details": "GET /drupal/misc/jquery.js?v=1.4.4 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/sites/all/themes/corolla/color/colors.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/jquery.once.js?v=1.2",
+"details": "GET /drupal/misc/jquery.once.js?v=1.2 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/sites/all/themes/corolla/css/print.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/drupal.js?msnvf9",
+"details": "GET /drupal/misc/drupal.js?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/misc/jquery.js?v=1.4.4 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/form.js?v=7.23",
+"details": "GET /drupal/misc/form.js?v=7.23 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/misc/jquery.once.js?v=1.2 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/textarea.js?v=7.23",
+"details": "GET /drupal/misc/textarea.js?v=7.23 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/misc/drupal.js?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/filter/filter.js?msnvf9",
+"details": "GET /drupal/modules/filter/filter.js?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/misc/form.js?v=7.23 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/images/button.png",
+"details": "GET /drupal/sites/all/themes/corolla/css/images/button.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png",
+"details": "GET /drupal/misc/textarea.js?v=7.23 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/images/grippie.png",
+"details": "GET /drupal/sites/all/themes/corolla/css/images/grippie.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png",
+"details": "GET /drupal/modules/filter/filter.js?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/?q=node/8/edit",
+"details": "GET /drupal/?q=node/8/edit HTTP/1.1",
+"RESPONSE": "200 OK, text/html",
+"details": "GET /drupal/sites/default/files/styles/large/public/field/image/MyCMS.png?itok=XhfPsJdo HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/system/system.base.css?msnvf9",
+"details": "GET /drupal/modules/system/system.base.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/images/button.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/system/system.menus.css?msnvf9",
+"details": "GET /drupal/modules/system/system.menus.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/images/grippie.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"PAGEUPDATE": 1378488562098
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/system/system.messages.css?msnvf9",
+"details": "GET /drupal/modules/system/system.messages.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/?q=node/13/edit HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/system/system.theme.css?msnvf9",
+"details": "GET /drupal/modules/system/system.theme.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/system/system.base.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/system/system.admin.css?msnvf9",
+"details": "GET /drupal/modules/system/system.admin.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/system/system.menus.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/vertical-tabs.css?msnvf9",
+"details": "GET /drupal/misc/vertical-tabs.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/system/system.messages.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/comment/comment.css?msnvf9",
+"details": "GET /drupal/modules/comment/comment.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/system/system.theme.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/field/theme/field.css?msnvf9",
+"details": "GET /drupal/modules/field/theme/field.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/system/system.admin.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/node/node.css?msnvf9",
+"details": "GET /drupal/modules/node/node.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/misc/vertical-tabs.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/search/search.css?msnvf9",
+"details": "GET /drupal/modules/search/search.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/comment/comment.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/user/user.css?msnvf9",
+"details": "GET /drupal/modules/user/user.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/field/theme/field.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/filter/filter.css?msnvf9",
+"details": "GET /drupal/modules/filter/filter.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/node/node.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/file/file.css?msnvf9",
+"details": "GET /drupal/modules/file/file.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/search/search.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/image/image.css?msnvf9",
+"details": "GET /drupal/modules/image/image.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/user/user.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/adaptivetheme/at_core/css/at.layout.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/adaptivetheme/at_core/css/at.layout.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/filter/filter.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/html-elements.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/html-elements.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/file/file.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/forms.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/forms.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/image/image.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/tables.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/tables.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/adaptivetheme/at_core/css/at.layout.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/page.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/page.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/html-elements.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/articles.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/articles.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/forms.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/comments.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/comments.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/tables.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/fields.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/fields.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/page.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/blocks.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/blocks.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/articles.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/navigation.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/navigation.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/comments.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/corolla.settings.style.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/corolla.settings.style.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/fields.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/color/colors.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/color/colors.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/blocks.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/print.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/print.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/navigation.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/jquery.js?v=1.4.4",
+"details": "GET /drupal/misc/jquery.js?v=1.4.4 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/sites/all/themes/corolla/css/corolla.settings.style.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/jquery.once.js?v=1.2",
+"details": "GET /drupal/misc/jquery.once.js?v=1.2 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/sites/all/themes/corolla/color/colors.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/drupal.js?msnvf9",
+"details": "GET /drupal/misc/drupal.js?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/sites/all/themes/corolla/css/print.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/jquery.cookie.js?v=1.0",
+"details": "GET /drupal/misc/jquery.cookie.js?v=1.0 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/misc/jquery.js?v=1.4.4 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/jquery.form.js?v=2.52",
+"details": "GET /drupal/misc/jquery.form.js?v=2.52 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/misc/jquery.once.js?v=1.2 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/form.js?v=7.23",
+"details": "GET /drupal/misc/form.js?v=7.23 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/misc/drupal.js?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/ajax.js?v=7.23",
+"details": "GET /drupal/misc/ajax.js?v=7.23 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/misc/jquery.cookie.js?v=1.0 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/adaptivetheme/at_core/scripts/vertical-tabs.js?msnvf9",
+"details": "GET /drupal/sites/all/themes/adaptivetheme/at_core/scripts/vertical-tabs.js?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/misc/jquery.form.js?v=2.52 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/autocomplete.js?v=7.23",
+"details": "GET /drupal/misc/autocomplete.js?v=7.23 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/misc/form.js?v=7.23 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/textarea.js?v=7.23",
+"details": "GET /drupal/misc/textarea.js?v=7.23 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/misc/ajax.js?v=7.23 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/field/modules/text/text.js?msnvf9",
+"details": "GET /drupal/modules/field/modules/text/text.js?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/sites/all/themes/adaptivetheme/at_core/scripts/vertical-tabs.js?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/filter/filter.js?msnvf9",
+"details": "GET /drupal/modules/filter/filter.js?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/misc/autocomplete.js?v=7.23 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/progress.js?v=7.23",
+"details": "GET /drupal/misc/progress.js?v=7.23 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/misc/textarea.js?v=7.23 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/file/file.js?msnvf9",
+"details": "GET /drupal/modules/file/file.js?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/modules/field/modules/text/text.js?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/throbber.gif",
+"details": "GET /drupal/misc/throbber.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif",
+"details": "GET /drupal/modules/filter/filter.js?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/images/button.png",
+"details": "GET /drupal/sites/all/themes/corolla/css/images/button.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png",
+"details": "GET /drupal/misc/progress.js?v=7.23 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/images/grippie.png",
+"details": "GET /drupal/sites/all/themes/corolla/css/images/grippie.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png",
+"details": "GET /drupal/modules/file/file.js?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/?q=node/8/edit",
+"details": "POST /drupal/?q=node/8/edit HTTP/1.1","post_data": "------WebKitFormBoundaryGMBMgiMKsyipa7WO%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22title%22%0D%0A%0D%0Atest%0D%0A------WebKitFormBoundaryGMBMgiMKsyipa7WO%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22field_tags%5Bund%5D%22%0D%0A%0D%0Atest%0D%0A------WebKitFormBoundaryGMBMgiMKsyipa7WO%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22body%5Bund%5D%5B0%5D%5Bsummary%5D%22%0D%0A%0D%0A%0D%0A------WebKitFormBoundaryGMBMgiMKsyipa7WO%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22body%5Bund%5D%5B0%5D%5Bvalue%5D%22%0D%0A%0D%0Atestttest%0D%0A------WebKitFormBoundaryGMBMgiMKsyipa7WO%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22body%5Bund%5D%5B0%5D%5Bformat%5D%22%0D%0A%0D%0Afiltered_html%0D%0A------WebKitFormBoundaryGMBMgiMKsyipa7WO%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22files%5Bfield_image_und_0%5D%22%3B%20filename%3D%22%22%0D%0AContent-Type%3A%20application%2Foctet-stream%0D%0A%0D%0A%0D%0A------WebKitFormBoundaryGMBMgiMKsyipa7WO%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22field_image%5Bund%5D%5B0%5D%5Bfid%5D%22%0D%0A%0D%0A0%0D%0A------WebKitFormBoundaryGMBMgiMKsyipa7WO%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22field_image%5Bund%5D%5B0%5D%5Bdisplay%5D%22%0D%0A%0D%0A1%0D%0A------WebKitFormBoundaryGMBMgiMKsyipa7WO%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22changed%22%0D%0A%0D%0A1378487935%0D%0A------WebKitFormBoundaryGMBMgiMKsyipa7WO%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22form_build_id%22%0D%0A%0D%0Aform-MHJnmDBgz5rwcgZ14gGqs3xaghbDoUkKbIKbmtklMQE%0D%0A------WebKitFormBoundaryGMBMgiMKsyipa7WO%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22form_token%22%0D%0A%0D%0Aov61Mxy-IePJCyYWR3dofEZWY1Ve1_tbTnT3-U6Ez74%0D%0A------WebKitFormBoundaryGMBMgiMKsyipa7WO%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22form_id%22%0D%0A%0D%0Aarticle_node_form%0D%0A------WebKitFormBoundaryGMBMgiMKsyipa7WO%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22additional_settings__active_tab%22%0D%0A%0D%0A%0D%0A------WebKitFormBoundaryGMBMgiMKsyipa7WO%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22op%22%0D%0A%0D%0APreview%0D%0A------WebKitFormBoundaryGMBMgiMKsyipa7WO--%0D%0A",
+"details": "GET /drupal/?q=sites/default/files/styles/thumbnail/public/field/image/MyCMS.png&itok=ZmsrUWiZ HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/?q=node/8/edit",
+"details": "POST /drupal/?q=node/8/edit HTTP/1.1","post_data": "------WebKitFormBoundaryhLnJRGFi9BsAAAvA%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22title%22%0D%0A%0D%0Atest%0D%0A------WebKitFormBoundaryhLnJRGFi9BsAAAvA%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22field_tags%5Bund%5D%22%0D%0A%0D%0Atest%0D%0A------WebKitFormBoundaryhLnJRGFi9BsAAAvA%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22body%5Bund%5D%5B0%5D%5Bsummary%5D%22%0D%0A%0D%0A%0D%0A------WebKitFormBoundaryhLnJRGFi9BsAAAvA%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22body%5Bund%5D%5B0%5D%5Bvalue%5D%22%0D%0A%0D%0Atestttest%0D%0A------WebKitFormBoundaryhLnJRGFi9BsAAAvA%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22body%5Bund%5D%5B0%5D%5Bformat%5D%22%0D%0A%0D%0Afiltered_html%0D%0A------WebKitFormBoundaryhLnJRGFi9BsAAAvA%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22files%5Bfield_image_und_0%5D%22%3B%20filename%3D%22%22%0D%0AContent-Type%3A%20application%2Foctet-stream%0D%0A%0D%0A%0D%0A------WebKitFormBoundaryhLnJRGFi9BsAAAvA%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22field_image%5Bund%5D%5B0%5D%5Bfid%5D%22%0D%0A%0D%0A0%0D%0A------WebKitFormBoundaryhLnJRGFi9BsAAAvA%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22field_image%5Bund%5D%5B0%5D%5Bdisplay%5D%22%0D%0A%0D%0A1%0D%0A------WebKitFormBoundaryhLnJRGFi9BsAAAvA%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22changed%22%0D%0A%0D%0A1378487935%0D%0A------WebKitFormBoundaryhLnJRGFi9BsAAAvA%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22form_build_id%22%0D%0A%0D%0Aform-MHJnmDBgz5rwcgZ14gGqs3xaghbDoUkKbIKbmtklMQE%0D%0A------WebKitFormBoundaryhLnJRGFi9BsAAAvA%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22form_token%22%0D%0A%0D%0Aov61Mxy-IePJCyYWR3dofEZWY1Ve1_tbTnT3-U6Ez74%0D%0A------WebKitFormBoundaryhLnJRGFi9BsAAAvA%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22form_id%22%0D%0A%0D%0Aarticle_node_form%0D%0A------WebKitFormBoundaryhLnJRGFi9BsAAAvA%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22additional_settings__active_tab%22%0D%0A%0D%0A%0D%0A------WebKitFormBoundaryhLnJRGFi9BsAAAvA%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22op%22%0D%0A%0D%0APreview%0D%0A------WebKitFormBoundaryhLnJRGFi9BsAAAvA--%0D%0A",
+"RESPONSE": "200 OK, text/html",
+"details": "GET /drupal/modules/file/icons/image-x-generic.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/system/system.base.css?msnvf9",
+"details": "GET /drupal/modules/system/system.base.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/misc/throbber.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/system/system.menus.css?msnvf9",
+"details": "GET /drupal/modules/system/system.menus.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/images/button.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/system/system.messages.css?msnvf9",
+"details": "GET /drupal/modules/system/system.messages.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/images/grippie.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"PAGEUPDATE": 1378488564129
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/system/system.theme.css?msnvf9",
+"details": "GET /drupal/modules/system/system.theme.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "POST /drupal/?q=node/13/edit HTTP/1.1","post_data": "------WebKitFormBoundaryLfIL1OjeZwb7t1cK%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22title%22%0D%0A%0D%0Atitle11%0D%0A------WebKitFormBoundaryLfIL1OjeZwb7t1cK%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22field_tags%5Bund%5D%22%0D%0A%0D%0Atest%0D%0A------WebKitFormBoundaryLfIL1OjeZwb7t1cK%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22body%5Bund%5D%5B0%5D%5Bsummary%5D%22%0D%0A%0D%0A%0D%0A------WebKitFormBoundaryLfIL1OjeZwb7t1cK%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22body%5Bund%5D%5B0%5D%5Bvalue%5D%22%0D%0A%0D%0Atest%0D%0A------WebKitFormBoundaryLfIL1OjeZwb7t1cK%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22body%5Bund%5D%5B0%5D%5Bformat%5D%22%0D%0A%0D%0Afiltered_html%0D%0A------WebKitFormBoundaryLfIL1OjeZwb7t1cK%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22field_image%5Bund%5D%5B0%5D%5Balt%5D%22%0D%0A%0D%0A%0D%0A------WebKitFormBoundaryLfIL1OjeZwb7t1cK%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22field_image%5Bund%5D%5B0%5D%5Bfid%5D%22%0D%0A%0D%0A3%0D%0A------WebKitFormBoundaryLfIL1OjeZwb7t1cK%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22field_image%5Bund%5D%5B0%5D%5Bdisplay%5D%22%0D%0A%0D%0A1%0D%0A------WebKitFormBoundaryLfIL1OjeZwb7t1cK%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22field_image%5Bund%5D%5B0%5D%5Bwidth%5D%22%0D%0A%0D%0A258%0D%0A------WebKitFormBoundaryLfIL1OjeZwb7t1cK%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22field_image%5Bund%5D%5B0%5D%5Bheight%5D%22%0D%0A%0D%0A93%0D%0A------WebKitFormBoundaryLfIL1OjeZwb7t1cK%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22changed%22%0D%0A%0D%0A1378488488%0D%0A------WebKitFormBoundaryLfIL1OjeZwb7t1cK%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22form_build_id%22%0D%0A%0D%0Aform-hmy5NIZuFeXiNLdB-Xv-Qk-mqvR99EsTF8GeMpvRH44%0D%0A------WebKitFormBoundaryLfIL1OjeZwb7t1cK%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22form_token%22%0D%0A%0D%0A826qNN6nH5RZtvDZIrmvVXVtB37QxmITRiParF9C4h4%0D%0A------WebKitFormBoundaryLfIL1OjeZwb7t1cK%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22form_id%22%0D%0A%0D%0Aarticle_node_form%0D%0A------WebKitFormBoundaryLfIL1OjeZwb7t1cK%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22additional_settings__active_tab%22%0D%0A%0D%0A%0D%0A------WebKitFormBoundaryLfIL1OjeZwb7t1cK%0D%0AContent-Disposition%3A%20form-data%3B%20name%3D%22op%22%0D%0A%0D%0ASave%0D%0A------WebKitFormBoundaryLfIL1OjeZwb7t1cK--%0D%0A",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /drupal/?q=node/13 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/system/system.admin.css?msnvf9",
+"details": "GET /drupal/modules/system/system.admin.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/system/system.base.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/vertical-tabs.css?msnvf9",
+"details": "GET /drupal/misc/vertical-tabs.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/system/system.menus.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/comment/comment.css?msnvf9",
+"details": "GET /drupal/modules/comment/comment.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/system/system.messages.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/field/theme/field.css?msnvf9",
+"details": "GET /drupal/modules/field/theme/field.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/system/system.theme.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/node/node.css?msnvf9",
+"details": "GET /drupal/modules/node/node.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/comment/comment.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/search/search.css?msnvf9",
+"details": "GET /drupal/modules/search/search.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/field/theme/field.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/user/user.css?msnvf9",
+"details": "GET /drupal/modules/user/user.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/node/node.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/filter/filter.css?msnvf9",
+"details": "GET /drupal/modules/filter/filter.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/search/search.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/file/file.css?msnvf9",
+"details": "GET /drupal/modules/file/file.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/user/user.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/modules/image/image.css?msnvf9",
+"details": "GET /drupal/modules/image/image.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/modules/filter/filter.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/adaptivetheme/at_core/css/at.layout.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/adaptivetheme/at_core/css/at.layout.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/adaptivetheme/at_core/css/at.layout.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/html-elements.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/html-elements.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/html-elements.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/forms.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/forms.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/forms.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/tables.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/tables.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/tables.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/page.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/page.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/page.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/articles.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/articles.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/articles.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/comments.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/comments.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/comments.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/fields.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/fields.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/fields.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/blocks.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/blocks.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/blocks.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/navigation.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/navigation.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/navigation.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/corolla.settings.style.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/corolla.settings.style.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/corolla.settings.style.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/color/colors.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/color/colors.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/color/colors.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/corolla/css/print.css?msnvf9",
+"details": "GET /drupal/sites/all/themes/corolla/css/print.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css",
+"details": "GET /drupal/sites/all/themes/corolla/css/print.css?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/jquery.js?v=1.4.4",
+"details": "GET /drupal/misc/jquery.js?v=1.4.4 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/misc/jquery.js?v=1.4.4 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/jquery.once.js?v=1.2",
+"details": "GET /drupal/misc/jquery.once.js?v=1.2 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/misc/jquery.once.js?v=1.2 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/drupal.js?msnvf9",
+"details": "GET /drupal/misc/drupal.js?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/misc/drupal.js?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/jquery.cookie.js?v=1.0",
+"details": "GET /drupal/misc/jquery.cookie.js?v=1.0 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/misc/form.js?v=7.23 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/jquery.form.js?v=2.52",
+"details": "GET /drupal/misc/jquery.form.js?v=2.52 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/misc/textarea.js?v=7.23 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/form.js?v=7.23",
+"details": "GET /drupal/misc/form.js?v=7.23 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/modules/filter/filter.js?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/ajax.js?v=7.23",
+"details": "GET /drupal/misc/ajax.js?v=7.23 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/misc/message-24-ok.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/sites/all/themes/adaptivetheme/at_core/scripts/vertical-tabs.js?msnvf9",
+"details": "GET /drupal/sites/all/themes/adaptivetheme/at_core/scripts/vertical-tabs.js?msnvf9 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/sites/default/files/styles/large/public/field/image/MyCMS.png?itok=XhfPsJdo HTTP/1.1",
+"RESPONSE": "304 Not Modified, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/autocomplete.js?v=7.23",
+"details": "GET /drupal/misc/autocomplete.js?v=7.23 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/sites/all/themes/corolla/css/images/button.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://bear.cc.gt.atl.ga.us:8080/drupal/misc/textarea.js?v=7.23",
+"details": "GET /drupal/misc/textarea.js?v=7.23 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript",
+"details": "GET /drupal/sites/all/themes/corolla/css/images/grippie.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"PAGEUPDATE": 1378488570113
+}
+]

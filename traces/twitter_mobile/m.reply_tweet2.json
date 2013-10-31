@@ -1,0 +1,55 @@
+[
+{
+"PAGEUPDATE": 1376467746525
+},
+{
+"REQUEST": "http://m.twitter.com/",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "302 Found, text/html",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /signup HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376467752033
+},
+{
+"REQUEST": "https://mobile.twitter.com/session/new",
+"details": "GET /session/new HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376467753707
+},
+{
+"REQUEST": "https://mobile.twitter.com/session",
+"details": "POST /session HTTP/1.1","post_data": "authenticity_token%3Dbc836dfed1a47a53e26e%26username%3Dmasala32%26password%3Dmasala44%26commit%3DSign%2Bin",
+"RESPONSE": "302 Found, text/html",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376467763076
+},
+{
+"REQUEST": "https://mobile.twitter.com/BeschlossDC/reply/356467630867103744?rt_by=maddow",
+"details": "GET /BeschlossDC/reply/356467630867103744?rt_by=maddow HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376467801002
+},
+{
+"REQUEST": "https://mobile.twitter.com/",
+"details": "POST / HTTP/1.1","post_data": "authenticity_token%3Dbc836dfed1a47a53e26e%26tweet%255Bin_reply_to_status_id%255D%3D356467630867103744%26tweet%255Btext%255D%3D%2540beschlossdc%2B%2540maddow%2Bnice%2Bpicture%26commit%3DTweet",
+"RESPONSE": "302 Found, text/html",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376467807656
+}
+]

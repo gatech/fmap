@@ -1,0 +1,180 @@
+[
+{
+"PAGEUPDATE": 1376463513654
+},
+{
+"REQUEST": "http://www.wikipedia.org/",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/meta.wikimedia.org/load.php?debug=false&lang=en&modules=ext.gadget.wm-portal&only=scripts&skin=vector&*",
+"details": "GET /meta.wikimedia.org/load.php?debug=false&lang=en&modules=ext.gadget.wm-portal&only=scripts&skin=vector&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"PAGEUPDATE": 1376463517334
+},
+{
+"REQUEST": "http://en.wikipedia.org/wiki/Main_Page",
+"details": "GET /wiki/Main_Page HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, ",
+"details": "GET /wiki/Main_Page HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=mobile&target=mobile&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=mobile&target=mobile&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/geoiplookup",
+"details": "GET /geoiplookup HTTP/1.1",
+"RESPONSE": "200 geoiplookup, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery%2Cmediawiki%2CSpinner%7Cjquery.triggerQueueCallback%2CloadingSpinner%2CmwEmbedUtil%7Cmw.MwEmbedSupport&only=scripts&skin=vector&version=20130811T022513Z",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery%2Cmediawiki%2CSpinner%7Cjquery.triggerQueueCallback%2CloadingSpinner%2CmwEmbedUtil%7Cmw.MwEmbedSupport&only=scripts&skin=vector&version=20130811T022513Z HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.centralNotice.bannerController.mobile%2Cmobiledevice%7Cjquery.client%2Ccookie%2CmwExtension%7Cmediawiki.notify%2Cutil%7Cmediawiki.page.startup&skin=vector&version=20130811T022513Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.centralNotice.bannerController.mobile%2Cmobiledevice%7Cjquery.client%2Ccookie%2CmwExtension%7Cmediawiki.notify%2Cutil%7Cmediawiki.page.startup&skin=vector&version=20130811T022513Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=mobile.site&skin=vector&version=20130724T043403Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=mobile.site&skin=vector&version=20130724T043403Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.eventLogging%2CnavigationTiming%7Cjquery.hidpi%2Cjson%7Cmediawiki.cldr%2Chidpi%2CjqueryMsg%2Clanguage%7Cmediawiki.language.data%2Cinit%7Cmediawiki.libs.pluralruleparser%7Cmobile.editing.schema%7Cmobile.head%2Cstable%2Cstartup%7Cmobile.stable.common%2Cplumbing%2Cstyles%7Cmobile.toast.styles%7Cmobile.uploads.schema%7Cmobile.watchlist.schema%7Cmobile.zero.scripts%7Cschema.Edit%2CMobileWatchlistInteraction%2CNavigationTiming&skin=vector&version=20130814T065330Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.eventLogging%2CnavigationTiming%7Cjquery.hidpi%2Cjson%7Cmediawiki.cldr%2Chidpi%2CjqueryMsg%2Clanguage%7Cmediawiki.language.data%2Cinit%7Cmediawiki.libs.pluralruleparser%7Cmobile.editing.schema%7Cmobile.head%2Cstable%2Cstartup%7Cmobile.stable.common%2Cplumbing%2Cstyles%7Cmobile.toast.styles%7Cmobile.uploads.schema%7Cmobile.watchlist.schema%7Cmobile.zero.scripts%7Cschema.Edit%2CMobileWatchlistInteraction%2CNavigationTiming&skin=vector&version=20130814T065330Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://meta.wikimedia.org/wiki/Special:BannerRandom?uselang=en&sitename=Wikipedia&project=wikipedia&anonymous=true&bucket=1&country=US&device=unknown&slot=29",
+"details": "GET /wiki/Special:BannerRandom?uselang=en&sitename=Wikipedia&project=wikipedia&anonymous=true&bucket=1&country=US&device=unknown&slot=29 HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, ",
+"details": "GET /wiki/Special:BannerRandom?uselang=en&sitename=Wikipedia&project=wikipedia&anonymous=true&bucket=1&country=US&device=unknown&slot=29 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"PAGEUPDATE": 1376463519097
+},
+{
+"REQUEST": "https://en.m.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page&returntoquery=welcome%3Dyes",
+"details": "GET /w/index.php?title=Special:UserLogin&returnto=Main+Page&returntoquery=welcome%3Dyes HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "https://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=mobile&target=mobile&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=mobile&target=mobile&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://bits.wikimedia.org/geoiplookup",
+"details": "GET /geoiplookup HTTP/1.1",
+"RESPONSE": "200 geoiplookup, text/javascript"
+},
+{
+"REQUEST": "https://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery%2Cmediawiki%2CSpinner%7Cjquery.triggerQueueCallback%2CloadingSpinner%2CmwEmbedUtil%7Cmw.MwEmbedSupport&only=scripts&skin=vector&version=20130811T022513Z",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery%2Cmediawiki%2CSpinner%7Cjquery.triggerQueueCallback%2CloadingSpinner%2CmwEmbedUtil%7Cmw.MwEmbedSupport&only=scripts&skin=vector&version=20130811T022513Z HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.centralNotice.bannerController.mobile%2Cmobiledevice%7Cjquery.client%2Ccookie%2CmwExtension%7Cmediawiki.notify%2Cutil%7Cmediawiki.page.startup&skin=vector&version=20130811T022513Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.centralNotice.bannerController.mobile%2Cmobiledevice%7Cjquery.client%2Ccookie%2CmwExtension%7Cmediawiki.notify%2Cutil%7Cmediawiki.page.startup&skin=vector&version=20130811T022513Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.eventLogging%2CnavigationTiming%7Cjquery.hidpi%2Cjson%7Cmediawiki.cldr%2Chidpi%2CjqueryMsg%2Clanguage%7Cmediawiki.language.data%2Cinit%7Cmediawiki.libs.pluralruleparser%7Cmobile.editing.schema%7Cmobile.head%2Cstable%2Cstartup%7Cmobile.stable.common%2Cplumbing%2Cstyles%7Cmobile.toast.styles%7Cmobile.uploads.schema%7Cmobile.watchlist.schema%7Cmobile.zero.scripts%7Cschema.Edit%2CMobileWatchlistInteraction%2CNavigationTiming&skin=vector&version=20130814T065538Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.eventLogging%2CnavigationTiming%7Cjquery.hidpi%2Cjson%7Cmediawiki.cldr%2Chidpi%2CjqueryMsg%2Clanguage%7Cmediawiki.language.data%2Cinit%7Cmediawiki.libs.pluralruleparser%7Cmobile.editing.schema%7Cmobile.head%2Cstable%2Cstartup%7Cmobile.stable.common%2Cplumbing%2Cstyles%7Cmobile.toast.styles%7Cmobile.uploads.schema%7Cmobile.watchlist.schema%7Cmobile.zero.scripts%7Cschema.Edit%2CMobileWatchlistInteraction%2CNavigationTiming&skin=vector&version=20130814T065538Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"PAGEUPDATE": 1376463523336
+},
+{
+"REQUEST": "https://en.m.wikipedia.org/w/index.php?title=Special:UserLogin&type=signup&returnto=Main+Page&returntoquery=welcome%3Dyes",
+"details": "GET /w/index.php?title=Special:UserLogin&type=signup&returnto=Main+Page&returntoquery=welcome%3Dyes HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "https://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=mobile&target=mobile&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=mobile&target=mobile&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery%2Cmediawiki%2CSpinner%7Cjquery.triggerQueueCallback%2CloadingSpinner%2CmwEmbedUtil%7Cmw.MwEmbedSupport&only=scripts&skin=vector&version=20130811T022513Z",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery%2Cmediawiki%2CSpinner%7Cjquery.triggerQueueCallback%2CloadingSpinner%2CmwEmbedUtil%7Cmw.MwEmbedSupport&only=scripts&skin=vector&version=20130811T022513Z HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.centralNotice.bannerController.mobile%2Cmobiledevice%7Cjquery.client%2Ccookie%2CmwExtension%7Cmediawiki.notify%2Cutil%7Cmediawiki.page.startup&skin=vector&version=20130811T022513Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.centralNotice.bannerController.mobile%2Cmobiledevice%7Cjquery.client%2Ccookie%2CmwExtension%7Cmediawiki.notify%2Cutil%7Cmediawiki.page.startup&skin=vector&version=20130811T022513Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://bits.wikimedia.org/geoiplookup",
+"details": "GET /geoiplookup HTTP/1.1",
+"RESPONSE": "200 geoiplookup, text/javascript"
+},
+{
+"REQUEST": "https://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.eventLogging%2CnavigationTiming%7Cjquery.hidpi%2Cjson%7Cmediawiki.cldr%2Chidpi%2CjqueryMsg%2Clanguage%7Cmediawiki.language.data%2Cinit%7Cmediawiki.libs.pluralruleparser%7Cmobile.editing.schema%7Cmobile.head%2Cstable%2Cstartup%7Cmobile.stable.common%2Cplumbing%2Cstyles%7Cmobile.toast.styles%7Cmobile.uploads.schema%7Cmobile.watchlist.schema%7Cmobile.zero.scripts%7Cschema.Edit%2CMobileWatchlistInteraction%2CNavigationTiming&skin=vector&version=20130814T065538Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.eventLogging%2CnavigationTiming%7Cjquery.hidpi%2Cjson%7Cmediawiki.cldr%2Chidpi%2CjqueryMsg%2Clanguage%7Cmediawiki.language.data%2Cinit%7Cmediawiki.libs.pluralruleparser%7Cmobile.editing.schema%7Cmobile.head%2Cstable%2Cstartup%7Cmobile.stable.common%2Cplumbing%2Cstyles%7Cmobile.toast.styles%7Cmobile.uploads.schema%7Cmobile.watchlist.schema%7Cmobile.zero.scripts%7Cschema.Edit%2CMobileWatchlistInteraction%2CNavigationTiming&skin=vector&version=20130814T065538Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"PAGEUPDATE": 1376463524830
+},
+{
+"REQUEST": "https://en.m.wikipedia.org/w/index.php?title=Special:UserLogin&action=submitlogin&type=signup&returnto=Main+Page&returntoquery=welcome%3Dyes",
+"details": "POST /w/index.php?title=Special:UserLogin&action=submitlogin&type=signup&returnto=Main+Page&returntoquery=welcome%3Dyes HTTP/1.1","post_data": "wpName%3Dbear5292%26wpPassword%3Darktos%26wpRetype%3Darktos%26wpEmail%3D%26wpCaptchaWord%3Dtexanpurls%26wpCaptchaId%3D750619340%26wpCreateaccount%3DSign%2Bup%26wpRemember%3D1%26wpCreateaccountToken%3D86a54bfd19aa9272dcc6a26b7fcdacb3%26watch%3D%26wpStickHTTPS%3Dtrue",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /wiki/Special:CentralLogin/start?token=1774a3add47925acbb4d9eaf77f7c7bc HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /wiki/Special:CentralLogin/complete?token=8e1f20ec7fc23da819acace19a38eda4 HTTP/1.1",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /w/index.php?title=Main_Page&welcome=yes HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "https://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=mobile&target=mobile&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=mobile&target=mobile&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery%2Cmediawiki%2CSpinner%7Cjquery.triggerQueueCallback%2CloadingSpinner%2CmwEmbedUtil%7Cmw.MwEmbedSupport&only=scripts&skin=vector&version=20130811T022513Z",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=jquery%2Cmediawiki%2CSpinner%7Cjquery.triggerQueueCallback%2CloadingSpinner%2CmwEmbedUtil%7Cmw.MwEmbedSupport&only=scripts&skin=vector&version=20130811T022513Z HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.centralNotice.bannerController.mobile%2Cmobiledevice%7Cjquery.client%2Ccookie%2CmwExtension%7Cmediawiki.notify%2Cutil%7Cmediawiki.page.startup&skin=vector&version=20130811T022513Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.centralNotice.bannerController.mobile%2Cmobiledevice%7Cjquery.client%2Ccookie%2CmwExtension%7Cmediawiki.notify%2Cutil%7Cmediawiki.page.startup&skin=vector&version=20130811T022513Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=mobile.site&skin=vector&version=20130724T043403Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=mobile.site&skin=vector&version=20130724T043403Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://bits.wikimedia.org/geoiplookup",
+"details": "GET /geoiplookup HTTP/1.1",
+"RESPONSE": "200 geoiplookup, text/javascript"
+},
+{
+"REQUEST": "https://meta.wikimedia.org/wiki/Special:BannerRandom?uselang=en&sitename=Wikipedia&project=wikipedia&anonymous=false&bucket=1&country=US&device=unknown&slot=20",
+"details": "GET /wiki/Special:BannerRandom?uselang=en&sitename=Wikipedia&project=wikipedia&anonymous=false&bucket=1&country=US&device=unknown&slot=20 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.eventLogging%2CnavigationTiming%7Cjquery.hidpi%2Cjson%7Cmediawiki.cldr%2Chidpi%2CjqueryMsg%2Clanguage%7Cmediawiki.language.data%2Cinit%7Cmediawiki.libs.pluralruleparser%7Cmobile.editing.schema%7Cmobile.head%2Cstable%2Cstartup%7Cmobile.stable.common%2Cplumbing%2Cstyles%7Cmobile.toast.styles%7Cmobile.uploads.schema%7Cmobile.watchlist.schema%7Cmobile.zero.scripts%7Cschema.Edit%2CMobileWatchlistInteraction%2CNavigationTiming&skin=vector&version=20130814T065538Z&*",
+"details": "GET /en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.eventLogging%2CnavigationTiming%7Cjquery.hidpi%2Cjson%7Cmediawiki.cldr%2Chidpi%2CjqueryMsg%2Clanguage%7Cmediawiki.language.data%2Cinit%7Cmediawiki.libs.pluralruleparser%7Cmobile.editing.schema%7Cmobile.head%2Cstable%2Cstartup%7Cmobile.stable.common%2Cplumbing%2Cstyles%7Cmobile.toast.styles%7Cmobile.uploads.schema%7Cmobile.watchlist.schema%7Cmobile.zero.scripts%7Cschema.Edit%2CMobileWatchlistInteraction%2CNavigationTiming&skin=vector&version=20130814T065538Z&* HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"PAGEUPDATE": 1376463554226
+}
+]

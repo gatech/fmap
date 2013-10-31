@@ -1,0 +1,45 @@
+[
+{
+"PAGEUPDATE": 1376467970994
+},
+{
+"REQUEST": "http://m.twitter.com/",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "302 Found, text/html",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /signup HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376467974622
+},
+{
+"REQUEST": "https://mobile.twitter.com/session/new",
+"details": "GET /session/new HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376467976678
+},
+{
+"REQUEST": "https://mobile.twitter.com/session",
+"details": "POST /session HTTP/1.1","post_data": "authenticity_token%3Db4e898177ecce19ef6b5%26username%3Dmasala32%26password%3Dmasala44%26commit%3DSign%2Bin",
+"RESPONSE": "302 Found, text/html",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376467983750
+},
+{
+"REQUEST": "https://mobile.twitter.com/i/discover",
+"details": "GET /i/discover HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376467988134
+}
+]

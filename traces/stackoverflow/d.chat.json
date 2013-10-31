@@ -1,0 +1,1791 @@
+[
+{
+"PAGEUPDATE": 1378519953698
+},
+{
+"REQUEST": "http://www.stackoverflow.com/",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js",
+"details": "GET /ajax/libs/jquery/1.7.1/jquery.min.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/stub.js?v=0ad8a2cff262",
+"details": "GET /js/stub.js?v=0ad8a2cff262 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/stackoverflow/all.css?v=cff37b15495c",
+"details": "GET /stackoverflow/all.css?v=cff37b15495c HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/6QN0y.png",
+"details": "GET /6QN0y.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/9HWwT.png",
+"details": "GET /9HWwT.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/L8rHf.png",
+"details": "GET /L8rHf.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/stackoverflow/img/sprites.png?v=6",
+"details": "GET /stackoverflow/img/sprites.png?v=6 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/Img/mini-hero-bg.png",
+"details": "GET /Img/mini-hero-bg.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/Img/sprite-herobox.png",
+"details": "GET /Img/sprite-herobox.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/tKsDb.png",
+"details": "GET /tKsDb.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/g3Pur.jpg",
+"details": "GET /g3Pur.jpg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/dgJlc.png",
+"details": "GET /dgJlc.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/fEHUs.png",
+"details": "GET /fEHUs.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/fVwI4.png",
+"details": "GET /fVwI4.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/xKsQb.png",
+"details": "GET /xKsQb.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://static.adzerk.net/ados.js",
+"details": "GET /ados.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://www.google-analytics.com/ga.js",
+"details": "GET /ga.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://edge.quantserve.com/quant.js",
+"details": "GET /quant.js HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/full-anon.js?v=91e39f868c82",
+"details": "GET /js/full-anon.js?v=91e39f868c82 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=1&utmn=2075104679&utmhn=stackoverflow.com&utmcs=UTF-8&utmsr=1600x900&utmvp=1509x803&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=Stack%20Overflow&utmhid=1808438023&utmr=-&utmp=%2F&utmht=1378519981264&utmac=UA-5620270-1&utmcc=__utma%3D140029553.404351709.1378519981.1378519981.1378519981.1%3B%2B__utmz%3D140029553.1378519981.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=q~",
+"details": "GET /__utm.gif?utmwv=5.4.4&utms=1&utmn=2075104679&utmhn=stackoverflow.com&utmcs=UTF-8&utmsr=1600x900&utmvp=1509x803&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=Stack%20Overflow&utmhid=1808438023&utmr=-&utmp=%2F&utmht=1378519981264&utmac=UA-5620270-1&utmcc=__utma%3D140029553.404351709.1378519981.1378519981.1378519981.1%3B%2B__utmz%3D140029553.1378519981.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=q~ HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://engine.adzerk.net/ados?t=1378519981279&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1051448336%22,%22AT%22:17,%22Z%22:45}],%22Keywords%22:%22undefined%22,%22Referrer%22:%22%22,%22IsAsync%22:true}",
+"details": "GET /ados?t=1378519981279&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1051448336%22,%22AT%22:17,%22Z%22:45}],%22Keywords%22:%22undefined%22,%22Referrer%22:%22%22,%22IsAsync%22:true} HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://pixel.quantserve.com/pixel;r=1410424496;a=p-c1rF4kxgLUzNc;fpan=1;fpa=P0-1996805866-1378519981295;ns=0;ce=1;cm=;je=1;sr=1600x900x32;enc=n;dst=1;et=1378519981295;tzo=240;ref=;url=http%3A%2F%2Fstackoverflow.com%2F;ogl=",
+"details": "GET /pixel;r=1410424496;a=p-c1rF4kxgLUzNc;fpan=1;fpa=P0-1996805866-1378519981295;ns=0;ce=1;cm=;je=1;sr=1600x900x32;enc=n;dst=1;et=1378519981295;tzo=240;ref=;url=http%3A%2F%2Fstackoverflow.com%2F;ogl= HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://cdn-careers.sstatic.net/careers/gethired/loader.min.js?v=607ab2dda910",
+"details": "GET /careers/gethired/loader.min.js?v=607ab2dda910 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://stackoverflow.com/users/login/global/request",
+"details": "POST /users/login/global/request HTTP/1.1","post_data": "undefined",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "http://cdn-careers.sstatic.net/careers/gethired/sidebar.min.css?v=17be6ca0db4b",
+"details": "GET /careers/gethired/sidebar.min.css?v=17be6ca0db4b HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://careers.stackoverflow.com/gethired/js",
+"details": "GET /gethired/js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://static.adzerk.net/Extensions/adFeedback.js",
+"details": "GET /Extensions/adFeedback.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://static.adzerk.net/Extensions/adFeedback.css",
+"details": "GET /Extensions/adFeedback.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "https://stackauth.com/auth/global/read?request=tEwIrEc13zH%2BL3e0zBH6nK5iw%2B8BLGb45R7TU55RqEGrk3%2Ff2iQYbFo5a4RtSY4WpGBCpXzoevnq5HBz97yhLQ%3D%3D&nonce=rosqUgAAAACR6xRPAaTuKQ%3D%3D",
+"details": "GET /auth/global/read?request=tEwIrEc13zH%2BL3e0zBH6nK5iw%2B8BLGb45R7TU55RqEGrk3%2Ff2iQYbFo5a4RtSY4WpGBCpXzoevnq5HBz97yhLQ%3D%3D&nonce=rosqUgAAAACR6xRPAaTuKQ%3D%3D HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://cdn-careers.sstatic.net/careers/gethired/img/careers2-ad-header-so-crop.png",
+"details": "GET /careers/gethired/img/careers2-ad-header-so-crop.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://static.adzerk.net/Advertisers/db5df4870e4e4b6cbf42727fd434701a.jpg",
+"details": "GET /Advertisers/db5df4870e4e4b6cbf42727fd434701a.jpg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://engine.adzerk.net/i.gif?e=eyJhdiI6NDE0LCJhdCI6MTcsImNtIjo4NDcsImNoIjoxMTc4LCJjciI6OTMzNCwiZGkiOiIxMjA5NWU0MTQzZGI0YjE3YTk2YWJmNzk3NWVmNjdkMiIsImRtIjoxLCJmYyI6MTQ4NDQsImZsIjoyNDQ0LCJrdyI6InVuZGVmaW5lZCIsIm53IjoyMiwicnYiOjAsInByIjoxNTY4LCJzdCI6ODI3Nywiem4iOjQ1fQ&s=0XIWVC1GVmsk1G0wCtiwJXb0PiU",
+"details": "GET /i.gif?e=eyJhdiI6NDE0LCJhdCI6MTcsImNtIjo4NDcsImNoIjoxMTc4LCJjciI6OTMzNCwiZGkiOiIxMjA5NWU0MTQzZGI0YjE3YTk2YWJmNzk3NWVmNjdkMiIsImRtIjoxLCJmYyI6MTQ4NDQsImZsIjoyNDQ0LCJrdyI6InVuZGVmaW5lZCIsIm53IjoyMiwicnYiOjAsInByIjoxNTY4LCJzdCI6ODI3Nywiem4iOjQ1fQ&s=0XIWVC1GVmsk1G0wCtiwJXb0PiU HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://careers.stackoverflow.com/ad/i/LkSiKnWE-J7kzcARa-M0LxP9Cg-144-x0VW",
+"details": "GET /ad/i/LkSiKnWE-J7kzcARa-M0LxP9Cg-144-x0VW HTTP/1.1",
+"RESPONSE": "204 NoContent, image/gif"
+},
+{
+"PAGEUPDATE": 1378519981747
+},
+{
+"REQUEST": "http://stackoverflow.com/users/login",
+"details": "GET /users/login HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js",
+"details": "GET /ajax/libs/jquery/1.7.1/jquery.min.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/stub.js?v=0ad8a2cff262",
+"details": "GET /js/stub.js?v=0ad8a2cff262 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/stackoverflow/all.css?v=cff37b15495c",
+"details": "GET /stackoverflow/all.css?v=cff37b15495c HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/Js/third-party/openid-jquery.js?v=baaac95b5900",
+"details": "GET /Js/third-party/openid-jquery.js?v=baaac95b5900 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/img/openid-large.png",
+"details": "GET /img/openid-large.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.google-analytics.com/ga.js",
+"details": "GET /ga.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://edge.quantserve.com/quant.js",
+"details": "GET /quant.js HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/Img/openid/openid-logos.png?v=8",
+"details": "GET /Img/openid/openid-logos.png?v=8 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/full-anon.js?v=91e39f868c82",
+"details": "GET /js/full-anon.js?v=91e39f868c82 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=2&utmn=1349504666&utmhn=stackoverflow.com&utmcs=UTF-8&utmsr=1600x900&utmvp=1509x766&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=Log%20In%20-%20Stack%20Overflow&utmhid=969368523&utmr=0&utmp=%2Fusers%2Flogin&utmht=1378519985304&utmac=UA-5620270-1&utmcc=__utma%3D140029553.404351709.1378519981.1378519981.1378519981.1%3B%2B__utmz%3D140029553.1378519981.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=q~",
+"details": "GET /__utm.gif?utmwv=5.4.4&utms=2&utmn=1349504666&utmhn=stackoverflow.com&utmcs=UTF-8&utmsr=1600x900&utmvp=1509x766&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=Log%20In%20-%20Stack%20Overflow&utmhid=969368523&utmr=0&utmp=%2Fusers%2Flogin&utmht=1378519985304&utmac=UA-5620270-1&utmcc=__utma%3D140029553.404351709.1378519981.1378519981.1378519981.1%3B%2B__utmz%3D140029553.1378519981.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=q~ HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://pixel.quantserve.com/pixel;r=770729858;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1996805866-1378519981295;ns=0;ce=1;cm=;je=1;sr=1600x900x32;enc=n;dst=1;et=1378519985304;tzo=240;ref=http%3A%2F%2Fstackoverflow.com%2F;url=http%3A%2F%2Fstackoverflow.com%2Fusers%2Flogin;ogl=",
+"details": "GET /pixel;r=770729858;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1996805866-1378519981295;ns=0;ce=1;cm=;je=1;sr=1600x900x32;enc=n;dst=1;et=1378519985304;tzo=240;ref=http%3A%2F%2Fstackoverflow.com%2F;url=http%3A%2F%2Fstackoverflow.com%2Fusers%2Flogin;ogl= HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://stackoverflow.com/gps/event",
+"details": "POST /gps/event HTTP/1.1","post_data": "%5B%7B%22evt%22%3A%22hero.show%22%2C%22properties%22%3A%7B%22hero_type%22%3A%22hero%22%7D%2C%22now%22%3A1378519981326%7D%5D",
+"RESPONSE": "204 No Content, text/plain"
+},
+{
+"REQUEST": "http://stackoverflow.com/users/login/global/request",
+"details": "POST /users/login/global/request HTTP/1.1","post_data": "undefined",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"PAGEUPDATE": 1378519985429
+},
+{
+"REQUEST": "https://stackauth.com/auth/global/read?request=WIQodMMK5F11gd5e5GTCN0ORiTkyoH%2Fm7MFSJDPuE8HnQFfAESoEC5AsO1cKjWgDZbiofVifMhSTQUe4nAiDug%3D%3D&nonce=sosqUgAAAACXHT2B2uzQQg%3D%3D",
+"details": "GET /auth/global/read?request=WIQodMMK5F11gd5e5GTCN0ORiTkyoH%2Fm7MFSJDPuE8HnQFfAESoEC5AsO1cKjWgDZbiofVifMhSTQUe4nAiDug%3D%3D&nonce=sosqUgAAAACXHT2B2uzQQg%3D%3D HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://stackoverflow.com/users/authenticate",
+"details": "POST /users/authenticate HTTP/1.1","post_data": "fkey%3D826d632ea19555b290369410589e0dad%26oauth_version%3D%26oauth_server%3D%26openid_username%3D%26openid_identifier%3Dhttps%253A%252F%252Fwww.google.com%252Faccounts%252Fo8%252Fid",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /accounts/o8/ud?openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.return_to=http%3A%2F%2Fstackoverflow.com%2Fusers%2Fauthenticate%2F%3Fs%3D054b4c85-f81e-4d9f-be0d-d69ebe6c90de%26dnoa.userSuppliedIdentifier%3Dhttps%253A%252F%252Fwww.google.com%252Faccounts%252Fo8%252Fid&openid.realm=http%3A%2F%2Fstackoverflow.com%2Fusers%2Fauthenticate%2F&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.alias3=http%3A%2F%2Fopenid.net%2Fsrv%2Fax%2F1.0&openid.alias3.if_available=alias1%2Calias2%2Calias3&openid.alias3.required=alias4&openid.alias3.mode=fetch_request&openid.alias3.type.alias1=http%3A%2F%2Fschema.openid.net%2FnamePerson&openid.alias3.count.alias1=1&openid.alias3.type.alias2=http%3A%2F%2Fschema.openid.net%2Fcontact%2Femail&openid.alias3.count.alias2=1&openid.alias3.type.alias3=http%3A%2F%2Faxschema.org%2FnamePerson&openid.alias3.count.alias3=1&openid.alias3.type.alias4=http%3A%2F%2Faxschema.org%2Fcontact%2Femail&openid.alias3.count.alias4=1 HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /o/openid2/auth?openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.return_to=http://stackoverflow.com/users/authenticate/?s%3D054b4c85-f81e-4d9f-be0d-d69ebe6c90de%26dnoa.userSuppliedIdentifier%3Dhttps%253A%252F%252Fwww.google.com%252Faccounts%252Fo8%252Fid&openid.realm=http://stackoverflow.com/users/authenticate/&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.ns.alias3=http://openid.net/srv/ax/1.0&openid.alias3.if_available=alias1,alias2,alias3&openid.alias3.required=alias4&openid.alias3.mode=fetch_request&openid.alias3.type.alias1=http://schema.openid.net/namePerson&openid.alias3.count.alias1=1&openid.alias3.type.alias2=http://schema.openid.net/contact/email&openid.alias3.count.alias2=1&openid.alias3.type.alias3=http://axschema.org/namePerson&openid.alias3.count.alias3=1&openid.alias3.type.alias4=http://axschema.org/contact/email&openid.alias3.count.alias4=1 HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /ServiceLogin?service=lso&passive=1209600&continue=https://accounts.google.com/o/openid2/auth?zt%3DChREcmUxNF9RMEVKUVJ1dW1ITHJHZhIfZ3RVVGlZMHhIMTBXc2hRVjBpZVpEQXBDSG1mc2dRSQ%25E2%2588%2599APsBz4gAAAAAUiqPOP9tnivmeQy5pyn1Dc8D-eBaoYy_%26from_login%3D1%26hl%3Dzh-CN%26as%3D-2d7f96b885d2be38&shdf=Ch0LEgZkb21haW4aEVN0YWNrb3ZlcmZsb3cuY29tDBIDbHNvIhS0qWSBP7mSXX3EXeYznY1Wu5UbAygBMhT_StCzzYzPn7mO9pvaIogA7ghsAA&sarp=1&scc=1 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "https://ssl.gstatic.com/images/logos/google_logo_41.png",
+"details": "GET /images/logos/google_logo_41.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://ssl.gstatic.com/accounts/ui/google-signin-flat.png",
+"details": "GET /accounts/ui/google-signin-flat.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://ssl.gstatic.com/images/icons/ui/common/universal_language_settings-21.png",
+"details": "GET /images/icons/ui/common/universal_language_settings-21.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://ssl.gstatic.com/ui/v1/menu/checkmark.png",
+"details": "GET /ui/v1/menu/checkmark.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-1919877963&timestamp=1378519987941",
+"details": "GET /accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-1919877963&timestamp=1378519987941 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1378519988097
+},
+{
+"REQUEST": "https://accounts.google.com/ServiceLoginAuth",
+"details": "POST /ServiceLoginAuth HTTP/1.1","post_data": "continue%3Dhttps%253A%252F%252Faccounts.google.com%252Fo%252Fopenid2%252Fauth%253Fzt%253DChREcmUxNF9RMEVKUVJ1dW1ITHJHZhIfZ3RVVGlZMHhIMTBXc2hRVjBpZVpEQXBDSG1mc2dRSQ%2525E2%252588%252599APsBz4gAAAAAUiqPOP9tnivmeQy5pyn1Dc8D-eBaoYy_%2526from_login%253D1%2526hl%253Dzh-CN%2526as%253D-2d7f96b885d2be38%26service%3Dlso%26dsh%3D2268562903820788671%26shdf%3DCh0LEgZkb21haW4aEVN0YWNrb3ZlcmZsb3cuY29tDBIDbHNvIhS0qWSBP7mSXX3EXeYznY1Wu5UbAygBMhT_StCzzYzPn7mO9pvaIogA7ghsAA%26scc%3D1%26sarp%3D1%26GALX%3DKuV-RqZcmmk%26pstMsg%3D1%26dnConn%3D%26checkConnection%3Dyoutube%253A140%253A1%26checkedDomains%3Dyoutube%26timeStmp%3D%26secTok%3D%26_utf8%3D%25E2%2598%2583%26bgresponse%3D%2521A0LUAx9wIXWM50RyMZYIzySEjgIAAABWUgAAABcqAP5QtILJ4jTmPPQ6zXLwnW6VO3vWsX0g0VVvV_8Gv2f8ZGfabDKb0Ih3zBQXtxTugCr7sVyZ7IMfp4D5PWHKVizct4uK-1i7N79VtxWaxOp6X0MNDDCfZtlNKyYUPY0v7BFOGW_FYR46_MeWLl4plNvLFmcd-RM2SUJvgHhkn_IcFaveli_pP-5ggbt4DQq7TJjs5_lZMpydPwkwdr-eWgq6-ZxA6jB4e3DckojiImbP67k-dt-Hgf2lwhcyVN3iUyCozJGlEZVm9qOcTC6Sl7s_cfw-yP_fnwRzXp4csWkJCkZSfd4ju9e3qXavT2n39zN4DgN1ossT2gSjVmnUwg%26Email%3Dniklequan%2540gmail.com%26Passwd%3Dwxq790428%26signIn%3D%25E7%2599%25BB%25E5%25BD%2595%26PersistentCookie%3Dyes%26rmShown%3D1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /accounts/SetSID?ssdc=1&sidt=ALWU2cuVc4wcQCgs3cH5E0iFEG961UhQ%2BZL0xMV6BcD7cy42y5%2BjwXef3n7unbJvZNvbxMtdzeuhCmih5PhaCR7kCwxVqwmAkrlGQEvU2qYT27TvFb5B1BuTi3JPugCclQNpxcEeOU2Nl%2FWRUQYaA1xBY2Cg9LURv6qlzuLDzrtT9Bc1QNk90ToHAwJQQCYmNnDWT%2BH83hkhxuEY2hBzUdBZZeyOxZ37GUU4pi5HDqiLzwGzBxt0j42vqDb1v707TAuV4aMnCXz0P20FHWg8g%2B5ZwXvahZQonMp1UfDXakiaG7nbAVAU%2BkzOtDqYdSpsXEoxNHh1r9FLTPffbjPKvgOhzZhkCWqDEsDChrNQWrPx4by37byB3xTkiMiFeN5GRLgcdvu%2BrZXg6MZVarXVar%2FivPcZton%2BYA%3D%3D&continue=https%3A%2F%2Faccounts.google.com%2Fo%2Fopenid2%2Fauth%3Fzt%3DChREcmUxNF9RMEVKUVJ1dW1ITHJHZhIfZ3RVVGlZMHhIMTBXc2hRVjBpZVpEQXBDSG1mc2dRSQ%25E2%2588%2599APsBz4gAAAAAUiqPOP9tnivmeQy5pyn1Dc8D-eBaoYy_%26from_login%3D1%26hl%3Dzh-CN%26as%3D-2d7f96b885d2be38%26auth%3DDQAAAJAAAAAgUsz0JWmNJvd5JZwhoRboZhwCLpioUiB0gRHQhrN0G1ZXYUosJTHQFnUWyxv7imRnHxjhV0258lpFtalpzHut0yzCNRUlybI-RLA2rv9Tfm19xgEkRFbhVIjnfHbjbh6fX_NpEc8p5okcK6WGMUk_tUyRonq5wjl573D2TbDr__OlAY1RaZpkxpcx3e-dbag HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /o/openid2/auth?zt=ChREcmUxNF9RMEVKUVJ1dW1ITHJHZhIfZ3RVVGlZMHhIMTBXc2hRVjBpZVpEQXBDSG1mc2dRSQ%E2%88%99APsBz4gAAAAAUiqPOP9tnivmeQy5pyn1Dc8D-eBaoYy_&from_login=1&hl=zh-CN&as=-2d7f96b885d2be38&auth=DQAAAJAAAAAgUsz0JWmNJvd5JZwhoRboZhwCLpioUiB0gRHQhrN0G1ZXYUosJTHQFnUWyxv7imRnHxjhV0258lpFtalpzHut0yzCNRUlybI-RLA2rv9Tfm19xgEkRFbhVIjnfHbjbh6fX_NpEc8p5okcK6WGMUk_tUyRonq5wjl573D2TbDr__OlAY1RaZpkxpcx3e-dbag HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /o/openid2/auth?zt=ChREcmUxNF9RMEVKUVJ1dW1ITHJHZhIfZ3RVVGlZMHhIMTBXc2hRVjBpZVpEQXBDSG1mc2dRSQ%E2%88%99APsBz4gAAAAAUiqPOP9tnivmeQy5pyn1Dc8D-eBaoYy_&from_login=1&hl=zh-CN&as=-2d7f96b885d2be38 HTTP/1.1",
+"RESPONSE": "302 Moved Temporarily, text/html",
+"details": "GET /users/authenticate/?s=054b4c85-f81e-4d9f-be0d-d69ebe6c90de&dnoa.userSuppliedIdentifier=https%3A%2F%2Fwww.google.com%2Faccounts%2Fo8%2Fid&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=id_res&openid.op_endpoint=https%3A%2F%2Fwww.google.com%2Faccounts%2Fo8%2Fud&openid.response_nonce=2013-09-07T02%3A13%3A30ZTRtu0ESjnmMdsA&openid.return_to=http%3A%2F%2Fstackoverflow.com%2Fusers%2Fauthenticate%2F%3Fs%3D054b4c85-f81e-4d9f-be0d-d69ebe6c90de%26dnoa.userSuppliedIdentifier%3Dhttps%253A%252F%252Fwww.google.com%252Faccounts%252Fo8%252Fid&openid.assoc_handle=1.AMlYA9V5EAjfuDk1fMkMKR2K0dcQ-dD7b4SoQXer7YrgoYA-WhkglPT4ggqZgFYy&openid.signed=op_endpoint%2Cclaimed_id%2Cidentity%2Creturn_to%2Cresponse_nonce%2Cassoc_handle%2Cns.ext1%2Cext1.mode%2Cext1.type.alias4%2Cext1.value.alias4&openid.sig=AfnqAXMZqOz5HawXSdDjlFiTMZs%3D&openid.identity=https%3A%2F%2Fwww.google.com%2Faccounts%2Fo8%2Fid%3Fid%3DAItOawlZzXpHjo93OmKeb0qldRpf-Q_nNMXvi1Q&openid.claimed_id=https%3A%2F%2Fwww.google.com%2Faccounts%2Fo8%2Fid%3Fid%3DAItOawlZzXpHjo93OmKeb0qldRpf-Q_nNMXvi1Q&openid.ns.ext1=http%3A%2F%2Fopenid.net%2Fsrv%2Fax%2F1.0&openid.ext1.mode=fetch_response&openid.ext1.type.alias4=http%3A%2F%2Faxschema.org%2Fcontact%2Femail&openid.ext1.value.alias4=niklequan%40gmail.com HTTP/1.1",
+"RESPONSE": "302 Found, text/html",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js",
+"details": "GET /ajax/libs/jquery/1.7.1/jquery.min.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/stub.js?v=0ad8a2cff262",
+"details": "GET /js/stub.js?v=0ad8a2cff262 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/stackoverflow/all.css?v=cff37b15495c",
+"details": "GET /stackoverflow/all.css?v=cff37b15495c HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/6QN0y.png",
+"details": "GET /6QN0y.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/9HWwT.png",
+"details": "GET /9HWwT.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/tKsDb.png",
+"details": "GET /tKsDb.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/g3Pur.jpg",
+"details": "GET /g3Pur.jpg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/L8rHf.png",
+"details": "GET /L8rHf.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/fVwI4.png",
+"details": "GET /fVwI4.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://static.adzerk.net/ados.js",
+"details": "GET /ados.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://www.google-analytics.com/ga.js",
+"details": "GET /ga.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://edge.quantserve.com/quant.js",
+"details": "GET /quant.js HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/full.js?v=f9e9cb812ede",
+"details": "GET /js/full.js?v=f9e9cb812ede HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://engine.adzerk.net/ados?t=1378520013525&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk2085590236%22,%22AT%22:17,%22Z%22:45}],%22Keywords%22:%22undefined%22,%22Referrer%22:%22%22,%22IsAsync%22:true}",
+"details": "GET /ados?t=1378520013525&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk2085590236%22,%22AT%22:17,%22Z%22:45}],%22Keywords%22:%22undefined%22,%22Referrer%22:%22%22,%22IsAsync%22:true} HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=3&utmn=1050755336&utmhn=stackoverflow.com&utme=8(2!accountid)9(2!3266717)11(2!2)&utmcs=UTF-8&utmsr=1600x900&utmvp=1509x803&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=Stack%20Overflow&utmhid=1748674773&utmr=-&utmp=%2F&utmht=1378520013525&utmac=UA-5620270-1&utmcc=__utma%3D140029553.404351709.1378519981.1378519981.1378519981.1%3B%2B__utmz%3D140029553.1378519981.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qQ~",
+"details": "GET /__utm.gif?utmwv=5.4.4&utms=3&utmn=1050755336&utmhn=stackoverflow.com&utme=8(2!accountid)9(2!3266717)11(2!2)&utmcs=UTF-8&utmsr=1600x900&utmvp=1509x803&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=Stack%20Overflow&utmhid=1748674773&utmr=-&utmp=%2F&utmht=1378520013525&utmac=UA-5620270-1&utmcc=__utma%3D140029553.404351709.1378519981.1378519981.1378519981.1%3B%2B__utmz%3D140029553.1378519981.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qQ~ HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://pixel.quantserve.com/pixel;r=1497092419;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1996805866-1378519981295;ns=0;ce=1;cm=;je=1;sr=1600x900x32;enc=n;dst=1;et=1378520013540;tzo=240;ref=;url=http%3A%2F%2Fstackoverflow.com%2F;ogl=",
+"details": "GET /pixel;r=1497092419;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1996805866-1378519981295;ns=0;ce=1;cm=;je=1;sr=1600x900x32;enc=n;dst=1;et=1378520013540;tzo=240;ref=;url=http%3A%2F%2Fstackoverflow.com%2F;ogl= HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://cdn-careers.sstatic.net/careers/gethired/loader.min.js?v=607ab2dda910",
+"details": "GET /careers/gethired/loader.min.js?v=607ab2dda910 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://stackoverflow.com/gps/event",
+"details": "POST /gps/event HTTP/1.1","post_data": "%5B%7B%22evt%22%3A%22openid.click%22%2C%22properties%22%3A%7B%22OpenIdProvider%22%3A%22Google%22%2C%22oidclick_location%22%3A%22users_login%22%7D%2C%22now%22%3A1378519987114%7D%5D",
+"RESPONSE": "204 No Content, text/plain"
+},
+{
+"REQUEST": "https://stackauth.com/auth/global/write?authToken=qQihBwjGXKqErkTOQHSvpJL0jNoN4SfWIH8z4l%2BFTea6zFMKW81eMPBZMeKjY7WwlOGjfL1B%2BYGDFuxoglHD97Fh%2BZ7Bpo0P%2FF1oWwNBO8FFQdLMNSxNghGTcrFXzVkk89hF2jl7Hw1tWcXmngCvNKCDGx36Z3LzpyyNJYHNaHoRmm1HboRzq8AGbfS%2Bq01VLzPnpj2NSaFhTHhmt6oC01Uz3of1m%2FfidOXcNo3fDcY%3D&nonce=y4sqUgAAAABTuHVooaGy4A%3D%3D",
+"details": "GET /auth/global/write?authToken=qQihBwjGXKqErkTOQHSvpJL0jNoN4SfWIH8z4l%2BFTea6zFMKW81eMPBZMeKjY7WwlOGjfL1B%2BYGDFuxoglHD97Fh%2BZ7Bpo0P%2FF1oWwNBO8FFQdLMNSxNghGTcrFXzVkk89hF2jl7Hw1tWcXmngCvNKCDGx36Z3LzpyyNJYHNaHoRmm1HboRzq8AGbfS%2Bq01VLzPnpj2NSaFhTHhmt6oC01Uz3of1m%2FfidOXcNo3fDcY%3D&nonce=y4sqUgAAAABTuHVooaGy4A%3D%3D HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://cdn-careers.sstatic.net/careers/gethired/sidebar.min.css?v=17be6ca0db4b",
+"details": "GET /careers/gethired/sidebar.min.css?v=17be6ca0db4b HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://careers.stackoverflow.com/gethired/js",
+"details": "GET /gethired/js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://engine.adzerk.net/i.gif?e=eyJhdiI6NDE0LCJhdCI6MTcsImNtIjo5MjEsImNoIjoxMTc4LCJjciI6MjY4OCwiZGkiOiJiZjliZmYzODIwOTM0ZmZkOGM0ZWM5ZjMyOTVlNDIyNSIsImRtIjoxLCJmYyI6MjQ4NSwiZmwiOjI2NjMsImt3IjoidW5kZWZpbmVkIiwibnciOjIyLCJydiI6MCwicHIiOjE1NjgsInN0Ijo4Mjc3LCJ6biI6NDV9&s=o22gl5C4eITqMQgl-C94COLrBqc",
+"details": "GET /i.gif?e=eyJhdiI6NDE0LCJhdCI6MTcsImNtIjo5MjEsImNoIjoxMTc4LCJjciI6MjY4OCwiZGkiOiJiZjliZmYzODIwOTM0ZmZkOGM0ZWM5ZjMyOTVlNDIyNSIsImRtIjoxLCJmYyI6MjQ4NSwiZmwiOjI2NjMsImt3IjoidW5kZWZpbmVkIiwibnciOjIyLCJydiI6MCwicHIiOjE1NjgsInN0Ijo4Mjc3LCJ6biI6NDV9&s=o22gl5C4eITqMQgl-C94COLrBqc HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://careers.stackoverflow.com/ad/i/J7kzcARa-B9RHif6g-MrUAE8tq-144-x0VW",
+"details": "GET /ad/i/J7kzcARa-B9RHif6g-MrUAE8tq-144-x0VW HTTP/1.1",
+"RESPONSE": "204 NoContent, image/gif"
+},
+{
+"PAGEUPDATE": 1378520013905
+},
+{
+"REQUEST": "http://stackoverflow.com/users",
+"details": "GET /users HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js",
+"details": "GET /ajax/libs/jquery/1.7.1/jquery.min.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/stub.js?v=0ad8a2cff262",
+"details": "GET /js/stub.js?v=0ad8a2cff262 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/stackoverflow/all.css?v=cff37b15495c",
+"details": "GET /stackoverflow/all.css?v=cff37b15495c HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/e514b017977ebf742a418cac697d8996?s=48&d=identicon&r=PG",
+"details": "GET /avatar/e514b017977ebf742a418cac697d8996?s=48&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/89927e2f4bde24991649b353a37678b9?s=48&d=identicon&r=PG",
+"details": "GET /avatar/89927e2f4bde24991649b353a37678b9?s=48&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/115c55a1005785f9143bb5e5066d58e2?s=48&d=identicon&r=PG",
+"details": "GET /avatar/115c55a1005785f9143bb5e5066d58e2?s=48&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/24780fb6df85a943c7aea0402c843737?s=48&d=identicon&r=PG",
+"details": "GET /avatar/24780fb6df85a943c7aea0402c843737?s=48&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/6d8ebb117e8d83d74ea95fbdd0f87e13?s=48&d=identicon&r=PG",
+"details": "GET /avatar/6d8ebb117e8d83d74ea95fbdd0f87e13?s=48&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/4af3541c00d591e9a518b9c0b3b1190a?s=48&d=identicon&r=PG",
+"details": "GET /avatar/4af3541c00d591e9a518b9c0b3b1190a?s=48&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/5ff53c2b4f6cc66ee989bb9d9effe119?s=48&d=identicon&r=PG",
+"details": "GET /avatar/5ff53c2b4f6cc66ee989bb9d9effe119?s=48&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/88efa534b9a4305e7e30da4c7d568e2c?s=48&d=identicon&r=PG",
+"details": "GET /avatar/88efa534b9a4305e7e30da4c7d568e2c?s=48&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/XPdhV.jpg?s=48&g=1",
+"details": "GET /XPdhV.jpg?s=48&g=1 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/4958f4712d94ab82fe55fa471308e4b5?s=48&d=identicon&r=PG",
+"details": "GET /avatar/4958f4712d94ab82fe55fa471308e4b5?s=48&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/53ee9941b3fefef67175daf212e62d41?s=48&d=identicon&r=PG",
+"details": "GET /avatar/53ee9941b3fefef67175daf212e62d41?s=48&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/4235db1aa1b11bcddb720dbc70b34a0f?s=48&d=identicon&r=PG",
+"details": "GET /avatar/4235db1aa1b11bcddb720dbc70b34a0f?s=48&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/6bcf75dbf1e66fc9cf453393db706d2d?s=48&d=identicon&r=PG",
+"details": "GET /avatar/6bcf75dbf1e66fc9cf453393db706d2d?s=48&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/ec289925069b35f18f1230b90dc654e5?s=48&d=identicon&r=PG",
+"details": "GET /avatar/ec289925069b35f18f1230b90dc654e5?s=48&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/ofloC.png?s=48&g=1",
+"details": "GET /ofloC.png?s=48&g=1 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/82f9e178a16364bf561d0ed4da09a35d?s=48&d=identicon&r=PG",
+"details": "GET /avatar/82f9e178a16364bf561d0ed4da09a35d?s=48&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/f54e86d83eea6143ecc70a485f4e6044?s=48&d=identicon&r=PG",
+"details": "GET /avatar/f54e86d83eea6143ecc70a485f4e6044?s=48&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/e3a181e9cdd4757a8b416d93878770c5?s=48&d=identicon&r=PG",
+"details": "GET /avatar/e3a181e9cdd4757a8b416d93878770c5?s=48&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/7aa22372b695ed2b26052c340f9097eb?s=48&d=identicon&r=PG",
+"details": "GET /avatar/7aa22372b695ed2b26052c340f9097eb?s=48&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/ec5f3a68cf0e3975bda7ffef185637ec?s=48&d=identicon&r=PG",
+"details": "GET /avatar/ec5f3a68cf0e3975bda7ffef185637ec?s=48&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/4ed620c930fa06794bba676726af3e4e?s=48&d=identicon&r=PG",
+"details": "GET /avatar/4ed620c930fa06794bba676726af3e4e?s=48&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/87b3a4c585e6fd2ad5308e15e12bdc36?s=48&d=identicon&r=PG",
+"details": "GET /avatar/87b3a4c585e6fd2ad5308e15e12bdc36?s=48&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/1d2d3229ed1961d2bd81853242493247?s=48&d=identicon&r=PG",
+"details": "GET /avatar/1d2d3229ed1961d2bd81853242493247?s=48&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/147c5a9cc1feec049c50da791ac7d144?s=48&d=identicon&r=PG",
+"details": "GET /avatar/147c5a9cc1feec049c50da791ac7d144?s=48&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/9X4w0.jpg?s=48&g=1",
+"details": "GET /9X4w0.jpg?s=48&g=1 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/249fe4390f49cd7b2a8c6cf5cffa5ed6?s=48&d=identicon&r=PG",
+"details": "GET /avatar/249fe4390f49cd7b2a8c6cf5cffa5ed6?s=48&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/747ffa5da3538e66840ebc0548b8fd58?s=48&d=identicon&r=PG",
+"details": "GET /avatar/747ffa5da3538e66840ebc0548b8fd58?s=48&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/dab08478b226280d4a30894c9a7ed719?s=48&d=identicon&r=PG",
+"details": "GET /avatar/dab08478b226280d4a30894c9a7ed719?s=48&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/0d7d26642f016f64f37619d209037dff?s=48&d=identicon&r=PG",
+"details": "GET /avatar/0d7d26642f016f64f37619d209037dff?s=48&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/01d6005ebf89c14de87a62add488aaad?s=48&d=identicon&r=PG",
+"details": "GET /avatar/01d6005ebf89c14de87a62add488aaad?s=48&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/7deca8ec973c3c0875e9a36e1e3e2c44?s=48&d=identicon&r=PG",
+"details": "GET /avatar/7deca8ec973c3c0875e9a36e1e3e2c44?s=48&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/2fe5ef74a2c17f19c75d2f49b95fb71d?s=48&d=identicon&r=PG",
+"details": "GET /avatar/2fe5ef74a2c17f19c75d2f49b95fb71d?s=48&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/bdf6da0eaa5db9219d7a731c7daf9c9e?s=48&d=identicon&r=PG",
+"details": "GET /avatar/bdf6da0eaa5db9219d7a731c7daf9c9e?s=48&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/a2d818d801ce38a33807f68fdd92043a?s=48&d=identicon&r=PG",
+"details": "GET /avatar/a2d818d801ce38a33807f68fdd92043a?s=48&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/SELp4.jpg?s=48&g=1",
+"details": "GET /SELp4.jpg?s=48&g=1 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.google-analytics.com/ga.js",
+"details": "GET /ga.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://edge.quantserve.com/quant.js",
+"details": "GET /quant.js HTTP/1.1",
+"RESPONSE": "200 OK, application/x-javascript"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/js/full.js?v=f9e9cb812ede",
+"details": "GET /js/full.js?v=f9e9cb812ede HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://www.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=4&utmn=1448260051&utmhn=stackoverflow.com&utme=8(2!accountid)9(2!3266717)11(2!2)&utmcs=UTF-8&utmsr=1600x900&utmvp=1509x803&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=Users%20-%20Stack%20Overflow&utmhid=378450127&utmr=0&utmp=%2Fusers&utmht=1378520020202&utmac=UA-5620270-1&utmcc=__utma%3D140029553.404351709.1378519981.1378519981.1378519981.1%3B%2B__utmz%3D140029553.1378519981.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qQ~",
+"details": "GET /__utm.gif?utmwv=5.4.4&utms=4&utmn=1448260051&utmhn=stackoverflow.com&utme=8(2!accountid)9(2!3266717)11(2!2)&utmcs=UTF-8&utmsr=1600x900&utmvp=1509x803&utmsc=32-bit&utmul=zh-cn&utmje=1&utmfl=11.5%20r502&utmdt=Users%20-%20Stack%20Overflow&utmhid=378450127&utmr=0&utmp=%2Fusers&utmht=1378520020202&utmac=UA-5620270-1&utmcc=__utma%3D140029553.404351709.1378519981.1378519981.1378519981.1%3B%2B__utmz%3D140029553.1378519981.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qQ~ HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://pixel.quantserve.com/pixel;r=2061990255;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1996805866-1378519981295;ns=0;ce=1;cm=;je=1;sr=1600x900x32;enc=n;dst=1;et=1378520020217;tzo=240;ref=http%3A%2F%2Fstackoverflow.com%2F;url=http%3A%2F%2Fstackoverflow.com%2Fusers;ogl=",
+"details": "GET /pixel;r=2061990255;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1996805866-1378519981295;ns=0;ce=1;cm=;je=1;sr=1600x900x32;enc=n;dst=1;et=1378520020217;tzo=240;ref=http%3A%2F%2Fstackoverflow.com%2F;url=http%3A%2F%2Fstackoverflow.com%2Fusers;ogl= HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://graph.facebook.com/100000653737180/picture?type=large",
+"details": "GET /100000653737180/picture?type=large HTTP/1.1",
+"RESPONSE": "302 Found, image/jpeg",
+"details": "GET /hprofile-ak-prn1/157796_100000653737180_349167658_n.jpg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"PAGEUPDATE": 1378520021502
+},
+{
+"REQUEST": "http://chat.stackoverflow.com/",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://cdn-chat.sstatic.net/chat/css/chat.stackoverflow.com.css?v=2a7d8c6bd8da",
+"details": "GET /chat/css/chat.stackoverflow.com.css?v=2a7d8c6bd8da HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js",
+"details": "GET /ajax/libs/jquery/1.7.1/jquery.min.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://cdn-chat.sstatic.net/chat/js/master.js?v=c15d0a491057",
+"details": "GET /chat/js/master.js?v=c15d0a491057 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://cdn-chat.sstatic.net/chat/Js/third-party/jquery.autocomplete.css?v=7144f55258cb",
+"details": "GET /chat/Js/third-party/jquery.autocomplete.css?v=7144f55258cb HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/stackoverflow/img/logo.png?v=abcdef",
+"details": "GET /stackoverflow/img/logo.png?v=abcdef HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/stackoverflow/img/favicon.ico?v=abcdef",
+"details": "GET /stackoverflow/img/favicon.ico?v=abcdef HTTP/1.1",
+"RESPONSE": "200 OK, image/x-icon"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/fa5cc5aa89d2edef8e3d07ac1142cfa2?s=18&d=identicon&r=PG",
+"details": "GET /avatar/fa5cc5aa89d2edef8e3d07ac1142cfa2?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/nZEUQ.png?g&s=18",
+"details": "GET /nZEUQ.png?g&s=18 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/e8qwD.gif?g&s=18",
+"details": "GET /e8qwD.gif?g&s=18 HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/EuMum.jpg?g&s=18",
+"details": "GET /EuMum.jpg?g&s=18 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/8kjiS.png?g&s=18",
+"details": "GET /8kjiS.png?g&s=18 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/3659fff22e890aaa5d7b03e799f9047f?s=18&d=identicon&r=PG",
+"details": "GET /avatar/3659fff22e890aaa5d7b03e799f9047f?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/87c52b2ab1190520280fc8684b6326a1?s=18&d=identicon&r=PG",
+"details": "GET /avatar/87c52b2ab1190520280fc8684b6326a1?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/wXzVb.jpg?g&s=18",
+"details": "GET /wXzVb.jpg?g&s=18 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/e91a4b631b4bb7f0c477626617dd3926?s=18&d=identicon&r=PG",
+"details": "GET /avatar/e91a4b631b4bb7f0c477626617dd3926?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/83e390e05f0ab3f18c5d9b5e4a6d4c4c?s=18&d=identicon&r=PG",
+"details": "GET /avatar/83e390e05f0ab3f18c5d9b5e4a6d4c4c?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/40de750233b3ce8268f235ba0b6a489b?s=18&d=identicon&r=PG",
+"details": "GET /avatar/40de750233b3ce8268f235ba0b6a489b?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/gxl95.png?g&s=18",
+"details": "GET /gxl95.png?g&s=18 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/a32a990c257433d3252980e059341546?s=18&d=identicon&r=PG",
+"details": "GET /avatar/a32a990c257433d3252980e059341546?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/3eaa19bdd5f9f61fff5f7265734c6c09?s=18&d=identicon&r=PG",
+"details": "GET /avatar/3eaa19bdd5f9f61fff5f7265734c6c09?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/226e74fa2c8f49fbf266bb2acb322eb6?s=18&d=identicon&r=PG",
+"details": "GET /avatar/226e74fa2c8f49fbf266bb2acb322eb6?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/222630f327e8942d6c2b94d0210717ca?s=18&d=identicon&r=PG",
+"details": "GET /avatar/222630f327e8942d6c2b94d0210717ca?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/9XyjC.gif?g&s=18",
+"details": "GET /9XyjC.gif?g&s=18 HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/267986a3a8e222301c9d76bcd9faeaba?s=18&d=identicon&r=PG",
+"details": "GET /avatar/267986a3a8e222301c9d76bcd9faeaba?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/c086227e90508ebdda57a61cf9513ea3?s=18&d=identicon&r=PG",
+"details": "GET /avatar/c086227e90508ebdda57a61cf9513ea3?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/5ba9dd877c8a4bc5995b2101908ae648?s=18&d=identicon&r=PG",
+"details": "GET /avatar/5ba9dd877c8a4bc5995b2101908ae648?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/098a49543d8a75ceb464d2137217af84?s=18&d=identicon&r=PG",
+"details": "GET /avatar/098a49543d8a75ceb464d2137217af84?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/c100cdc7aa47f4a04db9f2a7575e271a?s=18&d=identicon&r=PG",
+"details": "GET /avatar/c100cdc7aa47f4a04db9f2a7575e271a?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/a841f73b8538a9b8cb498f85142933ff?s=18&d=identicon&r=PG",
+"details": "GET /avatar/a841f73b8538a9b8cb498f85142933ff?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/npHU0.png?g&s=18",
+"details": "GET /npHU0.png?g&s=18 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/b8b4b2a8dec652a64ee29a3d946294af?s=18&d=identicon&r=PG",
+"details": "GET /avatar/b8b4b2a8dec652a64ee29a3d946294af?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/8de27f6322acc09c6b8e51479535991f?s=18&d=identicon&r=PG",
+"details": "GET /avatar/8de27f6322acc09c6b8e51479535991f?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/36ec5d85ebfab626243d320aa568eb2a?s=18&d=identicon&r=PG",
+"details": "GET /avatar/36ec5d85ebfab626243d320aa568eb2a?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/f65eb0ac718f0651f0fff4a643d44a89?s=18&d=identicon&r=PG",
+"details": "GET /avatar/f65eb0ac718f0651f0fff4a643d44a89?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/19f0a11bdd9323f99d723bf9f718be3d?s=18&d=identicon&r=PG",
+"details": "GET /avatar/19f0a11bdd9323f99d723bf9f718be3d?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/00e28f53aa0a4b8089b37dbb22efd560?s=18&d=identicon&r=PG",
+"details": "GET /avatar/00e28f53aa0a4b8089b37dbb22efd560?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/0vhup.jpg?g&s=18",
+"details": "GET /0vhup.jpg?g&s=18 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/be62f4fd8637f4fd60bf939869ce30e4?s=18&d=identicon&r=PG",
+"details": "GET /avatar/be62f4fd8637f4fd60bf939869ce30e4?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/GhNI0.png?g&s=18",
+"details": "GET /GhNI0.png?g&s=18 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/thLuN.jpg?g&s=18",
+"details": "GET /thLuN.jpg?g&s=18 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/415e16f085258bebb146f9cc7cbbb99e?s=18&d=identicon&r=PG",
+"details": "GET /avatar/415e16f085258bebb146f9cc7cbbb99e?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/32c4f5b414a7959867a37baa81e207de?s=18&d=identicon&r=PG",
+"details": "GET /avatar/32c4f5b414a7959867a37baa81e207de?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/244f50b31987c6aa4113a176ef8c4027?s=18&d=identicon&r=PG",
+"details": "GET /avatar/244f50b31987c6aa4113a176ef8c4027?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/t5hGl.jpg?g&s=18",
+"details": "GET /t5hGl.jpg?g&s=18 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/772ba24d5e24b8d68b6314bd3540c7bc?s=18&d=identicon&r=PG",
+"details": "GET /avatar/772ba24d5e24b8d68b6314bd3540c7bc?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/d87ff3d8167337ed85552094aa31e34e?s=18&d=identicon&r=PG",
+"details": "GET /avatar/d87ff3d8167337ed85552094aa31e34e?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/Sej2t.jpg?g&s=18",
+"details": "GET /Sej2t.jpg?g&s=18 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/d4af7c516b8d8cc6fb40e65a0b6397dd?s=18&d=identicon&r=PG",
+"details": "GET /avatar/d4af7c516b8d8cc6fb40e65a0b6397dd?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/euDPU.png?g&s=18",
+"details": "GET /euDPU.png?g&s=18 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/pNBEo.png?g&s=18",
+"details": "GET /pNBEo.png?g&s=18 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/6186a64b74e539f42c9c1b90cdd4e2c8?s=18&d=identicon&r=PG",
+"details": "GET /avatar/6186a64b74e539f42c9c1b90cdd4e2c8?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/bc66db28aa7c3fa8e4ce4238b696dee9?s=18&d=identicon&r=PG",
+"details": "GET /avatar/bc66db28aa7c3fa8e4ce4238b696dee9?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/7ea079654bb159fdaa4043834688f57d?s=18&d=identicon&r=PG",
+"details": "GET /avatar/7ea079654bb159fdaa4043834688f57d?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/f9fc3249a341a64ee2721637915cd301?s=18&d=identicon&r=PG",
+"details": "GET /avatar/f9fc3249a341a64ee2721637915cd301?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/2w5K4.jpg?g&s=18",
+"details": "GET /2w5K4.jpg?g&s=18 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/348d335cd13298e475eeaefa1841dee6?s=18&d=identicon&r=PG",
+"details": "GET /avatar/348d335cd13298e475eeaefa1841dee6?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/710a392a974ed826ed96407788e0df5e?s=18&d=identicon&r=PG",
+"details": "GET /avatar/710a392a974ed826ed96407788e0df5e?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/WLi8a.png?g&s=18",
+"details": "GET /WLi8a.png?g&s=18 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/rRD8W.jpg?g&s=18",
+"details": "GET /rRD8W.jpg?g&s=18 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/XgLe7.gif?g&s=18",
+"details": "GET /XgLe7.gif?g&s=18 HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/tzknb.jpg?g&s=18",
+"details": "GET /tzknb.jpg?g&s=18 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/VkrSZ.png?g&s=18",
+"details": "GET /VkrSZ.png?g&s=18 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/a9d1f9135b43b217b9325eed54745460?s=18&d=identicon&r=PG",
+"details": "GET /avatar/a9d1f9135b43b217b9325eed54745460?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/fe1c5c7bee0a61db0b81d093e517ed28?s=18&d=identicon&r=PG",
+"details": "GET /avatar/fe1c5c7bee0a61db0b81d093e517ed28?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/9a65255ceba8ec2ee6b57184892c34e3?s=18&d=identicon&r=PG",
+"details": "GET /avatar/9a65255ceba8ec2ee6b57184892c34e3?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/06ba16b3c42d17db4d766af6682d767e?s=18&d=identicon&r=PG",
+"details": "GET /avatar/06ba16b3c42d17db4d766af6682d767e?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/?s=128&d=identicon&r=PG&f=1",
+"details": "GET /avatar/?s=128&d=identicon&r=PG&f=1 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/15103a9ee83a0a3189ed7b81a0cb8bd2?s=32&d=identicon&r=PG",
+"details": "GET /avatar/15103a9ee83a0a3189ed7b81a0cb8bd2?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/f9de1205fb5ca4aa7a1cb864588881bc?s=32&d=identicon&r=PG",
+"details": "GET /avatar/f9de1205fb5ca4aa7a1cb864588881bc?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/3fe7167331cd8d257a8acc71e4ecd0a1?s=32&d=identicon&r=PG",
+"details": "GET /avatar/3fe7167331cd8d257a8acc71e4ecd0a1?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/791a00235c66b6c32effd4291101087f?s=18&d=identicon&r=PG",
+"details": "GET /avatar/791a00235c66b6c32effd4291101087f?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/d8962238339d771f0348967be6f97b1b?s=18&d=identicon&r=PG",
+"details": "GET /avatar/d8962238339d771f0348967be6f97b1b?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/0TWAK.png?g&s=18",
+"details": "GET /0TWAK.png?g&s=18 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/0a55e1b257487441cd435f66bfb413f1?s=18&d=identicon&r=PG",
+"details": "GET /avatar/0a55e1b257487441cd435f66bfb413f1?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/f64914b68ff9076e46156c07c96e890f?s=18&d=identicon&r=PG",
+"details": "GET /avatar/f64914b68ff9076e46156c07c96e890f?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/05492b2e997c17b51ea4621dbee0df60?s=18&d=identicon&r=PG",
+"details": "GET /avatar/05492b2e997c17b51ea4621dbee0df60?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/W8X5E.jpg?g&s=18",
+"details": "GET /W8X5E.jpg?g&s=18 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/cb96e4650503f6f254c4092e164b4b30?s=18&d=identicon&r=PG",
+"details": "GET /avatar/cb96e4650503f6f254c4092e164b4b30?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/o7w9X.png?g&s=18",
+"details": "GET /o7w9X.png?g&s=18 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/c0f9e85d3fe0e6e7e81976c8efbb7322?s=18&d=identicon&r=PG",
+"details": "GET /avatar/c0f9e85d3fe0e6e7e81976c8efbb7322?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/1288a3a5848955d8d476200caf088dd2?s=18&d=identicon&r=PG",
+"details": "GET /avatar/1288a3a5848955d8d476200caf088dd2?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/57e4ba05a1eb61218049dc520b789a11?s=18&d=identicon&r=PG",
+"details": "GET /avatar/57e4ba05a1eb61218049dc520b789a11?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/e1f5d1bd28627ad2f5a9b47ef63a2dc8?s=18&d=identicon&r=PG",
+"details": "GET /avatar/e1f5d1bd28627ad2f5a9b47ef63a2dc8?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/37aa3ec65ec47c5a3f9e2a80534837f3?s=18&d=identicon&r=PG",
+"details": "GET /avatar/37aa3ec65ec47c5a3f9e2a80534837f3?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/f819307e6e2278ee6e503dab3bc89bbe?s=18&d=identicon&r=PG",
+"details": "GET /avatar/f819307e6e2278ee6e503dab3bc89bbe?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/328e4d651b4e1c7a97bd86f3d7c84073?s=18&d=identicon&r=PG",
+"details": "GET /avatar/328e4d651b4e1c7a97bd86f3d7c84073?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/rbcZS.jpg?g&s=18",
+"details": "GET /rbcZS.jpg?g&s=18 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/8e57fe4b0f7381288a8e1e4c6cd77a8e?s=18&d=identicon&r=PG",
+"details": "GET /avatar/8e57fe4b0f7381288a8e1e4c6cd77a8e?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/af9c87f9cfcacf5e447820eb72b26794?s=18&d=identicon&r=PG",
+"details": "GET /avatar/af9c87f9cfcacf5e447820eb72b26794?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/cef5b96ed791de1c5dbc8a2a9af8c51d?s=18&d=identicon&r=PG",
+"details": "GET /avatar/cef5b96ed791de1c5dbc8a2a9af8c51d?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/dNPmt.png?g&s=18",
+"details": "GET /dNPmt.png?g&s=18 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/d4227bb1f45da71fc24ee28a90703c82?s=18&d=identicon&r=PG",
+"details": "GET /avatar/d4227bb1f45da71fc24ee28a90703c82?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/3189f1e006358ec6c65481b9605cd0e3?s=18&d=identicon&r=PG",
+"details": "GET /avatar/3189f1e006358ec6c65481b9605cd0e3?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/7964274fec16b8a205365a1d44548575?s=18&d=identicon&r=PG",
+"details": "GET /avatar/7964274fec16b8a205365a1d44548575?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/f9de1205fb5ca4aa7a1cb864588881bc?s=18&d=identicon&r=PG",
+"details": "GET /avatar/f9de1205fb5ca4aa7a1cb864588881bc?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/f555e133e57968e30c2ca0e040e96b25?s=18&d=identicon&r=PG",
+"details": "GET /avatar/f555e133e57968e30c2ca0e040e96b25?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/1636b53a0e16d6178f821105127a6176?s=18&d=identicon&r=PG",
+"details": "GET /avatar/1636b53a0e16d6178f821105127a6176?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/sGrbi.png?g&s=18",
+"details": "GET /sGrbi.png?g&s=18 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/pJiTd.jpg?g&s=18",
+"details": "GET /pJiTd.jpg?g&s=18 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/sl1OJ.png?g&s=18",
+"details": "GET /sl1OJ.png?g&s=18 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/ca1aca78f310ac63ebf0fecc277474f1?s=18&d=identicon&r=PG",
+"details": "GET /avatar/ca1aca78f310ac63ebf0fecc277474f1?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/da469962ed60969533a04809f4eae8b3?s=18&d=identicon&r=PG",
+"details": "GET /avatar/da469962ed60969533a04809f4eae8b3?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/ff54b748d9338b6ac8b92555d56304d0?s=18&d=identicon&r=PG",
+"details": "GET /avatar/ff54b748d9338b6ac8b92555d56304d0?s=18&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/YBbqr.jpg?g&s=24",
+"details": "GET /YBbqr.jpg?g&s=24 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/4f4c10a585c476957ab989299ec4dcb9?s=23&d=identicon&r=PG",
+"details": "GET /avatar/4f4c10a585c476957ab989299ec4dcb9?s=23&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/3df6fdde70a4d2590b9b8494f3edfb56?s=23&d=identicon&r=PG",
+"details": "GET /avatar/3df6fdde70a4d2590b9b8494f3edfb56?s=23&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/jX4aL.png?g&s=24",
+"details": "GET /jX4aL.png?g&s=24 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/YJ4l4.jpg?g&s=24",
+"details": "GET /YJ4l4.jpg?g&s=24 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/a6f4afcfb542030d9f7918a873b7b404?s=23&d=identicon&r=PG",
+"details": "GET /avatar/a6f4afcfb542030d9f7918a873b7b404?s=23&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/rRD8W.jpg?g&s=24",
+"details": "GET /rRD8W.jpg?g&s=24 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/7262c8dedb3d853d30f9c19c749fad7c?s=23&d=identicon&r=PG",
+"details": "GET /avatar/7262c8dedb3d853d30f9c19c749fad7c?s=23&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/bc66db28aa7c3fa8e4ce4238b696dee9?s=23&d=identicon&r=PG",
+"details": "GET /avatar/bc66db28aa7c3fa8e4ce4238b696dee9?s=23&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/be62f4fd8637f4fd60bf939869ce30e4?s=23&d=identicon&r=PG",
+"details": "GET /avatar/be62f4fd8637f4fd60bf939869ce30e4?s=23&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/5ba9dd877c8a4bc5995b2101908ae648?s=23&d=identicon&r=PG",
+"details": "GET /avatar/5ba9dd877c8a4bc5995b2101908ae648?s=23&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/ff54b748d9338b6ac8b92555d56304d0?s=23&d=identicon&r=PG",
+"details": "GET /avatar/ff54b748d9338b6ac8b92555d56304d0?s=23&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/c640c2471d507b73b93d5cb34eaebfed?s=32&d=identicon&r=PG",
+"details": "GET /avatar/c640c2471d507b73b93d5cb34eaebfed?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/1636b53a0e16d6178f821105127a6176?s=32&d=identicon&r=PG",
+"details": "GET /avatar/1636b53a0e16d6178f821105127a6176?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/72660e8c00d8a10b8029e94fb7c821da?s=32&d=identicon&r=PG",
+"details": "GET /avatar/72660e8c00d8a10b8029e94fb7c821da?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/97e3af512b76d08790c8a9c6c9bce18b?s=32&d=identicon&r=PG",
+"details": "GET /avatar/97e3af512b76d08790c8a9c6c9bce18b?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/b1b6fb772b99390fb560bc611765cea5?s=32&d=identicon&r=PG",
+"details": "GET /avatar/b1b6fb772b99390fb560bc611765cea5?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/n8oZk.png?g&s=32",
+"details": "GET /n8oZk.png?g&s=32 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/2677f3d67f3f87646a107a5b2789247d?s=32&d=identicon&r=PG",
+"details": "GET /avatar/2677f3d67f3f87646a107a5b2789247d?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/af9c87f9cfcacf5e447820eb72b26794?s=32&d=identicon&r=PG",
+"details": "GET /avatar/af9c87f9cfcacf5e447820eb72b26794?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/26cc7a233f42d5f867171c3771cdc062?s=32&d=identicon&r=PG",
+"details": "GET /avatar/26cc7a233f42d5f867171c3771cdc062?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/36ec5d85ebfab626243d320aa568eb2a?s=32&d=identicon&r=PG",
+"details": "GET /avatar/36ec5d85ebfab626243d320aa568eb2a?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/abb3ef3db88688a320af060d824d99bb?s=32&d=identicon&r=PG",
+"details": "GET /avatar/abb3ef3db88688a320af060d824d99bb?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/415e16f085258bebb146f9cc7cbbb99e?s=32&d=identicon&r=PG",
+"details": "GET /avatar/415e16f085258bebb146f9cc7cbbb99e?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/gxl95.png?g&s=32",
+"details": "GET /gxl95.png?g&s=32 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/a32a990c257433d3252980e059341546?s=32&d=identicon&r=PG",
+"details": "GET /avatar/a32a990c257433d3252980e059341546?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/3659fff22e890aaa5d7b03e799f9047f?s=32&d=identicon&r=PG",
+"details": "GET /avatar/3659fff22e890aaa5d7b03e799f9047f?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/226e74fa2c8f49fbf266bb2acb322eb6?s=32&d=identicon&r=PG",
+"details": "GET /avatar/226e74fa2c8f49fbf266bb2acb322eb6?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/83e390e05f0ab3f18c5d9b5e4a6d4c4c?s=32&d=identicon&r=PG",
+"details": "GET /avatar/83e390e05f0ab3f18c5d9b5e4a6d4c4c?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/3eaa19bdd5f9f61fff5f7265734c6c09?s=32&d=identicon&r=PG",
+"details": "GET /avatar/3eaa19bdd5f9f61fff5f7265734c6c09?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/06b7947dde574502cdf662c143d3f8d8?s=32&d=identicon&r=PG",
+"details": "GET /avatar/06b7947dde574502cdf662c143d3f8d8?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/c195975d933d0db957b579464b24a341?s=32&d=identicon&r=PG",
+"details": "GET /avatar/c195975d933d0db957b579464b24a341?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/4718212e95d7adea8c412379e7f542e9?s=32&d=identicon&r=PG",
+"details": "GET /avatar/4718212e95d7adea8c412379e7f542e9?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/q0SM6.jpg?g&s=32",
+"details": "GET /q0SM6.jpg?g&s=32 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/PlkHu.jpg?g&s=32",
+"details": "GET /PlkHu.jpg?g&s=32 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/etXum.jpg?g&s=32",
+"details": "GET /etXum.jpg?g&s=32 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/q24r0.jpg?g&s=32",
+"details": "GET /q24r0.jpg?g&s=32 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/6Uoko.jpg?g&s=32",
+"details": "GET /6Uoko.jpg?g&s=32 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/stackoverflow/img/sprites.png?v=2",
+"details": "GET /stackoverflow/img/sprites.png?v=2 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://cdn-chat.sstatic.net/chat/Img/sprites.png",
+"details": "GET /chat/Img/sprites.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/25488a32eaf1bab37d2041ea861a7eaf?s=32&d=identicon&r=PG",
+"details": "GET /avatar/25488a32eaf1bab37d2041ea861a7eaf?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/5a804caeb905aec31a7531d38314bf16?s=32&d=identicon&r=PG",
+"details": "GET /avatar/5a804caeb905aec31a7531d38314bf16?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/4e96ca7ae02c37e7d940d17997d780e5?s=32&d=identicon&r=PG",
+"details": "GET /avatar/4e96ca7ae02c37e7d940d17997d780e5?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/af0cc2f46bd679e92029bc489cdde955?s=32&d=identicon&r=PG",
+"details": "GET /avatar/af0cc2f46bd679e92029bc489cdde955?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/cf422e96227ee42abf42188feee10d9d?s=32&d=identicon&r=PG",
+"details": "GET /avatar/cf422e96227ee42abf42188feee10d9d?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/780efa18d6ac335453cddf3713f55b3a?s=32&d=identicon&r=PG",
+"details": "GET /avatar/780efa18d6ac335453cddf3713f55b3a?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/426b5a0f9f0e629b35f5f9f5fbf14c0d?s=32&d=identicon&r=PG",
+"details": "GET /avatar/426b5a0f9f0e629b35f5f9f5fbf14c0d?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/Sej2t.jpg?g&s=32",
+"details": "GET /Sej2t.jpg?g&s=32 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/222630f327e8942d6c2b94d0210717ca?s=32&d=identicon&r=PG",
+"details": "GET /avatar/222630f327e8942d6c2b94d0210717ca?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/fa5cc5aa89d2edef8e3d07ac1142cfa2?s=32&d=identicon&r=PG",
+"details": "GET /avatar/fa5cc5aa89d2edef8e3d07ac1142cfa2?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/tzknb.jpg?g&s=32",
+"details": "GET /tzknb.jpg?g&s=32 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://chat.stackoverflow.com/inbox/genuwine/unviewed-count",
+"details": "GET /inbox/genuwine/unviewed-count HTTP/1.1",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"PAGEUPDATE": 1378520028819
+},
+{
+"REQUEST": "http://chat.stackoverflow.com/rooms/17/javascript",
+"details": "GET /rooms/17/javascript HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js",
+"details": "GET /ajax/libs/jquery/1.7.1/jquery.min.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "http://cdn-chat.sstatic.net/chat/Js/master-chat.js?v=9934c991fd96",
+"details": "GET /chat/Js/master-chat.js?v=9934c991fd96 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://cdn-chat.sstatic.net/chat/css/chat.stackoverflow.com.css?v=2a7d8c6bd8da",
+"details": "GET /chat/css/chat.stackoverflow.com.css?v=2a7d8c6bd8da HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "http://cdn-chat.sstatic.net/chat/Img/feed-icon128.png?v=7fa832f0199b",
+"details": "GET /chat/Img/feed-icon128.png?v=7fa832f0199b HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/?s=128&d=identicon&r=PG&f=1",
+"details": "GET /avatar/?s=128&d=identicon&r=PG&f=1 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/stackoverflow/img/logo.png?v=abcdef",
+"details": "GET /stackoverflow/img/logo.png?v=abcdef HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://cdn-chat.sstatic.net/chat/img/moreusers.png",
+"details": "GET /chat/img/moreusers.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://cdn-chat.sstatic.net/chat/Img/sprites.png",
+"details": "GET /chat/Img/sprites.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://cdn-chat.sstatic.net/chat/Js/eggs.js?v=9934c991fd96",
+"details": "GET /chat/Js/eggs.js?v=9934c991fd96 HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "http://chat.stackoverflow.com/chats/17/events",
+"details": "POST /chats/17/events HTTP/1.1","post_data": "since%3D0%26mode%3DMessages%26msgCount%3D100%26fkey%3Da6fef214b961b78bdbaaaa8ff483aef5",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "http://chat.stackoverflow.com/chats/stars/17?count=0&_=1378520033477",
+"details": "GET /chats/stars/17?count=0&_=1378520033477 HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/32c4f5b414a7959867a37baa81e207de?s=32&d=identicon&r=PG",
+"details": "GET /avatar/32c4f5b414a7959867a37baa81e207de?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/244f50b31987c6aa4113a176ef8c4027?s=32&d=identicon&r=PG",
+"details": "GET /avatar/244f50b31987c6aa4113a176ef8c4027?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/t5hGl.jpg?g&s=32",
+"details": "GET /t5hGl.jpg?g&s=32 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/772ba24d5e24b8d68b6314bd3540c7bc?s=32&d=identicon&r=PG",
+"details": "GET /avatar/772ba24d5e24b8d68b6314bd3540c7bc?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/d87ff3d8167337ed85552094aa31e34e?s=32&d=identicon&r=PG",
+"details": "GET /avatar/d87ff3d8167337ed85552094aa31e34e?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/Sej2t.jpg?g&s=32",
+"details": "GET /Sej2t.jpg?g&s=32 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/d4af7c516b8d8cc6fb40e65a0b6397dd?s=32&d=identicon&r=PG",
+"details": "GET /avatar/d4af7c516b8d8cc6fb40e65a0b6397dd?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/euDPU.png?g&s=32",
+"details": "GET /euDPU.png?g&s=32 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/pNBEo.png?g&s=32",
+"details": "GET /pNBEo.png?g&s=32 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/6186a64b74e539f42c9c1b90cdd4e2c8?s=32&d=identicon&r=PG",
+"details": "GET /avatar/6186a64b74e539f42c9c1b90cdd4e2c8?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/wXzVb.jpg?g&s=32",
+"details": "GET /wXzVb.jpg?g&s=32 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/bc66db28aa7c3fa8e4ce4238b696dee9?s=32&d=identicon&r=PG",
+"details": "GET /avatar/bc66db28aa7c3fa8e4ce4238b696dee9?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/7ea079654bb159fdaa4043834688f57d?s=32&d=identicon&r=PG",
+"details": "GET /avatar/7ea079654bb159fdaa4043834688f57d?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/f9fc3249a341a64ee2721637915cd301?s=32&d=identicon&r=PG",
+"details": "GET /avatar/f9fc3249a341a64ee2721637915cd301?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/2w5K4.jpg?g&s=32",
+"details": "GET /2w5K4.jpg?g&s=32 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/348d335cd13298e475eeaefa1841dee6?s=32&d=identicon&r=PG",
+"details": "GET /avatar/348d335cd13298e475eeaefa1841dee6?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/710a392a974ed826ed96407788e0df5e?s=32&d=identicon&r=PG",
+"details": "GET /avatar/710a392a974ed826ed96407788e0df5e?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/222630f327e8942d6c2b94d0210717ca?s=32&d=identicon&r=PG",
+"details": "GET /avatar/222630f327e8942d6c2b94d0210717ca?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/WLi8a.png?g&s=32",
+"details": "GET /WLi8a.png?g&s=32 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/rRD8W.jpg?g&s=32",
+"details": "GET /rRD8W.jpg?g&s=32 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/5ba9dd877c8a4bc5995b2101908ae648?s=32&d=identicon&r=PG",
+"details": "GET /avatar/5ba9dd877c8a4bc5995b2101908ae648?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/XgLe7.gif?g&s=32",
+"details": "GET /XgLe7.gif?g&s=32 HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/tzknb.jpg?g&s=32",
+"details": "GET /tzknb.jpg?g&s=32 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/VkrSZ.png?g&s=32",
+"details": "GET /VkrSZ.png?g&s=32 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/a9d1f9135b43b217b9325eed54745460?s=32&d=identicon&r=PG",
+"details": "GET /avatar/a9d1f9135b43b217b9325eed54745460?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/fe1c5c7bee0a61db0b81d093e517ed28?s=32&d=identicon&r=PG",
+"details": "GET /avatar/fe1c5c7bee0a61db0b81d093e517ed28?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/9a65255ceba8ec2ee6b57184892c34e3?s=32&d=identicon&r=PG",
+"details": "GET /avatar/9a65255ceba8ec2ee6b57184892c34e3?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/06ba16b3c42d17db4d766af6682d767e?s=32&d=identicon&r=PG",
+"details": "GET /avatar/06ba16b3c42d17db4d766af6682d767e?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://cdn-chat.sstatic.net/chat/so.ogg",
+"details": "GET /chat/so.ogg HTTP/1.1",
+"RESPONSE": "0 , "
+},
+{
+"REQUEST": "http://cdn-chat.sstatic.net/chat/so.ogg",
+"details": "GET /chat/so.ogg HTTP/1.1",
+"RESPONSE": "206 Partial Content, video/ogg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/244f50b31987c6aa4113a176ef8c4027?s=16&d=identicon&r=PG",
+"details": "GET /avatar/244f50b31987c6aa4113a176ef8c4027?s=16&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/pNBEo.png?g&s=16",
+"details": "GET /pNBEo.png?g&s=16 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/euDPU.png?g&s=16",
+"details": "GET /euDPU.png?g&s=16 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/d4af7c516b8d8cc6fb40e65a0b6397dd?s=16&d=identicon&r=PG",
+"details": "GET /avatar/d4af7c516b8d8cc6fb40e65a0b6397dd?s=16&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon.png",
+"details": "GET /stackoverflow/img/apple-touch-icon.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://www.gravatar.com/avatar/2bd7a2b831eed0ef7dbe80749d576026?s=128&d=identicon&r=PG",
+"details": "GET /avatar/2bd7a2b831eed0ef7dbe80749d576026?s=128&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/t5hGl.jpg?g&s=16",
+"details": "GET /t5hGl.jpg?g&s=16 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/Sej2t.jpg?g&s=16",
+"details": "GET /Sej2t.jpg?g&s=16 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/d87ff3d8167337ed85552094aa31e34e?s=16&d=identicon&r=PG",
+"details": "GET /avatar/d87ff3d8167337ed85552094aa31e34e?s=16&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/772ba24d5e24b8d68b6314bd3540c7bc?s=16&d=identicon&r=PG",
+"details": "GET /avatar/772ba24d5e24b8d68b6314bd3540c7bc?s=16&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/32c4f5b414a7959867a37baa81e207de?s=16&d=identicon&r=PG",
+"details": "GET /avatar/32c4f5b414a7959867a37baa81e207de?s=16&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://chat.stackoverflow.com/ws-auth",
+"details": "POST /ws-auth HTTP/1.1","post_data": "roomid%3D17%26fkey%3Da6fef214b961b78bdbaaaa8ff483aef5",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"PAGEUPDATE": 1378520034310
+},
+{
+"REQUEST": "http://chat.stackoverflow.com/user/info",
+"details": "POST /user/info HTTP/1.1","post_data": "ids%3D2752419%252C2358955%252C1216976%252C1907358%252C1663607%252C922581%252C829835%252C1585400%26roomId%3D17",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/DmQYJ.jpg?g&s=16",
+"details": "GET /DmQYJ.jpg?g&s=16 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/DmQYJ.jpg?g&s=32",
+"details": "GET /DmQYJ.jpg?g&s=32 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/4pVUm.png?g&s=16",
+"details": "GET /4pVUm.png?g&s=16 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/4pVUm.png?g&s=32",
+"details": "GET /4pVUm.png?g&s=32 HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/1HBPx.jpg?g&s=16",
+"details": "GET /1HBPx.jpg?g&s=16 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/1HBPx.jpg?g&s=32",
+"details": "GET /1HBPx.jpg?g&s=32 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/d5fd6dcf3d8fc8eee1543c7b2c89450f?s=16&d=identicon&r=PG",
+"details": "GET /avatar/d5fd6dcf3d8fc8eee1543c7b2c89450f?s=16&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/d5fd6dcf3d8fc8eee1543c7b2c89450f?s=32&d=identicon&r=PG",
+"details": "GET /avatar/d5fd6dcf3d8fc8eee1543c7b2c89450f?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/236dd7ca555806d7c971f1af1523a3d5?s=16&d=identicon&r=PG",
+"details": "GET /avatar/236dd7ca555806d7c971f1af1523a3d5?s=16&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://www.gravatar.com/avatar/236dd7ca555806d7c971f1af1523a3d5?s=32&d=identicon&r=PG",
+"details": "GET /avatar/236dd7ca555806d7c971f1af1523a3d5?s=32&d=identicon&r=PG HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/YYo1x.jpg?g&s=16",
+"details": "GET /YYo1x.jpg?g&s=16 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/YYo1x.jpg?g&s=32",
+"details": "GET /YYo1x.jpg?g&s=32 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/c5fqz.jpg?g&s=16",
+"details": "GET /c5fqz.jpg?g&s=16 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "http://i.stack.imgur.com/c5fqz.jpg?g&s=32",
+"details": "GET /c5fqz.jpg?g&s=32 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+}
+]

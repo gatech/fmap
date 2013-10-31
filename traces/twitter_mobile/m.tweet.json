@@ -1,0 +1,55 @@
+[
+{
+"PAGEUPDATE": 1376467819789
+},
+{
+"REQUEST": "http://m.twitter.com/",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, text/html",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "302 Found, text/html",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "302 Found, text/html",
+"details": "GET /signup HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376467823935
+},
+{
+"REQUEST": "https://mobile.twitter.com/session/new",
+"details": "GET /session/new HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376467825121
+},
+{
+"REQUEST": "https://mobile.twitter.com/session",
+"details": "POST /session HTTP/1.1","post_data": "authenticity_token%3D571c32652e61b76c0025%26username%3Dmasala32%26password%3Dmasala44%26commit%3DSign%2Bin",
+"RESPONSE": "302 Found, text/html",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376467835155
+},
+{
+"REQUEST": "https://mobile.twitter.com/compose/tweet",
+"details": "GET /compose/tweet HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376467838123
+},
+{
+"REQUEST": "https://mobile.twitter.com/",
+"details": "POST / HTTP/1.1","post_data": "authenticity_token%3D571c32652e61b76c0025%26tweet%255Btext%255D%3Dtoday%2Bis%2Ba%2Bnice%2Bday%26commit%3DTweet",
+"RESPONSE": "302 Found, text/html",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376467851635
+}
+]

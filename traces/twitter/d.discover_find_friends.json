@@ -1,0 +1,800 @@
+[
+{
+"PAGEUPDATE": 1378805354067
+},
+{
+"REQUEST": "http://twitter.com/",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, ",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "https://abs.twimg.com/a/1378701295/t1/css/t1_core_logged_out.bundle.css",
+"details": "GET /a/1378701295/t1/css/t1_core_logged_out.bundle.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "https://abs.twimg.com/a/1378701295/t1/css/t1_more.bundle.css",
+"details": "GET /a/1378701295/t1/css/t1_more.bundle.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "https://abs.twimg.com/a/1378701295/t1/img/front_page/cricket@2x.jpg",
+"details": "GET /a/1378701295/t1/img/front_page/cricket@2x.jpg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://abs.twimg.com/c/swift/en/init.469bdccd4337a7b5d3c07fd63c891a9ca6cbf387.js",
+"details": "GET /c/swift/en/init.469bdccd4337a7b5d3c07fd63c891a9ca6cbf387.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "https://abs.twimg.com/a/1378701295/t1/img/twitter_web_sprite_bgs.png",
+"details": "GET /a/1378701295/t1/img/twitter_web_sprite_bgs.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://abs.twimg.com/a/1378701295/t1/img/twitter_web_sprite_icons.png",
+"details": "GET /a/1378701295/t1/img/twitter_web_sprite_icons.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"PAGEUPDATE": 1378805358968
+},
+{
+"REQUEST": "https://abs.twimg.com/c/swift/en/bundle/frontpage.4fadf7a73f7269b9c27c826f2ebf9bed67255e74.js",
+"details": "GET /c/swift/en/bundle/frontpage.4fadf7a73f7269b9c27c826f2ebf9bed67255e74.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "https://ssl.google-analytics.com/ga.js",
+"details": "GET /ga.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://ssl.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=1&utmn=1584622594&utmhn=twitter.com&utmcs=UTF-8&utmsr=1920x1080&utmvp=1009x813&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=Twitter&utmhid=1729665238&utmr=-&utmp=%2Fanon%2Ffront%2Ffront&utmht=1378805359264&utmac=UA-30775-6&utmcc=__utma%3D43838368.365232939.1378805359.1378805359.1378805359.1%3B%2B__utmz%3D43838368.1378805359.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qAC~",
+"details": "GET /__utm.gif?utmwv=5.4.4&utms=1&utmn=1584622594&utmhn=twitter.com&utmcs=UTF-8&utmsr=1920x1080&utmvp=1009x813&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=Twitter&utmhid=1729665238&utmr=-&utmp=%2Fanon%2Ffront%2Ffront&utmht=1378805359264&utmac=UA-30775-6&utmcc=__utma%3D43838368.365232939.1378805359.1378805359.1378805359.1%3B%2B__utmz%3D43838368.1378805359.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qAC~ HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"PAGEUPDATE": 1378805367577
+},
+{
+"REQUEST": "https://twitter.com/sessions",
+"details": "POST /sessions HTTP/1.1","post_data": "session%255Busername_or_email%255D%3Darktos9%26session%255Bpassword%255D%3Dbear44%26return_to_ssl%3Dtrue%26scribe_log%3D%26redirect_after_login%3D%252F%26authenticity_token%3Dc1bb9a5801d79f3a0545c3052dcea54ed52055e2",
+"RESPONSE": "302 Found, text/html",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "https://abs.twimg.com/a/1378701295/t1/css/t1_core.bundle.css",
+"details": "GET /a/1378701295/t1/css/t1_core.bundle.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "https://si0.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+"details": "GET /sticky/default_profile_images/default_profile_6_normal.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000431276858/f89d67a6cc8bad2c57b086f0bc7d911a_normal.jpeg",
+"details": "GET /profile_images/378800000431276858/f89d67a6cc8bad2c57b086f0bc7d911a_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000387003138/6d506778204776cc8cf882f809a2b573_normal.png",
+"details": "GET /profile_images/378800000387003138/6d506778204776cc8cf882f809a2b573_normal.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000124507172/728bfe4df7da85de938b56aa3adaebca_normal.jpeg",
+"details": "GET /profile_images/378800000124507172/728bfe4df7da85de938b56aa3adaebca_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000163880575/b6a87cd4a4152e23c8d4fe417dfb168f_normal.jpeg",
+"details": "GET /profile_images/378800000163880575/b6a87cd4a4152e23c8d4fe417dfb168f_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000415664989/3827428d57542ce020925ed2b4b1a2d1_normal.png",
+"details": "GET /profile_images/378800000415664989/3827428d57542ce020925ed2b4b1a2d1_normal.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/3205353564/f2612f435e3f4c3ba62fc48d6daa661e_normal.jpeg",
+"details": "GET /profile_images/3205353564/f2612f435e3f4c3ba62fc48d6daa661e_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/images/themes/theme1/bg.png",
+"details": "GET /images/themes/theme1/bg.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+"details": "GET undefined HTTP/1.1",
+"RESPONSE": "0 , image/gif"
+},
+{
+"REQUEST": "https://abs.twimg.com/a/1378701295/t1/img/wash-white-30.png",
+"details": "GET /a/1378701295/t1/img/wash-white-30.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/1825696714/image_normal.jpg",
+"details": "GET /profile_images/1825696714/image_normal.jpg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000374964807/c3d7c3f88a2839d98bd56599d9c1c1aa_normal.jpeg",
+"details": "GET /profile_images/378800000374964807/c3d7c3f88a2839d98bd56599d9c1c1aa_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/3467035972/4c978ba8510da3fb77d2d5e9ae7c93f0_normal.jpeg",
+"details": "GET /profile_images/3467035972/4c978ba8510da3fb77d2d5e9ae7c93f0_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://abs.twimg.com/a/1378701295/t1/img/loader.gif",
+"details": "GET /a/1378701295/t1/img/loader.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "https://si0.twimg.com/sticky/default_profile_images/default_profile_6_mini.png",
+"details": "GET /sticky/default_profile_images/default_profile_6_mini.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://abs.twimg.com/c/swift/en/init.469bdccd4337a7b5d3c07fd63c891a9ca6cbf387.js",
+"details": "GET /c/swift/en/init.469bdccd4337a7b5d3c07fd63c891a9ca6cbf387.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"PAGEUPDATE": 1378805368398
+},
+{
+"REQUEST": "https://abs.twimg.com/c/swift/en/bundle/timeline.69ef5ae6ae0169e07c17ffb896664ed43ba92481.js",
+"details": "GET /c/swift/en/bundle/timeline.69ef5ae6ae0169e07c17ffb896664ed43ba92481.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "https://abs.twimg.com/c/swift/en/bundle/boot.7bd7a3264e596c482e64fa58333131739ff7778b.js",
+"details": "GET /c/swift/en/bundle/boot.7bd7a3264e596c482e64fa58333131739ff7778b.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "https://abs.twimg.com/a/1378701295/t1/css/t1_more.bundle.css",
+"details": "GET /a/1378701295/t1/css/t1_more.bundle.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "https://twitter.com/i/search/typeahead.json?count=1200&prefetch=true&result_type=users&users_cache_age=-1",
+"details": "GET /i/search/typeahead.json?count=1200&prefetch=true&result_type=users&users_cache_age=-1 HTTP/1.1",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "https://platform.twitter.com/widgets.js",
+"details": "GET /widgets.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "https://twitter.com/trends?k=3f1e9b3007&pc=true&src=module",
+"details": "GET /trends?k=3f1e9b3007&pc=true&src=module HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://ssl.google-analytics.com/ga.js",
+"details": "GET /ga.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/i/users/recommendations?connections=true&disabled=false&dismissable=true&display_location=wtf-component&excluded=&initialResults=true&limit=3&oldest_unread_id=0&pc=true&scribeContext%5Bcomponent%5D=user_recommendations",
+"details": "GET /i/users/recommendations?connections=true&disabled=false&dismissable=true&display_location=wtf-component&excluded=&initialResults=true&limit=3&oldest_unread_id=0&pc=true&scribeContext%5Bcomponent%5D=user_recommendations HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/i/promoted_content/log.json?event=i&promoted_trend_id=16042",
+"details": "GET /i/promoted_content/log.json?event=i&promoted_trend_id=16042 HTTP/1.1",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "https://twitter.com/i/resolve.json?urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FeExQJVBM2T%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FeDxafEuEjd%2F&urls%5B%5D=http%3A%2F%2Fellen.tv%2F1axNhfT&urls%5B%5D=http%3A%2F%2Fsocial.publix.com%2FKzo&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FeDHtJkBM-O%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FeC42B_jCYx%2F",
+"details": "GET /i/resolve.json?urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FeExQJVBM2T%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FeDxafEuEjd%2F&urls%5B%5D=http%3A%2F%2Fellen.tv%2F1axNhfT&urls%5B%5D=http%3A%2F%2Fsocial.publix.com%2FKzo&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FeDHtJkBM-O%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FeC42B_jCYx%2F HTTP/1.1",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "https://ssl.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=2&utmn=2075738444&utmhn=twitter.com&utmcs=UTF-8&utmsr=1920x1080&utmvp=1009x777&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=Twitter&utmhid=1538599197&utmr=0&utmp=%2Fuser%2Fhome%2Fhome&utmht=1378805368892&utmac=UA-30775-6&utmcc=__utma%3D43838368.365232939.1378805359.1378805359.1378805359.1%3B%2B__utmz%3D43838368.1378805359.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qAC~",
+"details": "GET /__utm.gif?utmwv=5.4.4&utms=2&utmn=2075738444&utmhn=twitter.com&utmcs=UTF-8&utmsr=1920x1080&utmvp=1009x777&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=Twitter&utmhid=1538599197&utmr=0&utmp=%2Fuser%2Fhome%2Fhome&utmht=1378805368892&utmac=UA-30775-6&utmcc=__utma%3D43838368.365232939.1378805359.1378805359.1378805359.1%3B%2B__utmz%3D43838368.1378805359.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qAC~ HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/1762509243/hji_logo2_normal.jpg",
+"details": "GET /profile_images/1762509243/hji_logo2_normal.jpg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000276531294/213bd04982008b9fc6c67a0121f4a523_normal.jpeg",
+"details": "GET /profile_images/378800000276531294/213bd04982008b9fc6c67a0121f4a523_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/3747904629/6088e8da0646d2094634484bc8d588e6_normal.png",
+"details": "GET /profile_images/3747904629/6088e8da0646d2094634484bc8d588e6_normal.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://twitter.com/i/promoted_content/log.json?event=impression&impression_id=39a24448b46fd9c",
+"details": "GET /i/promoted_content/log.json?event=impression&impression_id=39a24448b46fd9c HTTP/1.1",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"PAGEUPDATE": 1378805370515
+},
+{
+"REQUEST": "https://twitter.com/i/discover",
+"details": "GET /i/discover HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://abs.twimg.com/a/1378701295/t1/img/spinner-medium.gif",
+"details": "GET /a/1378701295/t1/img/spinner-medium.gif HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"PAGEUPDATE": 1378805370917
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/1601515485/44faed6f-40ce-4f9f-bd12-50840ed1ea44_normal.jpg",
+"details": "GET /profile_images/1601515485/44faed6f-40ce-4f9f-bd12-50840ed1ea44_normal.jpg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
+"details": "GET /sticky/default_profile_images/default_profile_0_normal.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000392093908/ebc33c8ff1c949a2a3e4cbfd3a0e60fb_normal.jpeg",
+"details": "GET /profile_images/378800000392093908/ebc33c8ff1c949a2a3e4cbfd3a0e60fb_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/2950702826/39db147c76ad0955f6feebe095f4fb20_normal.jpeg",
+"details": "GET /profile_images/2950702826/39db147c76ad0955f6feebe095f4fb20_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000436731838/c92194c7bc6a7741c33fbeab7574b33f_normal.jpeg",
+"details": "GET /profile_images/378800000436731838/c92194c7bc6a7741c33fbeab7574b33f_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/344513261583894817/a0fac04a67e940e485b1b8390210c357_normal.jpeg",
+"details": "GET /profile_images/344513261583894817/a0fac04a67e940e485b1b8390210c357_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000433927592/3280982a2908daec6c12e3f92a0ca573_normal.jpeg",
+"details": "GET /profile_images/378800000433927592/3280982a2908daec6c12e3f92a0ca573_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000230480756/d130d854e18a79af65a5a799b5b711b6_normal.jpeg",
+"details": "GET /profile_images/378800000230480756/d130d854e18a79af65a5a799b5b711b6_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000410477377/07356ecb792e5847b83aabed7da64e6d_normal.jpeg",
+"details": "GET /profile_images/378800000410477377/07356ecb792e5847b83aabed7da64e6d_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://pbs.twimg.com/media/BTwvXl4IcAAhhEh.jpg",
+"details": "GET /media/BTwvXl4IcAAhhEh.jpg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+"details": "GET /sticky/default_profile_images/default_profile_4_normal.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://si0.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+"details": "GET /sticky/default_profile_images/default_profile_2_normal.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000437750368/6bd31743c28bb33f6c46ead11a12c6a2_normal.jpeg",
+"details": "GET /profile_images/378800000437750368/6bd31743c28bb33f6c46ead11a12c6a2_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000429067993/f8a29815ab290563d8f76290e4971b0e_normal.jpeg",
+"details": "GET /profile_images/378800000429067993/f8a29815ab290563d8f76290e4971b0e_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000412035583/a9f05a31f91ac5ab15f13103dc3b8215_normal.jpeg",
+"details": "GET /profile_images/378800000412035583/a9f05a31f91ac5ab15f13103dc3b8215_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000436480563/d1ee4d3ca52cd9a9fe559260b9df5170_normal.jpeg",
+"details": "GET /profile_images/378800000436480563/d1ee4d3ca52cd9a9fe559260b9df5170_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000437699990/5e3792858e75b5371d1c7e1154e7b8f7_normal.jpeg",
+"details": "GET /profile_images/378800000437699990/5e3792858e75b5371d1c7e1154e7b8f7_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/3033775961/d064d1d21c1c37df32cf7b1819a77251_normal.jpeg",
+"details": "GET /profile_images/3033775961/d064d1d21c1c37df32cf7b1819a77251_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/3316787150/53f538680275d247a7f6fe5925b64a13_normal.png",
+"details": "GET /profile_images/3316787150/53f538680275d247a7f6fe5925b64a13_normal.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/1796148436/nprnews_icon_normal.jpg",
+"details": "GET /profile_images/1796148436/nprnews_icon_normal.jpg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/3212896625/ab2d2a869021b664ec8d74205563a944_normal.jpeg",
+"details": "GET /profile_images/3212896625/ab2d2a869021b664ec8d74205563a944_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000425795193/f0f820441a5a7a0974c1fef0fc2e3a5f_normal.jpeg",
+"details": "GET /profile_images/378800000425795193/f0f820441a5a7a0974c1fef0fc2e3a5f_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/1436854440/ailasmallphoto_normal.jpg",
+"details": "GET /profile_images/1436854440/ailasmallphoto_normal.jpg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/2782987546/a282ad3b005eee6d863ead99020b25dc_normal.png",
+"details": "GET /profile_images/2782987546/a282ad3b005eee6d863ead99020b25dc_normal.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000427068385/3316506d4ec3b63f9819487451db2a80_normal.jpeg",
+"details": "GET /profile_images/378800000427068385/3316506d4ec3b63f9819487451db2a80_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/1769387283/me_normal.jpg",
+"details": "GET /profile_images/1769387283/me_normal.jpg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000301200446/428bff1e80e3e51a9e1bf1fddc17cfc5_normal.jpeg",
+"details": "GET /profile_images/378800000301200446/428bff1e80e3e51a9e1bf1fddc17cfc5_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/3463388166/c81be8ad87218268c1f159a8bd385a14_normal.jpeg",
+"details": "GET /profile_images/3463388166/c81be8ad87218268c1f159a8bd385a14_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000376405228/ddc8892b7b2989a23de6964d587ec4fb_normal.jpeg",
+"details": "GET /profile_images/378800000376405228/ddc8892b7b2989a23de6964d587ec4fb_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000375062262/b8fefa0292b148a0a5ba90dc14fc5c3a_normal.jpeg",
+"details": "GET /profile_images/378800000375062262/b8fefa0292b148a0a5ba90dc14fc5c3a_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000324797118/6735186dc7cdf77bc959557913a513a2_normal.jpeg",
+"details": "GET /profile_images/378800000324797118/6735186dc7cdf77bc959557913a513a2_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/305668623/3_normal.jpg",
+"details": "GET /profile_images/305668623/3_normal.jpg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/1663549442/image_normal.jpg",
+"details": "GET /profile_images/1663549442/image_normal.jpg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/1237006459/110120-164405_normal.jpg",
+"details": "GET /profile_images/1237006459/110120-164405_normal.jpg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000370934435/6f0a5da9e5388b2f9bd3f7d447db7f1c_normal.jpeg",
+"details": "GET /profile_images/378800000370934435/6f0a5da9e5388b2f9bd3f7d447db7f1c_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/2493232625/image_normal.jpg",
+"details": "GET /profile_images/2493232625/image_normal.jpg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/3746156098/3ae8600ced21f4cb802e6b76d78cace6_normal.jpeg",
+"details": "GET /profile_images/3746156098/3ae8600ced21f4cb802e6b76d78cace6_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000325548200/fbf25e17e7e13007582342421a26f04d_normal.jpeg",
+"details": "GET /profile_images/378800000325548200/fbf25e17e7e13007582342421a26f04d_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000246625493/5f87b2a6f3d784283d5606e8109b94d8_normal.jpeg",
+"details": "GET /profile_images/378800000246625493/5f87b2a6f3d784283d5606e8109b94d8_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/631609371/978861420_l_normal.jpg",
+"details": "GET /profile_images/631609371/978861420_l_normal.jpg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/2159475680/image_normal.jpg",
+"details": "GET /profile_images/2159475680/image_normal.jpg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://pbs.twimg.com/media/BTvMGQjCMAAv--T.jpg",
+"details": "GET /media/BTvMGQjCMAAv--T.jpg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000326938923/bcd2574903f227efb030d3bfae2cdb20_normal.jpeg",
+"details": "GET /profile_images/378800000326938923/bcd2574903f227efb030d3bfae2cdb20_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000427369818/805598ea5b15e7ab57ba39f48d6f535a_normal.jpeg",
+"details": "GET /profile_images/378800000427369818/805598ea5b15e7ab57ba39f48d6f535a_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/3551226163/5e26535dca03b7affe4da0f55340637b_normal.png",
+"details": "GET /profile_images/3551226163/5e26535dca03b7affe4da0f55340637b_normal.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000424798990/9e1580267855abb28a2296d65646ce8e_normal.jpeg",
+"details": "GET /profile_images/378800000424798990/9e1580267855abb28a2296d65646ce8e_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/3325290649/9516232efd33513331b0465c44046752_normal.jpeg",
+"details": "GET /profile_images/3325290649/9516232efd33513331b0465c44046752_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/1590548669/Snapshot_20101217_normal.jpg",
+"details": "GET /profile_images/1590548669/Snapshot_20101217_normal.jpg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000331864213/77e453810e14872b7e4eed8c9a7870a5_normal.jpeg",
+"details": "GET /profile_images/378800000331864213/77e453810e14872b7e4eed8c9a7870a5_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000424400100/91c8cc0610e45be64e9b69f52a070a7a_normal.jpeg",
+"details": "GET /profile_images/378800000424400100/91c8cc0610e45be64e9b69f52a070a7a_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000232613491/1927f8432cafec0cd5ad6bd1ab40b249_normal.jpeg",
+"details": "GET /profile_images/378800000232613491/1927f8432cafec0cd5ad6bd1ab40b249_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/3347544660/7002bb240c3719c0c6d7bc431d29265c_normal.jpeg",
+"details": "GET /profile_images/3347544660/7002bb240c3719c0c6d7bc431d29265c_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/3074955216/141df249c9cf8e89b42b6fb68e8c26cc_normal.jpeg",
+"details": "GET /profile_images/3074955216/141df249c9cf8e89b42b6fb68e8c26cc_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000392911232/9987894fbc768353893e3ebb9d796a7f_normal.jpeg",
+"details": "GET /profile_images/378800000392911232/9987894fbc768353893e3ebb9d796a7f_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000387827886/5e8828bde2f83a6b91224696dec05c9b_normal.png",
+"details": "GET /profile_images/378800000387827886/5e8828bde2f83a6b91224696dec05c9b_normal.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000401766329/d6431792dedaa9027dbac747a85eeb3a_normal.jpeg",
+"details": "GET /profile_images/378800000401766329/d6431792dedaa9027dbac747a85eeb3a_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/3427150589/de5ee3817804a20b25fefc871e0ae718_normal.jpeg",
+"details": "GET /profile_images/3427150589/de5ee3817804a20b25fefc871e0ae718_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/1702671908/WSJ-twitter-logo_normal",
+"details": "GET /profile_images/1702671908/WSJ-twitter-logo_normal HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000427716594/61acc67c8c7067281900a423cdc6c65c_normal.jpeg",
+"details": "GET /profile_images/378800000427716594/61acc67c8c7067281900a423cdc6c65c_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/3699879162/9153436be93553740ce4d7ffa437d268_normal.jpeg",
+"details": "GET /profile_images/3699879162/9153436be93553740ce4d7ffa437d268_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/1139623306/034_normal.JPG",
+"details": "GET /profile_images/1139623306/034_normal.JPG HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/1780779906/image_normal.jpg",
+"details": "GET /profile_images/1780779906/image_normal.jpg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/3364707634/07b143aef8bfa7a70836292ac04eaf78_normal.jpeg",
+"details": "GET /profile_images/3364707634/07b143aef8bfa7a70836292ac04eaf78_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000341905206/0c443b42cda8f2007716e81ca497f947_normal.jpeg",
+"details": "GET /profile_images/378800000341905206/0c443b42cda8f2007716e81ca497f947_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/3062950968/ed84de0db90aed5195189e76be5ff90a_normal.jpeg",
+"details": "GET /profile_images/3062950968/ed84de0db90aed5195189e76be5ff90a_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/3163113329/58be6dae800e7cd19ac6d0b13298ccc8_normal.jpeg",
+"details": "GET /profile_images/3163113329/58be6dae800e7cd19ac6d0b13298ccc8_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/3137015968/2f8b195d07bcd7928a8a91e051684889_normal.jpeg",
+"details": "GET /profile_images/3137015968/2f8b195d07bcd7928a8a91e051684889_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/2904346842/98db26121de39771f848ed15f9ccfe25_normal.jpeg",
+"details": "GET /profile_images/2904346842/98db26121de39771f848ed15f9ccfe25_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/1894745045/LAT_normal.jpg",
+"details": "GET /profile_images/1894745045/LAT_normal.jpg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://o.twimg.com/2/proxy.jpg?t=HBiAAWh0dHA6Ly93d3cudHJiaW1nLmNvbS9pbWctNTIyYmE4MzQvdHVyYmluZS9sYS1kZC1tYXJ5bGFuZC1jcmFiLW1pY2hhZWwtdm9sdGFnZ2lvLWJlbi1mZWxkbWFuLWR1ZmYtZ29sZG1hbi0yMDEzLTIwMTMwOTA3LzQwMC8xNng5FPABFPABHBQCFAIAABYAEgA&s=82yxUD6NquvsTEomBtaMZWARbD-pe_3mUZz47KmL4R0",
+"details": "GET /2/proxy.jpg?t=HBiAAWh0dHA6Ly93d3cudHJiaW1nLmNvbS9pbWctNTIyYmE4MzQvdHVyYmluZS9sYS1kZC1tYXJ5bGFuZC1jcmFiLW1pY2hhZWwtdm9sdGFnZ2lvLWJlbi1mZWxkbWFuLWR1ZmYtZ29sZG1hbi0yMDEzLTIwMTMwOTA3LzQwMC8xNng5FPABFPABHBQCFAIAABYAEgA&s=82yxUD6NquvsTEomBtaMZWARbD-pe_3mUZz47KmL4R0 HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000184448973/f458163de0ad7d3d45babbed1efb583c_normal.jpeg",
+"details": "GET /profile_images/378800000184448973/f458163de0ad7d3d45babbed1efb583c_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/2911963104/c758ef64f160b7037de74de96256d2aa_normal.jpeg",
+"details": "GET /profile_images/2911963104/c758ef64f160b7037de74de96256d2aa_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000391700600/9c84c8e5f4a88db60635014975dcb819_normal.jpeg",
+"details": "GET /profile_images/378800000391700600/9c84c8e5f4a88db60635014975dcb819_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/1285163928/_small_normal.jpg",
+"details": "GET /profile_images/1285163928/_small_normal.jpg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000410513500/35ce0a10a1daaa019bbe18b0419e0bfd_normal.jpeg",
+"details": "GET /profile_images/378800000410513500/35ce0a10a1daaa019bbe18b0419e0bfd_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/2889671974/fa4c5d04f4ff2bed6333c05840fa672b_normal.jpeg",
+"details": "GET /profile_images/2889671974/fa4c5d04f4ff2bed6333c05840fa672b_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000426485952/f97025141d99ee33aceb5e70fb277741_normal.jpeg",
+"details": "GET /profile_images/378800000426485952/f97025141d99ee33aceb5e70fb277741_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/3769240277/c1f6a9f9aa621c0dcc1dcf2fea500d9b_normal.jpeg",
+"details": "GET /profile_images/3769240277/c1f6a9f9aa621c0dcc1dcf2fea500d9b_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000138521476/091af9bb48b20f8dd041d893633c406c_normal.jpeg",
+"details": "GET /profile_images/378800000138521476/091af9bb48b20f8dd041d893633c406c_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://pbs.twimg.com/media/BTvd4AoIgAA0Zkr.jpg",
+"details": "GET /media/BTvd4AoIgAA0Zkr.jpg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000398800860/281ac5bc3a42d4f67fa2d1e8d082b959_normal.jpeg",
+"details": "GET /profile_images/378800000398800860/281ac5bc3a42d4f67fa2d1e8d082b959_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/2628598869/f42c9a1f82a5c2ef2ca9a530e464ef22_normal.jpeg",
+"details": "GET /profile_images/2628598869/f42c9a1f82a5c2ef2ca9a530e464ef22_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/972463817/Headshot_normal.jpg",
+"details": "GET /profile_images/972463817/Headshot_normal.jpg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000079439490/e7d76748ea685d8e2478e00882d1825b_normal.jpeg",
+"details": "GET /profile_images/378800000079439490/e7d76748ea685d8e2478e00882d1825b_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000168052134/2e6cddce289d05234c09ac2697655820_normal.jpeg",
+"details": "GET /profile_images/378800000168052134/2e6cddce289d05234c09ac2697655820_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/1746869761/Spiral_of_life888_normal.jpg",
+"details": "GET /profile_images/1746869761/Spiral_of_life888_normal.jpg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000370701298/fcae184a4c7f3af60ee08c4ffdbdddc4_normal.jpeg",
+"details": "GET /profile_images/378800000370701298/fcae184a4c7f3af60ee08c4ffdbdddc4_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://abs.twimg.com/c/swift/en/bundle/discover.dbdcf3f381055081929b921bb6e54d1e99fce0cb.js",
+"details": "GET /c/swift/en/bundle/discover.dbdcf3f381055081929b921bb6e54d1e99fce0cb.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "https://twitter.com/trends?k=3f1e9b3007&pc=true&src=module",
+"details": "GET /trends?k=3f1e9b3007&pc=true&src=module HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://ssl.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=3&utmn=1323775364&utmhn=twitter.com&utmcs=UTF-8&utmsr=1920x1080&utmvp=1009x777&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=Twitter%20%2F%20Discover&utmhid=1538599197&utmr=0&utmp=%2Fuser%2Fdiscover%2Fdiscover&utmht=1378805371224&utmac=UA-30775-6&utmcc=__utma%3D43838368.365232939.1378805359.1378805359.1378805359.1%3B%2B__utmz%3D43838368.1378805359.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qBC~",
+"details": "GET /__utm.gif?utmwv=5.4.4&utms=3&utmn=1323775364&utmhn=twitter.com&utmcs=UTF-8&utmsr=1920x1080&utmvp=1009x777&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=Twitter%20%2F%20Discover&utmhid=1538599197&utmr=0&utmp=%2Fuser%2Fdiscover%2Fdiscover&utmht=1378805371224&utmac=UA-30775-6&utmcc=__utma%3D43838368.365232939.1378805359.1378805359.1378805359.1%3B%2B__utmz%3D43838368.1378805359.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qBC~ HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+},
+{
+"REQUEST": "https://twitter.com/i/users/recommendations?connections=true&dismissable=true&display_location=wtf-component&excluded=&initialResults=true&limit=3&pc=true&scribeContext%5Bcomponent%5D=user_recommendations",
+"details": "GET /i/users/recommendations?connections=true&dismissable=true&display_location=wtf-component&excluded=&initialResults=true&limit=3&pc=true&scribeContext%5Bcomponent%5D=user_recommendations HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/i/promoted_content/log.json?event=i&promoted_trend_id=16042",
+"details": "GET /i/promoted_content/log.json?event=i&promoted_trend_id=16042 HTTP/1.1",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000430033045/9085a5dac0f90a80135e01586371326e_normal.jpeg",
+"details": "GET /profile_images/378800000430033045/9085a5dac0f90a80135e01586371326e_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://si0.twimg.com/profile_images/378800000099983225/3b8fd9006b56bf158b16141b0d3f3682_normal.jpeg",
+"details": "GET /profile_images/378800000099983225/3b8fd9006b56bf158b16141b0d3f3682_normal.jpeg HTTP/1.1",
+"RESPONSE": "200 OK, image/jpeg"
+},
+{
+"REQUEST": "https://twitter.com/i/promoted_content/log.json?event=impression&impression_id=39a28e7d292c2d5",
+"details": "GET /i/promoted_content/log.json?event=impression&impression_id=39a28e7d292c2d5 HTTP/1.1",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"PAGEUPDATE": 1378805375882
+},
+{
+"REQUEST": "https://twitter.com/who_to_follow/import",
+"details": "GET /who_to_follow/import HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "https://twitter.com/i/jot",
+"details": "POST /i/jot HTTP/1.1","post_data": "log%3D%255B%257B%2522internal_referer%2522%253Anull%252C%2522client_version%2522%253A%2522macaw-swift%2522%252C%2522user_id%2522%253A0%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522front%2522%252C%2522section%2522%253A%2522front%2522%252C%2522component%2522%253A%2522login_callout%2522%252C%2522element%2522%253A%2522form%2522%252C%2522action%2522%253A%2522login_click%2522%257D%252C%2522triggered_on%2522%253A1378805367567%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522macaw-swift%2522%252C%2522woeid%2522%253A1%252C%2522referring_event%2522%253A%2522initial%2522%252C%2522items%2522%253A%255B%257B%2522name%2522%253A%2522%2523TheNextBigThing%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522%2523TheNextBigThing%2522%252C%2522position%2522%253A0%252C%2522promoted_id%2522%253A16042%257D%252C%257B%2522name%2522%253A%2522%2523ForceBumpMFParachute%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522%2523ForceBumpMFParachute%2522%252C%2522position%2522%253A1%257D%252C%257B%2522name%2522%253A%2522Bound%2B2%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522Bound%2B2%2522%252C%2522position%2522%253A2%257D%252C%257B%2522name%2522%253A%2522%2523nowplaying%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522%2523nowplaying%2522%252C%2522position%2522%253A3%257D%252C%257B%2522name%2522%253A%2522%2523music%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522%2523music%2522%252C%2522position%2522%253A4%257D%252C%257B%2522name%2522%253A%2522Jimmy%2BFallon%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522Jimmy%2BFallon%2522%252C%2522position%2522%253A5%257D%252C%257B%2522name%2522%253A%2522LeSean%2BMcCoy%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522LeSean%2BMcCoy%2522%252C%2522position%2522%253A6%257D%252C%257B%2522name%2522%253A%2522%2523arseniohall%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522%2523arseniohall%2522%252C%2522position%2522%253A7%257D%252C%257B%2522name%2522%253A%2522%2523Eagles%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522%2523Eagles%2522%252C%2522position%2522%253A8%257D%252C%257B%2522name%2522%253A%2522QLD%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522QLD%2522%252C%2522position%2522%253A9%257D%255D%252C%2522promoted%2522%253Atrue%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522home%2522%252C%2522section%2522%253A%2522home%2522%252C%2522component%2522%253A%2522trends%2522%252C%2522element%2522%253A%2522initial%2522%252C%2522action%2522%253A%2522results%2522%257D%252C%2522triggered_on%2522%253A1378805368833%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522macaw-swift%2522%252C%2522woeid%2522%253A1%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522home%2522%252C%2522section%2522%253A%2522home%2522%252C%2522component%2522%253A%2522trends%2522%252C%2522action%2522%253A%2522impression%2522%257D%252C%2522triggered_on%2522%253A1378805368834%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522macaw-swift%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522home%2522%252C%2522section%2522%253A%2522home%2522%252C%2522component%2522%253A%2522gallery%2522%252C%2522element%2522%253A%2522gallery%2522%252C%2522action%2522%253A%2522close%2522%257D%252C%2522triggered_on%2522%253A1378805368921%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522macaw-swift%2522%252C%2522items%2522%253A%255B%257B%2522position%2522%253A0%252C%2522promoted_id%2522%253A%252239a24448b46fd9c%2522%252C%2522id%2522%253A%2522139858167%2522%252C%2522item_type%2522%253A3%252C%2522token%2522%253A%252238%2522%257D%252C%257B%2522position%2522%253A1%252C%2522id%2522%253A%252231080039%2522%252C%2522item_type%2522%253A3%252C%2522token%2522%253A%2522110%2522%257D%252C%257B%2522position%2522%253A2%252C%2522id%2522%253A%252231239408%2522%252C%2522item_type%2522%253A3%252C%2522token%2522%253A%2522117%2522%257D%255D%252C%2522promoted%2522%253Atrue%252C%2522referring_event%2522%253A%2522initial%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522home%2522%252C%2522section%2522%253A%2522home%2522%252C%2522component%2522%253A%2522user_recommendations%2522%252C%2522element%2522%253A%2522initial%2522%252C%2522action%2522%253A%2522results%2522%257D%252C%2522triggered_on%2522%253A1378805369135%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522macaw-swift%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522home%2522%252C%2522section%2522%253A%2522home%2522%252C%2522component%2522%253A%2522user_recommendations%2522%252C%2522action%2522%253A%2522impression%2522%257D%252C%2522triggered_on%2522%253A1378805369135%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522macaw-swift%2522%252C%2522url%2522%253A%2522%252Fi%252Fdiscover%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522home%2522%252C%2522section%2522%253A%2522home%2522%252C%2522component%2522%253A%2522top_bar%2522%252C%2522element%2522%253A%2522discover%2522%252C%2522action%2522%253A%2522navigate%2522%257D%252C%2522triggered_on%2522%253A1378805370499%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522macaw-swift%2522%252C%2522woeid%2522%253A1%252C%2522referring_event%2522%253A%2522initial%2522%252C%2522items%2522%253A%255B%257B%2522name%2522%253A%2522%2523TheNextBigThing%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522%2523TheNextBigThing%2522%252C%2522position%2522%253A0%252C%2522promoted_id%2522%253A16042%257D%252C%257B%2522name%2522%253A%2522%2523ForceBumpMFParachute%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522%2523ForceBumpMFParachute%2522%252C%2522position%2522%253A1%257D%252C%257B%2522name%2522%253A%2522Bound%2B2%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522Bound%2B2%2522%252C%2522position%2522%253A2%257D%252C%257B%2522name%2522%253A%2522%2523nowplaying%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522%2523nowplaying%2522%252C%2522position%2522%253A3%257D%252C%257B%2522name%2522%253A%2522%2523music%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522%2523music%2522%252C%2522position%2522%253A4%257D%252C%257B%2522name%2522%253A%2522Jimmy%2BFallon%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522Jimmy%2BFallon%2522%252C%2522position%2522%253A5%257D%252C%257B%2522name%2522%253A%2522LeSean%2BMcCoy%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522LeSean%2BMcCoy%2522%252C%2522position%2522%253A6%257D%252C%257B%2522name%2522%253A%2522%2523arseniohall%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522%2523arseniohall%2522%252C%2522position%2522%253A7%257D%252C%257B%2522name%2522%253A%2522%2523Eagles%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522%2523Eagles%2522%252C%2522position%2522%253A8%257D%252C%257B%2522name%2522%253A%2522QLD%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522QLD%2522%252C%2522position%2522%253A9%257D%255D%252C%2522promoted%2522%253Atrue%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522discover%2522%252C%2522section%2522%253A%2522discover%2522%252C%2522component%2522%253A%2522trends%2522%252C%2522element%2522%253A%2522initial%2522%252C%2522action%2522%253A%2522results%2522%257D%252C%2522triggered_on%2522%253A1378805371276%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522macaw-swift%2522%252C%2522woeid%2522%253A1%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522discover%2522%252C%2522section%2522%253A%2522discover%2522%252C%2522component%2522%253A%2522trends%2522%252C%2522action%2522%253A%2522impression%2522%257D%252C%2522triggered_on%2522%253A1378805371276%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522macaw-swift%2522%252C%2522items%2522%253A%255B%257B%2522position%2522%253A0%252C%2522promoted_id%2522%253A%252239a28e7d292c2d5%2522%252C%2522id%2522%253A%2522551373363%2522%252C%2522item_type%2522%253A3%252C%2522token%2522%253A%252238%2522%257D%252C%257B%2522position%2522%253A1%252C%2522id%2522%253A%252231239408%2522%252C%2522item_type%2522%253A3%252C%2522token%2522%253A%2522117%2522%257D%252C%257B%2522position%2522%253A2%252C%2522id%2522%253A%252218625669%2522%252C%2522item_type%2522%253A3%252C%2522token%2522%253A%2522110%2522%257D%255D%252C%2522promoted%2522%253Atrue%252C%2522referring_event%2522%253A%2522initial%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522discover%2522%252C%2522section%2522%253A%2522discover%2522%252C%2522component%2522%253A%2522user_recommendations%2522%252C%2522element%2522%253A%2522initial%2522%252C%2522action%2522%253A%2522results%2522%257D%252C%2522triggered_on%2522%253A1378805371446%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522macaw-swift%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522discover%2522%252C%2522section%2522%253A%2522discover%2522%252C%2522component%2522%253A%2522user_recommendations%2522%252C%2522action%2522%253A%2522impression%2522%257D%252C%2522triggered_on%2522%253A1378805371446%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522macaw-swift%2522%252C%2522url%2522%253A%2522%252Fwho_to_follow%252Fimport%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522discover%2522%252C%2522section%2522%253A%2522discover%2522%252C%2522component%2522%253A%2522dashboard_nav%2522%252C%2522element%2522%253A%2522find_friends%2522%252C%2522action%2522%253A%2522navigate%2522%257D%252C%2522triggered_on%2522%253A1378805375868%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%255D%26lang%3Den",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "https://abs.twimg.com/a/1378701295/t1/css/t1_core.bundle.css",
+"details": "GET /a/1378701295/t1/css/t1_core.bundle.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "https://abs.twimg.com/a/1378701295/t1/css/t1_more.bundle.css",
+"details": "GET /a/1378701295/t1/css/t1_more.bundle.css HTTP/1.1",
+"RESPONSE": "200 OK, text/css"
+},
+{
+"REQUEST": "https://si0.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+"details": "GET /sticky/default_profile_images/default_profile_6_normal.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://si0.twimg.com/sticky/default_profile_images/default_profile_6_mini.png",
+"details": "GET /sticky/default_profile_images/default_profile_6_mini.png HTTP/1.1",
+"RESPONSE": "200 OK, image/png"
+},
+{
+"REQUEST": "https://abs.twimg.com/c/swift/en/init.469bdccd4337a7b5d3c07fd63c891a9ca6cbf387.js",
+"details": "GET /c/swift/en/init.469bdccd4337a7b5d3c07fd63c891a9ca6cbf387.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"PAGEUPDATE": 1378805376653
+},
+{
+"REQUEST": "https://abs.twimg.com/c/swift/en/bundle/discover.dbdcf3f381055081929b921bb6e54d1e99fce0cb.js",
+"details": "GET /c/swift/en/bundle/discover.dbdcf3f381055081929b921bb6e54d1e99fce0cb.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "https://abs.twimg.com/c/swift/en/bundle/boot.7bd7a3264e596c482e64fa58333131739ff7778b.js",
+"details": "GET /c/swift/en/bundle/boot.7bd7a3264e596c482e64fa58333131739ff7778b.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "https://abs.twimg.com/c/swift/en/bundle/timeline.69ef5ae6ae0169e07c17ffb896664ed43ba92481.js",
+"details": "GET /c/swift/en/bundle/timeline.69ef5ae6ae0169e07c17ffb896664ed43ba92481.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "https://platform.twitter.com/widgets.js",
+"details": "GET /widgets.js HTTP/1.1",
+"RESPONSE": "200 OK, application/javascript"
+},
+{
+"REQUEST": "https://ssl.google-analytics.com/ga.js",
+"details": "GET /ga.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/who_to_follow/pymk/users?cursor=start&include_available_features=1&include_entities=1&is_forward=true",
+"details": "GET /who_to_follow/pymk/users?cursor=start&include_available_features=1&include_entities=1&is_forward=true HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://ssl.google-analytics.com/__utm.gif?utmwv=5.4.4&utms=4&utmn=632964366&utmhn=twitter.com&utmcs=UTF-8&utmsr=1920x1080&utmvp=1009x813&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=Twitter%20%2F%20Find%20friends&utmhid=31444194&utmr=0&utmp=%2Fuser%2Fdiscover%2Fimport&utmht=1378805376846&utmac=UA-30775-6&utmcc=__utma%3D43838368.365232939.1378805359.1378805359.1378805359.1%3B%2B__utmz%3D43838368.1378805359.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qAC~",
+"details": "GET /__utm.gif?utmwv=5.4.4&utms=4&utmn=632964366&utmhn=twitter.com&utmcs=UTF-8&utmsr=1920x1080&utmvp=1009x813&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=11.8%20r800&utmdt=Twitter%20%2F%20Find%20friends&utmhid=31444194&utmr=0&utmp=%2Fuser%2Fdiscover%2Fimport&utmht=1378805376846&utmac=UA-30775-6&utmcc=__utma%3D43838368.365232939.1378805359.1378805359.1378805359.1%3B%2B__utmz%3D43838368.1378805359.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qAC~ HTTP/1.1",
+"RESPONSE": "200 OK, image/gif"
+}
+]

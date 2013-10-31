@@ -1,0 +1,73 @@
+[
+{
+"PAGEUPDATE": 1376516988999
+},
+{
+"REQUEST": "http://twitter.com/",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, ",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376516995532
+},
+{
+"REQUEST": "https://ssl.google-analytics.com/ga.js",
+"details": "GET /ga.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"PAGEUPDATE": 1376517013195
+},
+{
+"REQUEST": "https://twitter.com/sessions",
+"details": "POST /sessions HTTP/1.1","post_data": "session%255Busername_or_email%255D%3Darktos10%26session%255Bpassword%255D%3Dbear44%26remember_me%3D1%26return_to_ssl%3Dtrue%26scribe_log%3D%26redirect_after_login%3D%252F%26authenticity_token%3D58b33fe95ce0a9cf1bc34849416360ff75f565e2",
+"RESPONSE": "302 Found, text/html",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376517014293
+},
+{
+"REQUEST": "https://twitter.com/i/search/typeahead.json?count=1200&prefetch=true&result_type=users&users_cache_age=-1",
+"details": "GET /i/search/typeahead.json?count=1200&prefetch=true&result_type=users&users_cache_age=-1 HTTP/1.1",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "https://twitter.com/i/search/typeahead.json?count=500&prefetch=true&result_type=topics&topics_cache_age=-1",
+"details": "GET /i/search/typeahead.json?count=500&prefetch=true&result_type=topics&topics_cache_age=-1 HTTP/1.1",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "https://twitter.com/trends?k=3f1e9b3007&pc=true&src=module",
+"details": "GET /trends?k=3f1e9b3007&pc=true&src=module HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://ssl.google-analytics.com/ga.js",
+"details": "GET /ga.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/i/users/recommendations?connections=true&disabled=false&dismissable=true&display_location=wtf-component&excluded=&initialResults=true&limit=3&oldest_unread_id=0&pc=true&scribeContext%5Bcomponent%5D=user_recommendations",
+"details": "GET /i/users/recommendations?connections=true&disabled=false&dismissable=true&display_location=wtf-component&excluded=&initialResults=true&limit=3&oldest_unread_id=0&pc=true&scribeContext%5Bcomponent%5D=user_recommendations HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/i/resolve.json?urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAgpqSGvAm%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAePeRQayk%2F&urls%5B%5D=http%3A%2F%2Fbusiness.instagram.com%2Fblog%2Fpost%2F58260750086%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAarSjiTLU%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAXF5_Qa2t%2F&urls%5B%5D=http%3A%2F%2FSixers.com%2Flive&urls%5B%5D=http%3A%2F%2Fon.nba.com%2F12cDBUj&urls%5B%5D=http%3A%2F%2Fblog.instagram.com%2Fpost%2F58256521145%2Fhearst-castle",
+"details": "GET /i/resolve.json?urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAgpqSGvAm%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAePeRQayk%2F&urls%5B%5D=http%3A%2F%2Fbusiness.instagram.com%2Fblog%2Fpost%2F58260750086%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAarSjiTLU%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAXF5_Qa2t%2F&urls%5B%5D=http%3A%2F%2FSixers.com%2Flive&urls%5B%5D=http%3A%2F%2Fon.nba.com%2F12cDBUj&urls%5B%5D=http%3A%2F%2Fblog.instagram.com%2Fpost%2F58256521145%2Fhearst-castle HTTP/1.1",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "https://twitter.com/i/tweet/create",
+"details": "POST /i/tweet/create HTTP/1.1","post_data": "authenticity_token%3D58b33fe95ce0a9cf1bc34849416360ff75f565e2%26place_id%3D%26status%3DWhat%2Ba%2Bnice%2Bwarm%2Bsunny%2Bday",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/i/timeline?composed_count=1&include_available_features=1&include_entities=1&include_new_items_bar=true&interval=30000&latent_count=0&since_id=367763162264645632",
+"details": "GET /i/timeline?composed_count=1&include_available_features=1&include_entities=1&include_new_items_bar=true&interval=30000&latent_count=0&since_id=367763162264645632 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+}
+]

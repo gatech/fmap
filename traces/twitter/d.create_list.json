@@ -1,0 +1,105 @@
+[
+{
+"PAGEUPDATE": 1376519433375
+},
+{
+"REQUEST": "http://twitter.com/",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "301 Moved Permanently, ",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376519440036
+},
+{
+"REQUEST": "https://ssl.google-analytics.com/ga.js",
+"details": "GET /ga.js HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"PAGEUPDATE": 1376519452016
+},
+{
+"REQUEST": "https://twitter.com/sessions",
+"details": "POST /sessions HTTP/1.1","post_data": "session%255Busername_or_email%255D%3Darktos9%26session%255Bpassword%255D%3Dbear44%26remember_me%3D1%26return_to_ssl%3Dtrue%26scribe_log%3D%26redirect_after_login%3D%252F%26authenticity_token%3Dfbb25038733412b18499054d2cdf314c1a992177",
+"RESPONSE": "302 Found, text/html",
+"details": "GET / HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376519452852
+},
+{
+"REQUEST": "https://twitter.com/i/search/typeahead.json?count=1200&prefetch=true&result_type=users&users_cache_age=-1",
+"details": "GET /i/search/typeahead.json?count=1200&prefetch=true&result_type=users&users_cache_age=-1 HTTP/1.1",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "https://twitter.com/i/search/typeahead.json?count=500&prefetch=true&result_type=topics&topics_cache_age=-1",
+"details": "GET /i/search/typeahead.json?count=500&prefetch=true&result_type=topics&topics_cache_age=-1 HTTP/1.1",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"REQUEST": "https://twitter.com/trends?k=3f1e9b3007&pc=true&src=module",
+"details": "GET /trends?k=3f1e9b3007&pc=true&src=module HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/i/users/recommendations?connections=true&disabled=false&dismissable=true&display_location=wtf-component&excluded=&initialResults=true&limit=3&oldest_unread_id=0&pc=true&scribeContext%5Bcomponent%5D=user_recommendations",
+"details": "GET /i/users/recommendations?connections=true&disabled=false&dismissable=true&display_location=wtf-component&excluded=&initialResults=true&limit=3&oldest_unread_id=0&pc=true&scribeContext%5Bcomponent%5D=user_recommendations HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/i/resolve.json?urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAnE7KSdp-%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAkr5USdmd%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAjb0NydkM%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAg1Ufydv8%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAazGfydlz%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAYQOEhM9n%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAVlNiydsj%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAWKuxBM5h%2F&urls%5B%5D=http%3A%2F%2Fwww.myfoxchicago.com%2Fstory%2F23133677%2Fjennifer-hudson-in-chicago-to-hand-out-school-supplies-at-hatch-day&urls%5B%5D=http%3A%2F%2Fprizeo.com%2FAliciavww&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAOtqzydg4%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fjdkgf&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2Fc_wRZ0hM9Z%2F",
+"details": "GET /i/resolve.json?urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAnE7KSdp-%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAkr5USdmd%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAjb0NydkM%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAg1Ufydv8%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAazGfydlz%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAYQOEhM9n%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAVlNiydsj%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAWKuxBM5h%2F&urls%5B%5D=http%3A%2F%2Fwww.myfoxchicago.com%2Fstory%2F23133677%2Fjennifer-hudson-in-chicago-to-hand-out-school-supplies-at-hatch-day&urls%5B%5D=http%3A%2F%2Fprizeo.com%2FAliciavww&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2FdAOtqzydg4%2F&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fjdkgf&urls%5B%5D=http%3A%2F%2Finstagram.com%2Fp%2Fc_wRZ0hM9Z%2F HTTP/1.1",
+"RESPONSE": "200 OK, application/json"
+},
+{
+"PAGEUPDATE": 1376519460538
+},
+{
+"REQUEST": "https://twitter.com/Arktos9/lists",
+"details": "GET /Arktos9/lists HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376519461152
+},
+{
+"REQUEST": "https://twitter.com/trends?k=a0fa823649&pc=true&src=module",
+"details": "GET /trends?k=a0fa823649&pc=true&src=module HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/i/profiles/show/Arktos9/media_timeline?oldest_unread_id=0",
+"details": "GET /i/profiles/show/Arktos9/media_timeline?oldest_unread_id=0 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/i/users/recommendations?connections=true&dismissable=true&display_location=profile-sidebar&excluded=&initialResults=true&limit=3&oldest_unread_id=0&pc=true&scribeContext%5Bcomponent%5D=user_recommendations&similar_to_user_id=1669846562",
+"details": "GET /i/users/recommendations?connections=true&dismissable=true&display_location=profile-sidebar&excluded=&initialResults=true&limit=3&oldest_unread_id=0&pc=true&scribeContext%5Bcomponent%5D=user_recommendations&similar_to_user_id=1669846562 HTTP/1.1",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"REQUEST": "https://twitter.com/i/lists/create",
+"details": "POST /i/lists/create HTTP/1.1","post_data": "authenticity_token%3Dfbb25038733412b18499054d2cdf314c1a992177%26description%3DMy%2BFriends%26mode%3Dpublic%26name%3Dfriends",
+"RESPONSE": "200 OK, text/javascript"
+},
+{
+"PAGEUPDATE": 1376519475586
+},
+{
+"REQUEST": "https://twitter.com/Arktos9/lists/friends",
+"details": "GET /Arktos9/lists/friends HTTP/1.1",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"REQUEST": "https://twitter.com/i/jot",
+"details": "POST /i/jot HTTP/1.1","post_data": "log%3D%255B%257B%2522internal_referer%2522%253Anull%252C%2522client_version%2522%253A%2522swift%2522%252C%2522user_id%2522%253A0%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522front%2522%252C%2522section%2522%253A%2522front%2522%252C%2522component%2522%253A%2522login_callout%2522%252C%2522element%2522%253A%2522form%2522%252C%2522action%2522%253A%2522login_click%2522%257D%252C%2522triggered_on%2522%253A1376519452004%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522macaw-swift%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522home%2522%252C%2522section%2522%253A%2522home%2522%252C%2522component%2522%253A%2522gallery%2522%252C%2522element%2522%253A%2522gallery%2522%252C%2522action%2522%253A%2522close%2522%257D%252C%2522triggered_on%2522%253A1376519453464%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522macaw-swift%2522%252C%2522woeid%2522%253A1%252C%2522referring_event%2522%253A%2522initial%2522%252C%2522items%2522%253A%255B%257B%2522name%2522%253A%2522%2523DontTouchBestSongEver%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522%2523DontTouchBestSongEver%2522%252C%2522position%2522%253A0%257D%252C%257B%2522name%2522%253A%2522%2523sadgooglesearches%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522%2523sadgooglesearches%2522%252C%2522position%2522%253A1%257D%252C%257B%2522name%2522%253A%2522%2523TralfieIsLive%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522%2523TralfieIsLive%2522%252C%2522position%2522%253A2%257D%252C%257B%2522name%2522%253A%2522%2523FrasesQueNuncaDebieronExistir%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522%2523FrasesQueNuncaDebieronExistir%2522%252C%2522position%2522%253A3%257D%252C%257B%2522name%2522%253A%2522%2523ApplauseLyricVideo%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522%2523ApplauseLyricVideo%2522%252C%2522position%2522%253A4%257D%252C%257B%2522name%2522%253A%2522Good%2BLuck%2BE3%2BAnd%2BSelena%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522Good%2BLuck%2BE3%2BAnd%2BSelena%2522%252C%2522position%2522%253A5%257D%252C%257B%2522name%2522%253A%2522Wolfsburg%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522Wolfsburg%2522%252C%2522position%2522%253A6%257D%252C%257B%2522name%2522%253A%2522Official%2BLyric%2BVideo%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522Official%2BLyric%2BVideo%2522%252C%2522position%2522%253A7%257D%252C%257B%2522name%2522%253A%2522The%2BWho%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522The%2BWho%2522%252C%2522position%2522%253A8%257D%252C%257B%2522name%2522%253A%2522Ant%25C3%25A1rtida%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522Ant%25C3%25A1rtida%2522%252C%2522position%2522%253A9%257D%255D%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522home%2522%252C%2522section%2522%253A%2522home%2522%252C%2522component%2522%253A%2522trends%2522%252C%2522element%2522%253A%2522initial%2522%252C%2522action%2522%253A%2522results%2522%257D%252C%2522triggered_on%2522%253A1376519453497%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522macaw-swift%2522%252C%2522woeid%2522%253A1%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522home%2522%252C%2522section%2522%253A%2522home%2522%252C%2522component%2522%253A%2522trends%2522%252C%2522action%2522%253A%2522impression%2522%257D%252C%2522triggered_on%2522%253A1376519453497%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522macaw-swift%2522%252C%2522items%2522%253A%255B%257B%2522position%2522%253A0%252C%2522id%2522%253A%252253153263%2522%252C%2522item_type%2522%253A3%252C%2522token%2522%253A%252240%2522%257D%252C%257B%2522position%2522%253A1%252C%2522id%2522%253A%252219397785%2522%252C%2522item_type%2522%253A3%252C%2522token%2522%253A%252242%2522%257D%252C%257B%2522position%2522%253A2%252C%2522id%2522%253A%252216409683%2522%252C%2522item_type%2522%253A3%252C%2522token%2522%253A%252242%2522%257D%255D%252C%2522referring_event%2522%253A%2522initial%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522home%2522%252C%2522section%2522%253A%2522home%2522%252C%2522component%2522%253A%2522user_recommendations%2522%252C%2522element%2522%253A%2522initial%2522%252C%2522action%2522%253A%2522results%2522%257D%252C%2522triggered_on%2522%253A1376519453654%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522macaw-swift%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522home%2522%252C%2522section%2522%253A%2522home%2522%252C%2522component%2522%253A%2522user_recommendations%2522%252C%2522action%2522%253A%2522impression%2522%257D%252C%2522triggered_on%2522%253A1376519453654%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522macaw-swift%2522%252C%2522url%2522%253A%2522%252FArktos9%252Flists%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522home%2522%252C%2522section%2522%253A%2522home%2522%252C%2522component%2522%253A%2522top_bar%2522%252C%2522element%2522%253A%2522all_lists%2522%252C%2522action%2522%253A%2522navigate%2522%257D%252C%2522triggered_on%2522%253A1376519460527%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522swift%2522%252C%2522profile_id%2522%253A1669846562%252C%2522item_count%2522%253A0%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522me%2522%252C%2522section%2522%253A%2522all_lists%2522%252C%2522component%2522%253A%2522dashboard_media%2522%252C%2522action%2522%253A%2522no_results%2522%257D%252C%2522triggered_on%2522%253A1376519461718%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522swift%2522%252C%2522profile_id%2522%253A1669846562%252C%2522woeid%2522%253A1%252C%2522referring_event%2522%253A%2522initial%2522%252C%2522items%2522%253A%255B%257B%2522name%2522%253A%2522%2523DontTouchBestSongEver%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522%2523DontTouchBestSongEver%2522%252C%2522position%2522%253A0%257D%252C%257B%2522name%2522%253A%2522%2523sadgooglesearches%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522%2523sadgooglesearches%2522%252C%2522position%2522%253A1%257D%252C%257B%2522name%2522%253A%2522%25238YearsDurchDenMonsun%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522%25238YearsDurchDenMonsun%2522%252C%2522position%2522%253A2%257D%252C%257B%2522name%2522%253A%2522%2523ApplauseLyricVideo%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522%2523ApplauseLyricVideo%2522%252C%2522position%2522%253A3%257D%252C%257B%2522name%2522%253A%2522%252313GrandesMentiras%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522%252313GrandesMentiras%2522%252C%2522position%2522%253A4%257D%252C%257B%2522name%2522%253A%2522106%2B%2526%2BPark%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522106%2B%2526%2BPark%2522%252C%2522position%2522%253A5%257D%252C%257B%2522name%2522%253A%2522Wolfsburg%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522Wolfsburg%2522%252C%2522position%2522%253A6%257D%252C%257B%2522name%2522%253A%2522Tom%2BBrady%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522Tom%2BBrady%2522%252C%2522position%2522%253A7%257D%252C%257B%2522name%2522%253A%2522The%2BWho%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522The%2BWho%2522%252C%2522position%2522%253A8%257D%252C%257B%2522name%2522%253A%2522Official%2BLyric%2BVideo%2522%252C%2522item_type%2522%253A8%252C%2522item_query%2522%253A%2522Official%2BLyric%2BVideo%2522%252C%2522position%2522%253A9%257D%255D%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522me%2522%252C%2522section%2522%253A%2522all_lists%2522%252C%2522component%2522%253A%2522trends%2522%252C%2522element%2522%253A%2522initial%2522%252C%2522action%2522%253A%2522results%2522%257D%252C%2522triggered_on%2522%253A1376519461760%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522swift%2522%252C%2522profile_id%2522%253A1669846562%252C%2522woeid%2522%253A1%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522me%2522%252C%2522section%2522%253A%2522all_lists%2522%252C%2522component%2522%253A%2522trends%2522%252C%2522action%2522%253A%2522impression%2522%257D%252C%2522triggered_on%2522%253A1376519461760%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522swift%2522%252C%2522profile_id%2522%253A1669846562%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522me%2522%252C%2522section%2522%253A%2522all_lists%2522%252C%2522component%2522%253A%2522gallery%2522%252C%2522element%2522%253A%2522gallery%2522%252C%2522action%2522%253A%2522close%2522%257D%252C%2522triggered_on%2522%253A1376519461860%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522swift%2522%252C%2522profile_id%2522%253A1669846562%252C%2522items%2522%253A%255B%257B%2522position%2522%253A0%252C%2522id%2522%253A%2522268439864%2522%252C%2522item_type%2522%253A3%252C%2522token%2522%253A%2522117%2522%257D%252C%257B%2522position%2522%253A1%252C%2522id%2522%253A%252221111883%2522%252C%2522item_type%2522%253A3%252C%2522token%2522%253A%252240%2522%257D%252C%257B%2522position%2522%253A2%252C%2522id%2522%253A%2522184910040%2522%252C%2522item_type%2522%253A3%252C%2522token%2522%253A%2522117%2522%257D%255D%252C%2522referring_event%2522%253A%2522initial%2522%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522me%2522%252C%2522section%2522%253A%2522all_lists%2522%252C%2522component%2522%253A%2522user_recommendations%2522%252C%2522element%2522%253A%2522initial%2522%252C%2522action%2522%253A%2522results%2522%257D%252C%2522triggered_on%2522%253A1376519461978%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%252C%257B%2522internal_referer%2522%253A%2522%252F%2522%252C%2522client_version%2522%253A%2522swift%2522%252C%2522profile_id%2522%253A1669846562%252C%2522event_namespace%2522%253A%257B%2522client%2522%253A%2522web%2522%252C%2522page%2522%253A%2522me%2522%252C%2522section%2522%253A%2522all_lists%2522%252C%2522component%2522%253A%2522user_recommendations%2522%252C%2522action%2522%253A%2522impression%2522%257D%252C%2522triggered_on%2522%253A1376519461978%252C%2522format_version%2522%253A2%252C%2522_category_%2522%253A%2522client_event%2522%257D%255D%26lang%3Den",
+"RESPONSE": "200 OK, text/html"
+},
+{
+"PAGEUPDATE": 1376519476151
+}
+]
