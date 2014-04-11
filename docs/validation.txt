@@ -1,0 +1,130 @@
+==========
+WORDPRESS:
+==========
+
+Mobile pack website: http://wordpress.org/support/plugin/wordpress-mobile-pack
+
+From Wordpress Mobile pack issue list:
+
+Menu links missing:
+http://wordpress.org/support/topic/menu-issues-7
+
+Cannot create certain kinds of post on mobile:
+http://wordpress.org/support/topic/using-custom-post-types
+http://wordpress.org/support/topic/authors-unable-to-post-mobile
+http://wordpress.org/support/topic/i-can-not-create-a-new-post-in-view-admin-mobile
+
+Can't see certain kinds of posts:
+http://wordpress.org/support/topic/blog-posts-not-loading
+
+Frustrated users asking whether the support issues will be fixed.
+http://wordpress.org/support/topic/any-updates-due
+http://wordpress.org/support/topic/questions-and-concerns-has-no-answers-anymore
+
+Probably related:
+http://wordpress.org/support/topic/add-to-cart-button-missing
+
+Media settings:
+http://wordpress.org/support/topic/plugin-wordpress-mobile-pack-media-settings-not-working
+
+Author access to mobile admin:
+http://wordpress.org/support/topic/plugin-wordpress-mobile-pack-allow-author-access-to-mobile-admin
+
+Admin pages broken:
+http://wordpress.org/support/topic/wordpress-mobile-pack-broken-for-admin-pages
+http://wordpress.org/support/topic/plugin-wordpress-mobile-pack-admin-section-not-working
+
+Settings permissions:
+http://wordpress.org/support/topic/plugin-wordpress-mobile-pack-mobile-pack-plugins-errors-you-do-not-have-sufficient-permissions-to-access
+
+Plugins do not work:
+http://wordpress.org/support/topic/when-published-my-site-the-plugin-not-work-more
+
+Search bar:
+http://wordpress.org/support/topic/search-box-12
+http://wordpress.org/support/topic/plugin-wordpress-mobile-pack-how-do-i-enable-search-form
+
+Others:
+http://wordpress.org/support/topic/two-problems-13
+http://wordpress.org/support/topic/top-of-blog-post-does-not-show
+
+
+Admins on mobile - disable broken feature:
+http://wordpress.org/support/topic/plugin-wordpress-mobile-pack-disabling-mobile-version-for-admins
+
+Broken links:
+http://wordpress.org/support/topic/plugin-wordpress-mobile-pack-switcher-issue-breaks-links
+
+
+
+==========
+GALLERY:
+==========
+
+Request to add Add-photo feature:
+http://galleryproject.org/node/101768#comment-373508
+
+Comment feature not present on mobile:
+http://galleryproject.org/node/101768#comment-374438
+
+Comment, Share picture, add plugin, add photo, change settings under mobile:
+http://galleryproject.org/node/101768#comment-375180
+http://galleryproject.org/node/101768#comment-375192
+
+
+Justification from author: http://galleryproject.org/node/101768#comment-375208
+"When I started to work in this theme, my intention was to basically allow to browse
+my gallery on mobile devices. I did not intent to implement all features, as I don't
+want to maintain, upload, etc my gallery form a mobile device. I still have a "proper"
+pc where I can do those tasks."
+
+
+Tag Search feature (Not relevant):
+http://galleryproject.org/node/101768?page=1#comment-378167
+
+
+How to reconfigure (admin)?
+http://galleryproject.org/node/101768?page=1#comment-380159
+
+Advanced options:
+http://galleryproject.org/node/101768?page=2#comment-380667
+
+Interesting comment - What is the login for if it is view only :)
+http://galleryproject.org/node/101768?page=2#comment-382456
+
+Mobile uploading:
+http://galleryproject.org/node/101768?page=3#comment-383991
+
+
+
+===========================================================================
+WIKIPEDIA
+===========================================================================
+
+https://blog.wikimedia.org/2013/05/29/wikipedia-nearby-beta/
+The nearby feature was development by the mobile team of wikipedia
+and is designed for the mobile web. The developer suggests that
+desktop users can the mobile version of the URL from their desktop
+browsers to access the mobile specific feature.
+
+
+
+===========================================================================
+STACKOVERFLOW
+===========================================================================
+
+Missing mobile features/links
+http://meta.stackoverflow.com/questions/172157/features-missing-in-mobile-view
+
+Flag option missing
+http://meta.stackoverflow.com/questions/208670/why-is-mobile-version-of-the-site-missing-flag-comment-functionality
+http://meta.stackoverflow.com/questions/208590/mobile-site-comment-notice-inconsistent-with-desktop-site
+
+
+
+===========================================================================
+TWITTER
+===========================================================================
+
+Twitter added 3 URLs in their latest version to make the 3 missing features
+available to their mobile web application
