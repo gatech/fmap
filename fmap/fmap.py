@@ -86,7 +86,7 @@ USAGE
         parser = ArgumentParser(description=program_license, formatter_class=RawDescriptionHelpFormatter)
         parser.add_argument(dest="subjects", help="ALL or (space separated) names of subjects from [%s]"%(subj_names[:-2]), metavar="subject", nargs="+")
         parser.add_argument("-b", "--baseline", dest="baseline", help="use the URL based baseline technique for clustering [default=%(default)s]", action="count", default=False)
-        parser.add_argument("-p", "--print-cluster", dest="print_cluster", help="print intermediate clustering details [default=%(default)s]", action="count", default=False)
+        #parser.add_argument("-p", "--print-cluster", dest="print_cluster", help="print intermediate clustering details [default=%(default)s]", action="count", default=False)
         parser.add_argument("-o", "--outdir", dest="outdir", help="Output directory [default=%(default)s]", action="count", default='./output')
 
         parser.add_argument("-v", "--verbose", dest="verbose", action="count", help="set verbosity level")

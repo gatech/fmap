@@ -189,7 +189,7 @@ def MatchTraces(d, m):
 
     mapping = {}
 
-    print "*"*120, "\n  MATCH DETAILS\n", "*"*120
+    print "%"*120, "\n\t START RQ2: (MATCH DETAILS) \n", "%"*120
 
     for row, column in indexes:
         value = data[row][column]
@@ -199,6 +199,8 @@ def MatchTraces(d, m):
             mf = ",".join(mFeatures[column])
             print '[%d,%d] (%s <-> %s) -> %f' % (row, column, df, mf, value)
             mapping[row] = column
+
+    print "%"*120, "\n\t END RQ2: \n", "%"*120
 
     print "#"*120, "\n  LOAD STATS\n", "#"*120
     d.printLoadStats()

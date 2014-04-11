@@ -270,7 +270,7 @@ class ActionRecognizer():
 
 
         # EVALUATION (RQ - step 1 effectiveness)
-        print "%"*100, "\n\t START RQ1: \n", "%"*100
+        print "%"*120, "\n\t START RQ1: (Action Recognition through Clustering) \n", "%"*120
 #         print "Desktop URLs"
 #         self.printOrderedReq(d.allReq)
 #         print "-"*80
@@ -283,7 +283,7 @@ class ActionRecognizer():
         print "Mobile Clusters"
         self.printClusterLabels(m)
 
-        print "%"*100, "\n\t END RQ1: \n", "%"*100
+        print "%"*120, "\n\t END RQ1: \n", "%"*120
 
 
 
